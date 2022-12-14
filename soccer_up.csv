@@ -1,0 +1,2089 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,Continent,neutral,Winner
+1/24/1998,United States,Sweden,1,0,Friendly,Orlando,United States,,FALSE,-1
+1/27/1998,Egypt,South Korea,0,2,King's Cup,Bangkok,Thailand,,TRUE,2
+1/28/1998,France,Spain,1,0,Friendly,Saint-Denis,France,,FALSE,-1
+1/31/1998,Egypt,South Korea,1,1,King's Cup,Bangkok,Thailand,,TRUE,0
+1/31/1998,Iran,Chile,1,1,Lunar New Year Cup,So Kon Po,Hong Kong,,TRUE,0
+2/7/1998,Australia,Chile,0,1,Friendly,Melbourne,Australia,,FALSE,1
+2/7/1998,United States,Costa Rica,2,1,Gold Cup,Oakland,United States,,FALSE,-1
+2/8/1998,Paraguay,Poland,4,0,Friendly,Asunción,Paraguay,,FALSE,-4
+2/10/1998,United States,Brazil,1,0,Gold Cup,Los Angeles,United States,,FALSE,-1
+2/11/1998,Australia,South Korea,1,0,Friendly,Sydney,Australia,,FALSE,-1
+2/11/1998,England,Chile,0,2,Friendly,London,England,,FALSE,2
+2/15/1998,Australia,Japan,0,3,Friendly,Adelaide,Australia,,FALSE,3
+2/15/1998,United States,Mexico,0,1,Gold Cup,Los Angeles,United States,,FALSE,1
+2/17/1998,Egypt,Morocco,0,1,African Cup of Nations,Ouagadougou,Burkina Faso,,TRUE,1
+2/18/1998,Greece,Russia,1,1,Friendly,Athens,Greece,,FALSE,0
+2/21/1998,United States,Netherlands,0,2,Friendly,Miami Gardens,United States,,FALSE,2
+2/24/1998,Mexico,Netherlands,2,3,Friendly,Miami Gardens,United States,,TRUE,1
+2/25/1998,Belgium,United States,2,0,Friendly,Brussels,Belgium,,FALSE,-2
+3/1/1998,Japan,South Korea,2,1,Dynasty Cup,Yokohama,Japan,,FALSE,-1
+3/25/1998,Germany,Brazil,1,2,Friendly,Stuttgart,Germany,,FALSE,1
+3/25/1998,Spain,Sweden,4,0,Friendly,Vigo,Spain,,FALSE,-4
+3/25/1998,Switzerland,England,1,1,Friendly,Berne,Switzerland,,FALSE,0
+4/1/1998,South Korea,Japan,2,1,Friendly,Seoul,South Korea,,FALSE,-1
+4/22/1998,Austria,United States,0,3,Friendly,Vienna,Austria,,FALSE,3
+4/22/1998,Chile,Colombia,2,2,Friendly,Santiago,Chile,,FALSE,0
+4/22/1998,Croatia,Poland,4,1,Friendly,Osijek,Croatia,,FALSE,-3
+4/22/1998,England,Portugal,3,0,Friendly,London,England,,FALSE,-3
+4/22/1998,Sweden,France,0,0,Friendly,Solna,Sweden,,FALSE,0
+4/29/1998,Brazil,Argentina,0,1,Friendly,Rio de Janeiro,Brazil,,FALSE,1
+5/19/1998,Argentina,Chile,1,0,Friendly,Mendoza,Argentina,South America,FALSE,-1
+5/24/1998,Chile,Uruguay,2,2,Friendly,Santiago,Chile,,FALSE,0
+5/27/1998,Belgium,France,0,1,King Hassan II Tournament,Casablanca,Morocco,,TRUE,1
+5/27/1998,Morocco,England,0,1,King Hassan II Tournament,Casablanca,Morocco,,FALSE,1
+5/27/1998,Netherlands,Cameroon,0,0,Friendly,Arnhem,Netherlands,,FALSE,0
+5/27/1998,Poland,Russia,3,1,Friendly,Chorzów,Poland,,FALSE,-2
+5/29/1998,Belgium,England,0,0,King Hassan II Tournament,Casablanca,Morocco,,TRUE,0
+5/29/1998,Morocco,France,2,2,King Hassan II Tournament,Casablanca,Morocco,,FALSE,0
+5/30/1998,Germany,Colombia,3,1,Friendly,Frankfurt am Main,Germany,,FALSE,-2
+5/31/1998,Japan,Mexico,1,2,Friendly,Lausanne,Switzerland,,TRUE,1
+6/2/1998,Austria,Liechtenstein,6,0,Friendly,Vienna,Austria,,FALSE,-6
+6/2/1998,Sweden,Italy,1,0,Friendly,Gothenburg,Sweden,,FALSE,-1
+6/3/1998,Belgium,Colombia,2,0,Friendly,Brussels,Belgium,,FALSE,-2
+6/3/1998,Croatia,Iran,2,0,Friendly,Rijeka,Croatia,,FALSE,-2
+6/4/1998,Chile,Morocco,1,1,Friendly,Avignon,France,,TRUE,0
+6/6/1998,Croatia,Australia,7,0,Friendly,Zagreb,Croatia,,FALSE,-7
+6/11/1998,Cameroon,Austria,1,1,FIFA World Cup,Toulouse,France,Europe,TRUE,0
+6/11/1998,Italy,Chile,2,2,FIFA World Cup,Bordeaux,France,Europe,TRUE,0
+6/13/1998,South Korea,Mexico,1,3,FIFA World Cup,Lyon,France,Europe,TRUE,2
+6/13/1998,Netherlands,Belgium,0,0,FIFA World Cup,Saint-Denis,France,Europe,TRUE,0
+6/14/1998,Argentina,Japan,1,0,FIFA World Cup,Toulouse,France,Europe,TRUE,-1
+6/15/1998,Germany,United States,2,0,FIFA World Cup,Paris,France,Europe,TRUE,-2
+6/16/1998,Brazil,Morocco,3,0,FIFA World Cup,Nantes,France,Europe,TRUE,-3
+6/17/1998,Chile,Austria,1,1,FIFA World Cup,Saint-Étienne,France,Europe,TRUE,0
+6/17/1998,Italy,Cameroon,3,0,FIFA World Cup,Montpellier,France,Europe,TRUE,-3
+6/20/1998,Belgium,Mexico,2,2,FIFA World Cup,Bordeaux,France,Europe,TRUE,0
+6/20/1998,Japan,Croatia,0,1,FIFA World Cup,Nantes,France,Europe,TRUE,1
+6/20/1998,Netherlands,South Korea,5,0,FIFA World Cup,Marseille,France,Europe,TRUE,-5
+6/21/1998,United States,Iran,1,2,FIFA World Cup,Lyon,France,Europe,TRUE,1
+6/23/1998,Chile,Cameroon,1,1,FIFA World Cup,Nantes,France,Europe,TRUE,0
+6/23/1998,Italy,Austria,2,1,FIFA World Cup,Saint-Denis,France,Europe,TRUE,-1
+6/25/1998,Belgium,South Korea,1,1,FIFA World Cup,Paris,France,Europe,TRUE,0
+6/25/1998,Germany,Iran,2,0,FIFA World Cup,Montpellier,France,Europe,TRUE,-2
+6/25/1998,Netherlands,Mexico,2,2,FIFA World Cup,Saint-Étienne,France,Europe,TRUE,0
+6/26/1998,Argentina,Croatia,1,0,FIFA World Cup,Bordeaux,France,Europe,TRUE,-1
+6/26/1998,Colombia,England,0,2,FIFA World Cup,Lens,France,Europe,TRUE,2
+6/27/1998,Brazil,Chile,4,1,FIFA World Cup,Paris,France,Europe,TRUE,-3
+6/29/1998,Germany,Mexico,2,1,FIFA World Cup,Montpellier,France,Europe,TRUE,-1
+6/30/1998,Argentina,England,2,2,FIFA World Cup,Saint-Étienne,France,Europe,TRUE,0
+7/3/1998,France,Italy,0,0,FIFA World Cup,Saint-Denis,France,Europe,FALSE,0
+7/4/1998,Germany,Croatia,0,3,FIFA World Cup,Lyon,France,Europe,TRUE,3
+7/4/1998,Netherlands,Argentina,2,1,FIFA World Cup,Marseille,France,Europe,TRUE,-1
+7/7/1998,Brazil,Netherlands,1,1,FIFA World Cup,Marseille,France,Europe,TRUE,0
+7/8/1998,France,Croatia,2,1,FIFA World Cup,Saint-Denis,France,Europe,FALSE,-1
+7/11/1998,Netherlands,Croatia,1,2,FIFA World Cup,Paris,France,Europe,TRUE,1
+7/12/1998,France,Brazil,3,0,FIFA World Cup,Saint-Denis,France,Europe,FALSE,-3
+8/19/1998,Austria,France,2,2,Friendly,Vienna,Austria,,FALSE,0
+8/19/1998,Sweden,Russia,1,0,Friendly,Örebro,Sweden,,FALSE,-1
+9/2/1998,Morocco,Senegal,2,0,Friendly,Tangier,Morocco,,FALSE,-2
+9/5/1998,Sweden,England,2,1,UEFA Euro qualification,Solna,Sweden,,FALSE,-1
+9/6/1998,Hungary,Portugal,1,3,UEFA Euro qualification,Budapest,Hungary,,FALSE,2
+9/23/1998,Spain,Russia,1,0,Friendly,Granada,Spain,,FALSE,-1
+10/10/1998,Italy,Switzerland,2,0,UEFA Euro qualification,Udine,Italy,,FALSE,-2
+10/14/1998,Brazil,Ecuador,5,1,Friendly,Washington,United States,,TRUE,-4
+11/6/1998,United States,Australia,0,0,Friendly,San Jose,United States,,FALSE,0
+11/18/1998,Brazil,Russia,5,1,Friendly,Fortaleza,Brazil,,FALSE,-4
+11/18/1998,Germany,Netherlands,1,1,Friendly,Gelsenkirchen,Germany,,FALSE,0
+11/18/1998,Hungary,Switzerland,2,0,Friendly,Budapest,Hungary,,FALSE,-2
+11/18/1998,Italy,Spain,2,2,Friendly,Salerno,Italy,,FALSE,0
+1/20/1999,France,Morocco,1,0,Friendly,Marseille,France,,FALSE,-1
+1/28/1999,Costa Rica,Ecuador,0,0,Friendly,Alajuela,Costa Rica,,FALSE,0
+2/5/1999,Greece,Belgium,1,0,Cyprus International Tournament,Larnaca,Cyprus,,TRUE,-1
+2/6/1999,United States,Germany,3,0,Friendly,Jacksonville,United States,,FALSE,-3
+2/9/1999,Colombia,Germany,3,3,Friendly,Miami,United States,,TRUE,0
+2/10/1999,England,France,0,2,Friendly,London,England,,FALSE,2
+2/10/1999,Mexico,Argentina,0,1,Friendly,Los Angeles,United States,,TRUE,1
+2/10/1999,Portugal,Netherlands,0,0,Friendly,Paris,France,,TRUE,0
+2/19/1999,Egypt,Mexico,0,3,Lunar New Year Cup,So Kon Po,Hong Kong,,TRUE,3
+2/21/1999,United States,Chile,2,1,Friendly,Fort Lauderdale,United States,,FALSE,-1
+3/10/1999,Greece,Croatia,3,2,Friendly,Athens,Greece,,FALSE,-1
+3/10/1999,Switzerland,Austria,2,4,Friendly,St. Gallen,Switzerland,,FALSE,2
+3/13/1999,United States,Mexico,1,2,USA Cup,San Diego,United States,,FALSE,1
+3/27/1999,England,Poland,3,1,UEFA Euro qualification,London,England,,FALSE,-2
+3/27/1999,France,Ukraine,0,0,UEFA Euro qualification,Saint-Denis,France,,FALSE,0
+3/27/1999,Hungary,Liechtenstein,5,0,UEFA Euro qualification,Budapest,Hungary,,FALSE,-5
+3/27/1999,Spain,Austria,9,0,UEFA Euro qualification,Valencia,Spain,,FALSE,-9
+3/28/1999,South Korea,Brazil,1,0,Friendly,Seoul,South Korea,,FALSE,-1
+3/31/1999,Japan,Brazil,0,2,Friendly,Tokyo,Japan,,FALSE,2
+3/31/1999,Netherlands,Argentina,1,1,Friendly,Amsterdam,Netherlands,,FALSE,0
+3/31/1999,Poland,Sweden,0,1,UEFA Euro qualification,Chorzów,Poland,,FALSE,1
+4/14/1999,Mexico,Ecuador,0,0,Friendly,Monterrey,Mexico,,FALSE,0
+4/22/1999,Paraguay,Colombia,0,2,Friendly,Luque,Paraguay,,FALSE,2
+4/28/1999,Austria,San Marino,7,0,UEFA Euro qualification,Graz,Austria,,FALSE,-7
+4/28/1999,Croatia,Italy,0,0,Friendly,Zagreb,Croatia,,FALSE,0
+4/28/1999,Greece,Switzerland,1,1,Friendly,Athens,Greece,,FALSE,0
+4/28/1999,Hungary,England,1,1,Friendly,Budapest,Hungary,,FALSE,0
+4/28/1999,Netherlands,Morocco,1,2,Friendly,Arnhem,Netherlands,,FALSE,1
+4/28/1999,Paraguay,Mexico,2,1,Friendly,Pedro Juan Caballero,Paraguay,,FALSE,-1
+5/5/1999,Spain,Croatia,3,1,Friendly,Seville,Spain,,FALSE,-2
+5/29/1999,Chile,Costa Rica,3,0,Friendly,Concepción,Chile,,FALSE,-3
+6/2/1999,Ecuador,Iran,1,1,Friendly,Edmonton,Canada,,TRUE,0
+6/3/1999,Japan,Belgium,0,0,Kirin Cup,Tokyo,Japan,,FALSE,0
+6/5/1999,Brazil,Netherlands,2,2,Friendly,Salvador,Brazil,,FALSE,0
+6/5/1999,England,Sweden,0,0,UEFA Euro qualification,London,England,,FALSE,0
+6/5/1999,France,Russia,2,3,UEFA Euro qualification,Saint-Denis,France,,FALSE,1
+6/5/1999,South Korea,Belgium,1,2,Friendly,Seoul,South Korea,,FALSE,1
+6/8/1999,Brazil,Netherlands,3,1,Friendly,Goiânia,Brazil,,FALSE,-2
+6/9/1999,Mexico,Argentina,2,2,Friendly,Chicago,United States,,TRUE,0
+6/9/1999,Switzerland,Italy,0,0,UEFA Euro qualification,Lausanne,Switzerland,,FALSE,0
+6/12/1999,South Korea,Mexico,1,1,Korea Cup,Seoul,South Korea,,FALSE,0
+6/13/1999,United States,Argentina,1,0,Friendly,Washington,United States,,FALSE,-1
+6/16/1999,Brazil,Poland,2,0,Friendly,Bangkok,Thailand,,TRUE,-2
+6/16/1999,Croatia,Mexico,2,1,Korea Cup,Seoul,South Korea,,TRUE,-1
+6/17/1999,Paraguay,Uruguay,2,3,Friendly,Ciudad del Este,Paraguay,,FALSE,1
+6/18/1999,Egypt,Mexico,0,2,Korea Cup,Seoul,South Korea,,TRUE,2
+6/19/1999,South Korea,Croatia,1,1,Korea Cup,Seoul,South Korea,,FALSE,0
+6/24/1999,Paraguay,Colombia,2,1,Friendly,Asunción,Paraguay,,FALSE,-1
+6/30/1999,Chile,Mexico,0,1,Copa América,Ciudad del Este,Paraguay,,TRUE,1
+7/1/1999,Argentina,Ecuador,3,1,Copa América,Luque,Paraguay,,TRUE,-2
+7/1/1999,Uruguay,Colombia,0,1,Copa América,Asunción,Paraguay,,TRUE,1
+7/2/1999,Paraguay,Japan,4,0,Copa América,Asunción,Paraguay,,FALSE,-4
+7/3/1999,Brazil,Mexico,2,1,Copa América,Ciudad del Este,Paraguay,,TRUE,-1
+7/4/1999,Argentina,Colombia,0,3,Copa América,Luque,Paraguay,,TRUE,3
+7/4/1999,Uruguay,Ecuador,2,1,Copa América,Luque,Paraguay,,TRUE,-1
+7/6/1999,Brazil,Chile,1,0,Copa América,Ciudad del Este,Paraguay,,TRUE,-1
+7/7/1999,Colombia,Ecuador,2,1,Copa América,Luque,Paraguay,,TRUE,-1
+7/7/1999,Uruguay,Argentina,0,2,Copa América,Luque,Paraguay,,TRUE,2
+7/10/1999,Paraguay,Uruguay,1,1,Copa América,Asunción,Paraguay,,FALSE,0
+7/11/1999,Brazil,Argentina,2,1,Copa América,Ciudad del Este,Paraguay,,TRUE,-1
+7/11/1999,Chile,Colombia,3,2,Copa América,Luque,Paraguay,,TRUE,-1
+7/13/1999,Uruguay,Chile,1,1,Copa América,Asunción,Paraguay,,TRUE,0
+7/14/1999,Mexico,Brazil,0,2,Copa América,Ciudad del Este,Paraguay,,TRUE,2
+7/17/1999,Chile,Mexico,1,2,Copa América,Asunción,Paraguay,,TRUE,1
+7/18/1999,Brazil,Uruguay,3,0,Copa América,Asunción,Paraguay,,TRUE,-3
+7/24/1999,Brazil,Germany,4,0,Confederations Cup,Guadalajara,Mexico,,TRUE,-4
+7/28/1999,Brazil,United States,1,0,Confederations Cup,Guadalajara,Mexico,,TRUE,-1
+7/30/1999,United States,Germany,2,0,Confederations Cup,Guadalajara,Mexico,,TRUE,-2
+8/1/1999,Mexico,United States,1,0,Confederations Cup,Mexico City,Mexico,,FALSE,-1
+8/4/1999,Mexico,Brazil,4,3,Confederations Cup,Mexico City,Mexico,,FALSE,-1
+8/18/1999,Poland,Spain,1,2,Friendly,Warsaw,Poland,,FALSE,1
+8/18/1999,Sweden,Austria,0,0,Friendly,Malmö,Sweden,,FALSE,0
+8/18/1999,Uruguay,Costa Rica,5,4,Friendly,Montevideo,Uruguay,,FALSE,-1
+9/4/1999,Argentina,Brazil,2,0,Friendly,Buenos Aires,Argentina,South America,FALSE,-2
+9/4/1999,Austria,Spain,1,3,UEFA Euro qualification,Vienna,Austria,,FALSE,2
+9/4/1999,Netherlands,Belgium,5,5,Friendly,Rotterdam,Netherlands,,FALSE,0
+9/7/1999,Belgium,Morocco,4,0,Friendly,Liège,Belgium,,FALSE,-4
+9/7/1999,Brazil,Argentina,4,2,Friendly,Porto Alegre,Brazil,,FALSE,-2
+9/8/1999,Japan,Iran,1,1,Friendly,Yokohama,Japan,,FALSE,0
+9/8/1999,Poland,England,0,0,UEFA Euro qualification,Warsaw,Poland,,FALSE,0
+10/9/1999,Netherlands,Brazil,2,2,Friendly,Amsterdam,Netherlands,,FALSE,0
+10/9/1999,Sweden,Poland,2,0,UEFA Euro qualification,Solna,Sweden,,FALSE,-2
+10/10/1999,England,Belgium,2,1,Friendly,Sunderland,England,,FALSE,-1
+10/12/1999,Uruguay,Ecuador,0,0,Friendly,Montevideo,Uruguay,,FALSE,0
+10/13/1999,Argentina,Colombia,2,1,Friendly,Córdoba,Argentina,South America,FALSE,-1
+10/20/1999,Mexico,Colombia,0,0,Friendly,San Diego,United States,,TRUE,0
+10/27/1999,Mexico,Ecuador,0,0,Friendly,Houston,United States,,TRUE,0
+11/13/1999,France,Croatia,3,0,Friendly,Saint-Denis,France,,FALSE,-3
+11/13/1999,Italy,Belgium,1,3,Friendly,Lecce,Italy,,FALSE,2
+11/13/1999,Spain,Brazil,0,0,Friendly,Vigo,Spain,,FALSE,0
+11/17/1999,Morocco,United States,2,1,Friendly,Marrakech,Morocco,,FALSE,-1
+11/17/1999,Spain,Argentina,0,2,Friendly,Seville,Spain,,FALSE,2
+12/21/1999,Morocco,Senegal,0,0,Friendly,Agadir,Morocco,,FALSE,0
+1/9/2000,Mexico,Iran,2,1,Friendly,Oakland,United States,,TRUE,-1
+1/13/2000,Senegal,Cameroon,0,0,Friendly,Dakar,Senegal,,FALSE,0
+1/16/2000,United States,Iran,1,1,Friendly,Pasadena,United States,,FALSE,0
+1/26/2000,Spain,Poland,3,0,Friendly,Cartagena,Spain,,FALSE,-3
+1/28/2000,Egypt,Senegal,1,0,African Cup of Nations,Kano,Nigeria,,TRUE,-1
+1/29/2000,Chile,United States,1,2,Friendly,Coquimbo,Chile,,FALSE,1
+2/2/2000,Costa Rica,Chile,1,0,Friendly,San José,Costa Rica,,FALSE,-1
+2/5/2000,Japan,Mexico,0,1,Lunar New Year Cup,So Kon Po,Hong Kong,,TRUE,1
+2/9/2000,Chile,Australia,2,1,Friendly,Valparaíso,Chile,,FALSE,-1
+2/17/2000,South Korea,Costa Rica,2,2,Gold Cup,Los Angeles,United States,,TRUE,0
+2/19/2000,United States,Colombia,2,2,Gold Cup,Miami,United States,,FALSE,0
+2/23/2000,Belgium,Portugal,1,1,Friendly,Charleroi,Belgium,,FALSE,0
+2/23/2000,Croatia,Spain,0,0,Friendly,Split,Croatia,,FALSE,0
+2/23/2000,England,Argentina,0,0,Friendly,London,England,,FALSE,0
+2/23/2000,France,Poland,1,0,Friendly,Saint-Denis,France,,FALSE,-1
+2/23/2000,Greece,Austria,4,1,Friendly,Kalamáta,Greece,,FALSE,-3
+2/23/2000,Hungary,Australia,0,3,Friendly,Budapest,Hungary,,FALSE,3
+2/23/2000,Italy,Sweden,1,0,Friendly,Palermo,Italy,,FALSE,-1
+2/23/2000,Netherlands,Germany,2,1,Friendly,Amsterdam,Netherlands,,FALSE,-1
+3/28/2000,Colombia,Brazil,0,0,FIFA World Cup qualification,Bogotá,Colombia,,FALSE,0
+3/29/2000,Argentina,Chile,4,1,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-3
+3/29/2000,Austria,Sweden,1,1,Friendly,Graz,Austria,,FALSE,0
+3/29/2000,Belgium,Netherlands,2,2,Friendly,Brussels,Belgium,,FALSE,0
+3/29/2000,Croatia,Germany,1,1,Friendly,Zagreb,Croatia,,FALSE,0
+3/29/2000,Hungary,Poland,0,0,Friendly,Debrecen,Hungary,,FALSE,0
+3/29/2000,Spain,Italy,2,0,Friendly,Barcelona,Spain,,FALSE,-2
+4/26/2000,Austria,Croatia,1,2,Friendly,Vienna,Austria,,FALSE,1
+4/26/2000,Brazil,Ecuador,3,2,FIFA World Cup qualification,São Paulo,Brazil,,FALSE,-1
+4/26/2000,Germany,Switzerland,1,1,Friendly,Kaiserslautern,Germany,,FALSE,0
+4/26/2000,Italy,Portugal,2,0,Friendly,Reggio di Calabria,Italy,,FALSE,-2
+4/26/2000,South Korea,Japan,1,0,Friendly,Seoul,South Korea,,FALSE,-1
+4/26/2000,Paraguay,Uruguay,1,0,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-1
+5/27/2000,England,Brazil,1,1,Friendly,London,England,,FALSE,0
+5/28/2000,Croatia,France,0,2,Friendly,Zagreb,Croatia,,FALSE,2
+5/31/2000,England,Ukraine,2,0,Friendly,London,England,,FALSE,-2
+6/3/2000,Paraguay,Ecuador,3,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-2
+6/3/2000,Sweden,Spain,1,1,Friendly,Gothenburg,Sweden,,FALSE,0
+6/3/2000,Uruguay,Chile,2,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-1
+6/4/2000,France,Japan,2,2,King Hassan II Tournament,Casablanca,Morocco,,TRUE,0
+6/4/2000,Netherlands,Poland,3,1,Friendly,Lausanne,Switzerland,,TRUE,-2
+6/6/2000,Morocco,France,1,5,King Hassan II Tournament,Casablanca,Morocco,,FALSE,4
+6/9/2000,Egypt,South Korea,0,1,Friendly,Tehran,Iran,,TRUE,1
+6/10/2000,Belgium,Sweden,2,1,UEFA Euro,Brussels,Belgium,,FALSE,-1
+6/11/2000,United States,Mexico,3,0,USA Cup,East Rutherford,United States,,FALSE,-3
+6/12/2000,Portugal,England,3,2,UEFA Euro,Eindhoven,Netherlands,,TRUE,-1
+6/14/2000,Belgium,Italy,0,2,UEFA Euro,Brussels,Belgium,,FALSE,2
+6/17/2000,England,Germany,1,0,UEFA Euro,Charleroi,Belgium,,TRUE,-1
+6/19/2000,Italy,Sweden,2,1,UEFA Euro,Eindhoven,Netherlands,,TRUE,-1
+6/20/2000,Portugal,Germany,3,0,UEFA Euro,Rotterdam,Netherlands,,TRUE,-3
+6/21/2000,Netherlands,France,3,2,UEFA Euro,Amsterdam,Netherlands,,FALSE,-1
+6/21/2000,Paraguay,Costa Rica,1,0,Friendly,Ciudad del Este,Paraguay,,FALSE,-1
+6/25/2000,Spain,France,1,2,UEFA Euro,Bruges,Belgium,,TRUE,1
+6/28/2000,Brazil,Uruguay,1,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,,FALSE,0
+6/28/2000,France,Portugal,2,1,UEFA Euro,Brussels,Belgium,,TRUE,-1
+6/29/2000,Colombia,Argentina,1,3,FIFA World Cup qualification,Bogotá,Colombia,,FALSE,2
+6/29/2000,Netherlands,Italy,0,0,UEFA Euro,Amsterdam,Netherlands,,FALSE,0
+7/2/2000,France,Italy,2,1,UEFA Euro,Rotterdam,Netherlands,,TRUE,-1
+7/18/2000,Paraguay,Brazil,2,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-1
+7/19/2000,Argentina,Ecuador,2,0,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-2
+7/23/2000,Costa Rica,United States,2,1,FIFA World Cup qualification,San José,Costa Rica,,FALSE,-1
+7/25/2000,Ecuador,Colombia,0,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,0
+7/26/2000,Brazil,Argentina,3,1,FIFA World Cup qualification,São Paulo,Brazil,,FALSE,-2
+8/15/2000,Chile,Brazil,3,0,FIFA World Cup qualification,Santiago,Chile,,FALSE,-3
+8/15/2000,Colombia,Uruguay,1,0,FIFA World Cup qualification,Bogotá,Colombia,,FALSE,-1
+8/16/2000,Germany,Spain,4,1,Friendly,Hanover,Germany,,FALSE,-3
+8/16/2000,Hungary,Austria,1,1,Friendly,Budapest,Hungary,,FALSE,0
+9/1/2000,Austria,Iran,5,1,Friendly,Vienna,Austria,,FALSE,-4
+9/2/2000,Belgium,Croatia,0,0,FIFA World Cup qualification,Brussels,Belgium,,FALSE,0
+9/2/2000,Chile,Colombia,0,1,FIFA World Cup qualification,Santiago,Chile,,FALSE,1
+9/2/2000,France,England,1,1,Friendly,Saint-Denis,France,,FALSE,0
+9/2/2000,Switzerland,Russia,0,1,FIFA World Cup qualification,Zürich,Switzerland,,FALSE,1
+9/3/2000,Hungary,Italy,2,2,FIFA World Cup qualification,Budapest,Hungary,,FALSE,0
+9/3/2000,Uruguay,Ecuador,4,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-4
+9/20/2000,Mexico,Ecuador,2,0,Friendly,San Diego,United States,,TRUE,-2
+10/4/2000,France,Cameroon,1,1,Friendly,Saint-Denis,France,,FALSE,0
+10/7/2000,Australia,South Korea,2,4,United Arab Emirates Friendship Tournament,Dubai,United Arab Emirates,,TRUE,2
+10/7/2000,England,Germany,0,1,FIFA World Cup qualification,London,England,,FALSE,1
+10/8/2000,Argentina,Uruguay,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-1
+10/8/2000,Ecuador,Chile,1,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-1
+10/11/2000,Austria,Spain,1,1,FIFA World Cup qualification,Vienna,Austria,,FALSE,0
+10/11/2000,Netherlands,Portugal,0,2,FIFA World Cup qualification,Rotterdam,Netherlands,,FALSE,2
+10/11/2000,United States,Costa Rica,0,0,FIFA World Cup qualification,Columbus,United States,,FALSE,0
+10/23/2000,Iran,South Korea,1,2,AFC Asian Cup,Tripoli,Lebanon,,TRUE,1
+10/25/2000,United States,Mexico,2,0,Friendly,Los Angeles,United States,,FALSE,-2
+11/15/2000,Brazil,Colombia,1,0,FIFA World Cup qualification,São Paulo,Brazil,,FALSE,-1
+11/15/2000,Chile,Argentina,0,2,FIFA World Cup qualification,Santiago,Chile,,FALSE,2
+11/15/2000,Italy,England,1,0,Friendly,Turin,Italy,,FALSE,-1
+11/15/2000,Spain,Netherlands,1,2,Friendly,Seville,Spain,,FALSE,1
+12/13/2000,Greece,Serbia,1,1,Friendly,Xánthi,Greece,,FALSE,0
+12/20/2000,Japan,South Korea,1,1,Friendly,Tokyo,Japan,,FALSE,0
+12/20/2000,Mexico,Argentina,0,2,Friendly,Los Angeles,United States,,TRUE,2
+1/28/2001,Egypt,Morocco,0,0,FIFA World Cup qualification,Cairo,Egypt,,FALSE,0
+1/31/2001,Mexico,Colombia,2,3,Friendly,Los Angeles,United States,,TRUE,1
+2/3/2001,United States,Colombia,0,1,Friendly,Miami,United States,,FALSE,1
+2/8/2001,Morocco,South Korea,1,1,United Arab Emirates Friendship Tournament,Dubai,United Arab Emirates,,TRUE,0
+2/24/2001,Morocco,Senegal,0,0,FIFA World Cup qualification,Rabat,Morocco,,FALSE,0
+2/27/2001,France,Germany,1,0,Friendly,Saint-Denis,France,,FALSE,-1
+2/28/2001,Colombia,Australia,3,2,Friendly,Bogotá,Colombia,,FALSE,-1
+2/28/2001,Croatia,Austria,1,0,Friendly,Rijeka,Croatia,,FALSE,-1
+2/28/2001,England,Spain,3,0,Friendly,Birmingham,England,,FALSE,-3
+2/28/2001,Greece,Russia,3,3,Friendly,Heraklion,Greece,,FALSE,0
+2/28/2001,Italy,Argentina,1,2,Friendly,Rome,Italy,,FALSE,1
+2/28/2001,Switzerland,Poland,0,4,Friendly,Larnaca,Cyprus,,TRUE,4
+2/28/2001,United States,Mexico,2,0,FIFA World Cup qualification,Columbus,United States,,FALSE,-2
+3/3/2001,United States,Brazil,1,2,Friendly,Pasadena,United States,,FALSE,1
+3/7/2001,Mexico,Brazil,3,3,Friendly,Guadalajara,Mexico,,FALSE,0
+3/24/2001,France,Japan,5,0,Friendly,Saint-Denis,France,,FALSE,-5
+3/28/2001,Ecuador,Brazil,1,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-1
+3/28/2001,Greece,Germany,2,4,FIFA World Cup qualification,Athens,Greece,,FALSE,2
+3/28/2001,Portugal,Netherlands,2,2,FIFA World Cup qualification,Porto,Portugal,,FALSE,0
+3/28/2001,Spain,France,2,1,Friendly,Valencia,Spain,,FALSE,-1
+4/11/2001,Mexico,Chile,1,0,Friendly,Monterrey,Mexico,,FALSE,-1
+4/24/2001,Chile,Uruguay,0,1,FIFA World Cup qualification,Santiago,Chile,,FALSE,1
+4/24/2001,Iran,South Korea,0,1,Friendly,Cairo,Egypt,,TRUE,1
+4/25/2001,Austria,Liechtenstein,2,0,FIFA World Cup qualification,Innsbruck,Austria,,FALSE,-2
+4/25/2001,France,Portugal,4,0,Friendly,Saint-Denis,France,,FALSE,-4
+4/25/2001,Spain,Japan,1,0,Friendly,Córdoba,Spain,,FALSE,-1
+4/25/2001,Switzerland,Sweden,0,2,Friendly,Geneva,Switzerland,,FALSE,2
+4/25/2001,United States,Costa Rica,1,0,FIFA World Cup qualification,Kansas City,United States,,FALSE,-1
+4/26/2001,Egypt,South Korea,1,2,Friendly,Cairo,Egypt,,FALSE,1
+5/6/2001,Egypt,Senegal,1,0,FIFA World Cup qualification,Cairo,Egypt,,FALSE,-1
+5/25/2001,England,Mexico,4,0,Friendly,Derby,England,,FALSE,-4
+5/25/2001,South Korea,Cameroon,0,0,Friendly,Suwon,South Korea,,FALSE,0
+5/30/2001,South Korea,France,0,5,Confederations Cup,Daegu,South Korea,,FALSE,5
+5/30/2001,Mexico,Australia,0,2,Confederations Cup,Suwon,South Korea,,TRUE,2
+5/31/2001,Brazil,Cameroon,2,0,Confederations Cup,Kashima,Japan,,TRUE,-2
+6/1/2001,Australia,France,1,0,Confederations Cup,Daegu,South Korea,,TRUE,-1
+6/1/2001,South Korea,Mexico,2,1,Confederations Cup,Ulsan,South Korea,,FALSE,-1
+6/2/2001,Japan,Cameroon,2,0,Confederations Cup,Niigata,Japan,,FALSE,-2
+6/2/2001,Paraguay,Chile,1,0,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-1
+6/3/2001,Argentina,Colombia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-3
+6/3/2001,France,Mexico,4,0,Confederations Cup,Ulsan,South Korea,,TRUE,-4
+6/3/2001,South Korea,Australia,1,0,Confederations Cup,Suwon,South Korea,,FALSE,-1
+6/4/2001,Japan,Brazil,0,0,Confederations Cup,Kashima,Japan,,FALSE,0
+6/6/2001,Greece,England,0,2,FIFA World Cup qualification,Athens,Greece,,FALSE,2
+6/7/2001,France,Brazil,2,1,Confederations Cup,Suwon,South Korea,,TRUE,-1
+6/7/2001,Japan,Australia,1,0,Confederations Cup,Yokohama,Japan,,FALSE,-1
+6/7/2001,United States,Ecuador,0,0,Friendly,Columbus,United States,,FALSE,0
+6/9/2001,Australia,Brazil,1,0,Confederations Cup,Ulsan,South Korea,,TRUE,-1
+6/10/2001,Japan,France,0,1,Confederations Cup,Yokohama,Japan,,FALSE,1
+6/16/2001,Mexico,Costa Rica,1,2,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,1
+7/1/2001,Mexico,United States,1,0,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,-1
+7/1/2001,Uruguay,Brazil,1,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-1
+7/11/2001,Ecuador,Chile,1,4,Copa América,Barranquilla,Colombia,,TRUE,3
+7/12/2001,Brazil,Mexico,0,1,Copa América,Cali,Colombia,,TRUE,1
+7/14/2001,Colombia,Ecuador,1,0,Copa América,Barranquilla,Colombia,,FALSE,-1
+7/14/2001,Senegal,Morocco,1,0,FIFA World Cup qualification,Dakar,Senegal,,FALSE,-1
+7/15/2001,Paraguay,Mexico,0,0,Copa América,Cali,Colombia,,TRUE,0
+7/16/2001,Uruguay,Costa Rica,1,1,Copa América,Medellín,Colombia,,TRUE,0
+7/17/2001,Colombia,Chile,2,0,Copa América,Barranquilla,Colombia,,FALSE,-2
+7/22/2001,Chile,Mexico,0,2,Copa América,Pereira,Colombia,,TRUE,2
+7/22/2001,Uruguay,Costa Rica,2,1,Copa América,Armenia,Colombia,,TRUE,-1
+7/25/2001,Mexico,Uruguay,2,1,Copa América,Pereira,Colombia,,TRUE,-1
+7/29/2001,Colombia,Mexico,1,0,Copa América,Bogotá,Colombia,,FALSE,-1
+8/15/2001,Austria,Switzerland,1,2,Friendly,Vienna,Austria,,FALSE,1
+8/15/2001,Ecuador,Argentina,0,2,FIFA World Cup qualification,Quito,Ecuador,,FALSE,2
+8/15/2001,England,Netherlands,0,2,Friendly,London,England,,FALSE,2
+8/15/2001,Hungary,Germany,2,5,Friendly,Budapest,Hungary,,FALSE,3
+8/15/2001,Japan,Australia,3,0,Friendly,Fukuroi,Japan,,FALSE,-3
+9/1/2001,Chile,France,2,1,Friendly,Santiago,Chile,,FALSE,-1
+9/1/2001,Germany,England,1,5,FIFA World Cup qualification,Munich,Germany,,FALSE,4
+9/1/2001,Spain,Austria,4,0,FIFA World Cup qualification,Valencia,Spain,,FALSE,-4
+9/5/2001,Argentina,Brazil,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-1
+9/5/2001,Colombia,Ecuador,0,0,FIFA World Cup qualification,Bogotá,Colombia,,FALSE,0
+9/5/2001,Costa Rica,United States,2,0,FIFA World Cup qualification,San José,Costa Rica,,FALSE,-2
+9/5/2001,Italy,Morocco,1,0,Friendly,Piacenza,Italy,,FALSE,-1
+10/4/2001,Japan,Senegal,0,2,Friendly,Lens,France,,TRUE,2
+10/6/2001,Croatia,Belgium,1,0,FIFA World Cup qualification,Zagreb,Croatia,,FALSE,-1
+10/6/2001,Poland,Ukraine,1,1,FIFA World Cup qualification,Chorzów,Poland,,FALSE,0
+10/7/2001,Brazil,Chile,2,0,FIFA World Cup qualification,Curitiba,Brazil,,FALSE,-2
+10/7/2001,Costa Rica,Mexico,0,0,FIFA World Cup qualification,San José,Costa Rica,,FALSE,0
+10/7/2001,Paraguay,Argentina,2,2,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,0
+10/7/2001,Uruguay,Colombia,1,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,0
+11/7/2001,Colombia,Chile,3,1,FIFA World Cup qualification,Bogotá,Colombia,,FALSE,-2
+11/7/2001,Ecuador,Uruguay,1,1,FIFA World Cup qualification,Quito,Ecuador,,FALSE,0
+11/7/2001,Japan,Italy,1,1,Friendly,Saitama,Japan,,FALSE,0
+11/8/2001,South Korea,Senegal,0,1,Friendly,Jeonju,South Korea,,FALSE,1
+11/10/2001,England,Sweden,1,1,Friendly,Manchester,England,,FALSE,0
+11/10/2001,South Korea,Croatia,2,0,Friendly,Seoul,South Korea,,FALSE,-2
+11/11/2001,Australia,France,1,1,Friendly,Melbourne,Australia,,FALSE,0
+11/13/2001,South Korea,Croatia,1,1,Friendly,Gwangju,South Korea,,FALSE,0
+11/14/2001,Chile,Ecuador,0,0,FIFA World Cup qualification,Santiago,Chile,,FALSE,0
+11/14/2001,Germany,Ukraine,4,1,FIFA World Cup qualification,Dortmund,Germany,,FALSE,-3
+11/14/2001,Paraguay,Colombia,0,4,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,4
+11/14/2001,Poland,Cameroon,0,0,Friendly,Poznań,Poland,,FALSE,0
+11/14/2001,Spain,Mexico,1,0,Friendly,Huelva,Spain,,FALSE,-1
+11/14/2001,Uruguay,Argentina,1,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,0
+11/20/2001,Australia,Uruguay,1,0,FIFA World Cup qualification,Melbourne,Australia,,FALSE,-1
+11/25/2001,Uruguay,Australia,3,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-3
+12/9/2001,South Korea,United States,1,0,Friendly,Seogwipo,South Korea,,FALSE,-1
+1/19/2002,United States,South Korea,2,1,Gold Cup,Pasadena,United States,,FALSE,-1
+1/20/2002,Egypt,Senegal,0,1,African Cup of Nations,Bamako,Mali,,TRUE,1
+1/27/2002,Mexico,South Korea,0,0,Gold Cup,Pasadena,United States,,TRUE,0
+1/30/2002,Costa Rica,South Korea,3,1,Gold Cup,Pasadena,United States,,TRUE,-2
+2/2/2002,United States,Costa Rica,2,0,Gold Cup,Pasadena,United States,,FALSE,-2
+2/10/2002,Senegal,Cameroon,0,0,African Cup of Nations,Bamako,Mali,,TRUE,0
+2/13/2002,Greece,Sweden,2,2,Friendly,Salonica,Greece,,FALSE,0
+2/13/2002,Italy,United States,1,0,Friendly,Catania,Italy,,FALSE,-1
+2/13/2002,Netherlands,England,1,1,Friendly,Amsterdam,Netherlands,,FALSE,0
+2/13/2002,Spain,Portugal,1,1,Friendly,Barcelona,Spain,,FALSE,0
+2/13/2002,Uruguay,South Korea,2,1,Friendly,Montevideo,Uruguay,,FALSE,-1
+3/10/2002,United States,Ecuador,1,0,Friendly,Birmingham,United States,,FALSE,-1
+3/21/2002,Japan,Ukraine,1,0,Friendly,Osaka,Japan,,FALSE,-1
+3/27/2002,Argentina,Cameroon,2,2,Friendly,Geneva,Switzerland,,TRUE,0
+3/27/2002,England,Italy,1,2,Friendly,Leeds,England,,FALSE,1
+3/27/2002,Germany,United States,4,2,Friendly,Rostock,Germany,,FALSE,-2
+3/27/2002,Netherlands,Spain,1,0,Friendly,Rotterdam,Netherlands,,FALSE,-1
+3/27/2002,Poland,Japan,0,2,Friendly,Łódź,Poland,,FALSE,2
+3/27/2002,Sweden,Switzerland,1,1,Friendly,Malmö,Sweden,,FALSE,0
+4/17/2002,Austria,Cameroon,0,0,Friendly,Vienna,Austria,,FALSE,0
+4/17/2002,France,Russia,0,0,Friendly,Saint-Denis,France,,FALSE,0
+4/17/2002,Germany,Argentina,0,1,Friendly,Stuttgart,Germany,,FALSE,1
+4/17/2002,Italy,Uruguay,1,1,Friendly,Milan,Italy,,FALSE,0
+4/17/2002,Japan,Costa Rica,1,1,Friendly,Yokohama,Japan,,FALSE,0
+4/17/2002,Portugal,Brazil,1,1,Friendly,Lisbon,Portugal,,FALSE,0
+4/21/2002,South Korea,Costa Rica,2,0,Friendly,Daegu,South Korea,,FALSE,-2
+5/8/2002,Hungary,Croatia,0,2,Friendly,Pécs,Hungary,,FALSE,2
+5/9/2002,Costa Rica,Colombia,1,2,Friendly,San José,Costa Rica,,FALSE,1
+5/12/2002,Mexico,Colombia,2,1,Friendly,Mexico City,Mexico,,FALSE,-1
+5/12/2002,United States,Uruguay,2,1,Friendly,Washington,United States,,FALSE,-1
+5/18/2002,France,Belgium,1,2,Friendly,Saint-Denis,France,,FALSE,1
+5/18/2002,Germany,Austria,6,2,Friendly,Leverkusen,Germany,,FALSE,-4
+5/19/2002,United States,Netherlands,0,2,Friendly,Foxborough,United States,,FALSE,2
+5/21/2002,South Korea,England,1,1,Friendly,Seogwipo,South Korea,,FALSE,0
+5/23/2002,Ecuador,Senegal,0,1,Friendly,Tottori,Japan,,TRUE,1
+5/25/2002,Japan,Sweden,1,1,Friendly,Tokyo,Japan,,FALSE,0
+5/26/2002,Belgium,Costa Rica,1,0,Friendly,Kumamoto,Japan,,TRUE,-1
+5/26/2002,Cameroon,England,2,2,Friendly,Kobe,Japan,,TRUE,0
+5/26/2002,South Korea,France,2,3,Friendly,Suwon,South Korea,,FALSE,1
+5/31/2002,France,Senegal,0,1,FIFA World Cup,Seoul,South Korea,Asia,TRUE,1
+6/2/2002,England,Sweden,1,1,FIFA World Cup,Saitama,Japan,Asia,TRUE,0
+6/3/2002,Croatia,Mexico,0,1,FIFA World Cup,Niigata,Japan,Asia,TRUE,1
+6/3/2002,Italy,Ecuador,2,0,FIFA World Cup,Sapporo,Japan,Asia,TRUE,-2
+6/4/2002,Japan,Belgium,2,2,FIFA World Cup,Saitama,Japan,Asia,FALSE,0
+6/4/2002,South Korea,Poland,2,0,FIFA World Cup,Busan,South Korea,Asia,FALSE,-2
+6/5/2002,United States,Portugal,3,2,FIFA World Cup,Suwon,South Korea,Asia,TRUE,-1
+6/6/2002,France,Uruguay,0,0,FIFA World Cup,Busan,South Korea,Asia,TRUE,0
+6/7/2002,Argentina,England,0,1,FIFA World Cup,Sapporo,Japan,Asia,TRUE,1
+6/8/2002,Italy,Croatia,1,2,FIFA World Cup,Kashima,Japan,Asia,TRUE,1
+6/9/2002,Japan,Russia,1,0,FIFA World Cup,Yokohama,Japan,Asia,FALSE,-1
+6/9/2002,Mexico,Ecuador,2,1,FIFA World Cup,Rifu,Japan,Asia,TRUE,-1
+6/10/2002,South Korea,United States,1,1,FIFA World Cup,Daegu,South Korea,Asia,FALSE,0
+6/10/2002,Portugal,Poland,4,0,FIFA World Cup,Jeonju,South Korea,Asia,TRUE,-4
+6/11/2002,Cameroon,Germany,0,2,FIFA World Cup,Fukuroi,Japan,Asia,TRUE,2
+6/11/2002,Senegal,Uruguay,3,3,FIFA World Cup,Suwon,South Korea,Asia,TRUE,0
+6/12/2002,Sweden,Argentina,1,1,FIFA World Cup,Rifu,Japan,Asia,TRUE,0
+6/13/2002,Costa Rica,Brazil,2,5,FIFA World Cup,Suwon,South Korea,Asia,TRUE,3
+6/13/2002,Ecuador,Croatia,1,0,FIFA World Cup,Yokohama,Japan,Asia,TRUE,-1
+6/13/2002,Mexico,Italy,1,1,FIFA World Cup,Ōita,Japan,Asia,TRUE,0
+6/14/2002,Belgium,Russia,3,2,FIFA World Cup,Fukuroi,Japan,Asia,TRUE,-1
+6/14/2002,South Korea,Portugal,1,0,FIFA World Cup,Incheon,South Korea,Asia,FALSE,-1
+6/14/2002,Poland,United States,3,1,FIFA World Cup,Daejeon,South Korea,Asia,TRUE,-2
+6/16/2002,Sweden,Senegal,1,2,FIFA World Cup,Ōita,Japan,Asia,TRUE,1
+6/17/2002,Brazil,Belgium,2,0,FIFA World Cup,Kobe,Japan,Asia,TRUE,-2
+6/17/2002,Mexico,United States,0,2,FIFA World Cup,Jeonju,South Korea,Asia,TRUE,2
+6/18/2002,South Korea,Italy,2,1,FIFA World Cup,Daejeon,South Korea,Asia,FALSE,-1
+6/21/2002,England,Brazil,1,2,FIFA World Cup,Fukuroi,Japan,Asia,TRUE,1
+6/21/2002,Germany,United States,1,0,FIFA World Cup,Ulsan,South Korea,Asia,TRUE,-1
+6/22/2002,South Korea,Spain,0,0,FIFA World Cup,Gwangju,South Korea,Asia,FALSE,0
+6/25/2002,South Korea,Germany,0,1,FIFA World Cup,Seoul,South Korea,Asia,FALSE,1
+6/30/2002,Germany,Brazil,0,2,FIFA World Cup,Yokohama,Japan,Asia,TRUE,2
+8/21/2002,Hungary,Spain,1,1,Friendly,Budapest,Hungary,,FALSE,0
+8/21/2002,Poland,Belgium,1,1,Friendly,Szczecin,Poland,,FALSE,0
+8/21/2002,Switzerland,Austria,3,2,Friendly,Basel,Switzerland,,FALSE,-1
+9/7/2002,England,Portugal,1,1,Friendly,Birmingham,England,,FALSE,0
+9/7/2002,Greece,Spain,0,2,UEFA Euro qualification,Athens,Greece,,FALSE,2
+9/17/2002,Iran,Morocco,1,1,Friendly,Tabriz,Iran,,FALSE,0
+10/16/2002,Austria,Netherlands,0,3,UEFA Euro qualification,Vienna,Austria,,FALSE,3
+10/16/2002,Costa Rica,Ecuador,1,1,Friendly,San José,Costa Rica,,FALSE,0
+10/16/2002,Hungary,San Marino,3,0,UEFA Euro qualification,Budapest,Hungary,,FALSE,-3
+10/16/2002,Sweden,Portugal,2,3,Friendly,Gothenburg,Sweden,,FALSE,1
+11/20/2002,Ecuador,Costa Rica,2,2,Friendly,Quito,Ecuador,,FALSE,0
+11/20/2002,Germany,Netherlands,1,3,Friendly,Gelsenkirchen,Germany,,FALSE,2
+11/20/2002,Japan,Argentina,0,2,Friendly,Saitama,Japan,,FALSE,2
+11/20/2002,South Korea,Brazil,2,3,Friendly,Seoul,South Korea,,FALSE,1
+2/4/2003,Mexico,Argentina,0,1,Friendly,Los Angeles,United States,,TRUE,1
+2/4/2003,Uruguay,Iran,1,1,Lunar New Year Cup,So Kon Po,Hong Kong,,TRUE,0
+2/8/2003,United States,Argentina,0,1,Friendly,Miami,United States,,FALSE,1
+2/12/2003,Croatia,Poland,0,0,Friendly,Split,Croatia,,FALSE,0
+2/12/2003,England,Australia,1,3,Friendly,London,England,,FALSE,2
+2/12/2003,Italy,Portugal,1,0,Friendly,Genoa,Italy,,FALSE,-1
+2/12/2003,Mexico,Colombia,0,0,Friendly,Phoenix,United States,,TRUE,0
+2/12/2003,Morocco,Senegal,1,0,Friendly,Paris,France,,TRUE,-1
+2/12/2003,Netherlands,Argentina,1,0,Friendly,Amsterdam,Netherlands,,FALSE,-1
+2/12/2003,Spain,Germany,3,1,Friendly,Palma de Mallorca,Spain,,FALSE,-2
+3/28/2003,Japan,Uruguay,2,2,Friendly,Tokyo,Japan,,FALSE,0
+3/29/2003,Croatia,Belgium,4,0,UEFA Euro qualification,Zagreb,Croatia,,FALSE,-4
+3/29/2003,South Korea,Colombia,0,0,Friendly,Busan,South Korea,,FALSE,0
+3/29/2003,Portugal,Brazil,2,1,Friendly,Porto,Portugal,,FALSE,-1
+4/2/2003,Hungary,Sweden,1,2,UEFA Euro qualification,Budapest,Hungary,,FALSE,1
+4/16/2003,South Korea,Japan,0,1,Friendly,Seoul,South Korea,,FALSE,1
+4/30/2003,Belgium,Poland,3,1,Friendly,Brussels,Belgium,,FALSE,-2
+4/30/2003,Chile,Costa Rica,1,0,Friendly,Santiago,Chile,,FALSE,-1
+4/30/2003,Mexico,Brazil,0,0,Friendly,Guadalajara,Mexico,,FALSE,0
+4/30/2003,Netherlands,Portugal,1,1,Friendly,Eindhoven,Netherlands,,FALSE,0
+4/30/2003,Spain,Ecuador,4,0,Friendly,Madrid,Spain,,FALSE,-4
+4/30/2003,Sweden,Croatia,1,2,Friendly,Solna,Sweden,,FALSE,1
+4/30/2003,Switzerland,Italy,1,2,Friendly,Geneva,Switzerland,,FALSE,1
+5/8/2003,United States,Mexico,0,0,Friendly,Houston,United States,,FALSE,0
+5/31/2003,Japan,South Korea,0,1,Friendly,Tokyo,Japan,,FALSE,1
+6/7/2003,Switzerland,Russia,2,2,UEFA Euro qualification,Basel,Switzerland,,FALSE,0
+6/8/2003,Colombia,Ecuador,0,0,Friendly,Madrid,Spain,,TRUE,0
+6/8/2003,Costa Rica,Chile,1,0,Friendly,San José,Costa Rica,,FALSE,-1
+6/8/2003,Japan,Argentina,1,4,Kirin Cup,Osaka,Japan,,FALSE,3
+6/8/2003,South Korea,Uruguay,0,2,Friendly,Seoul,South Korea,,FALSE,2
+6/11/2003,Greece,Ukraine,1,0,UEFA Euro qualification,Athens,Greece,,FALSE,-1
+6/11/2003,South Korea,Argentina,0,1,Friendly,Seoul,South Korea,,FALSE,1
+6/11/2003,Sweden,Poland,3,0,UEFA Euro qualification,Solna,Sweden,,FALSE,-3
+6/18/2003,France,Colombia,1,0,Confederations Cup,Lyon,France,,FALSE,-1
+6/19/2003,Brazil,Cameroon,0,1,Confederations Cup,Saint-Denis,France,,TRUE,1
+6/20/2003,France,Japan,2,1,Confederations Cup,Saint-Étienne,France,,FALSE,-1
+6/21/2003,Brazil,United States,1,0,Confederations Cup,Lyon,France,,TRUE,-1
+6/22/2003,Japan,Colombia,0,1,Confederations Cup,Saint-Étienne,France,,TRUE,1
+6/23/2003,United States,Cameroon,0,0,Confederations Cup,Lyon,France,,TRUE,0
+6/26/2003,Cameroon,Colombia,1,0,Confederations Cup,Lyon,France,,TRUE,-1
+6/29/2003,France,Cameroon,1,0,Confederations Cup,Saint-Denis,France,,FALSE,-1
+7/13/2003,Mexico,Brazil,1,0,Gold Cup,Mexico City,Mexico,,FALSE,-1
+7/16/2003,Argentina,Uruguay,2,2,Friendly,La Plata,Argentina,South America,FALSE,0
+7/19/2003,Colombia,Brazil,0,2,Gold Cup,Miami,United States,,TRUE,2
+7/23/2003,United States,Brazil,1,2,Gold Cup,Miami,United States,,FALSE,1
+7/24/2003,Mexico,Costa Rica,2,0,Gold Cup,Mexico City,Mexico,,FALSE,-2
+7/26/2003,United States,Costa Rica,3,2,Gold Cup,Miami,United States,,FALSE,-1
+7/27/2003,Mexico,Brazil,1,0,Gold Cup,Mexico City,Mexico,,FALSE,-1
+8/20/2003,Argentina,Uruguay,3,2,Friendly,Florence,Italy,,TRUE,-1
+8/20/2003,Austria,Costa Rica,2,0,Friendly,Vienna,Austria,,FALSE,-2
+8/20/2003,Belgium,Netherlands,1,1,Friendly,Brussels,Belgium,,FALSE,0
+8/20/2003,England,Croatia,3,1,Friendly,Ipswich,England,,FALSE,-2
+8/20/2003,Germany,Italy,0,1,Friendly,Stuttgart,Germany,,FALSE,1
+8/20/2003,Switzerland,France,0,2,Friendly,Geneva,Switzerland,,FALSE,2
+9/6/2003,Argentina,Chile,2,2,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,0
+9/6/2003,Netherlands,Austria,3,1,UEFA Euro qualification,Rotterdam,Netherlands,,FALSE,-2
+9/6/2003,Portugal,Spain,0,3,Friendly,Guimarães,Portugal,,FALSE,3
+9/7/2003,Colombia,Brazil,1,2,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,1
+9/10/2003,Belgium,Croatia,2,1,UEFA Euro qualification,Brussels,Belgium,,FALSE,-1
+9/10/2003,Brazil,Ecuador,1,0,FIFA World Cup qualification,Manaus,Brazil,,FALSE,-1
+9/10/2003,Japan,Senegal,0,1,Friendly,Niigata,Japan,,FALSE,1
+9/10/2003,Paraguay,Uruguay,4,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-3
+9/10/2003,Poland,Sweden,0,2,UEFA Euro qualification,Chorzów,Poland,,FALSE,2
+9/10/2003,Spain,Ukraine,2,1,UEFA Euro qualification,Elche,Spain,,FALSE,-1
+10/10/2003,Egypt,Senegal,1,0,Friendly,Cairo,Egypt,,FALSE,-1
+10/11/2003,Hungary,Poland,1,2,UEFA Euro qualification,Budapest,Hungary,,FALSE,1
+10/15/2003,Mexico,Uruguay,0,2,Friendly,Chicago,United States,,TRUE,2
+11/12/2003,Poland,Italy,3,1,Friendly,Warsaw,Poland,,FALSE,-2
+11/15/2003,Germany,France,0,3,Friendly,Gelsenkirchen,Germany,,FALSE,3
+11/15/2003,Paraguay,Ecuador,2,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-1
+11/15/2003,Uruguay,Chile,2,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-1
+11/18/2003,Egypt,Sweden,1,0,Friendly,Cairo,Egypt,,FALSE,-1
+11/19/2003,Brazil,Uruguay,3,3,FIFA World Cup qualification,Curitiba,Brazil,,FALSE,0
+11/19/2003,Colombia,Argentina,1,1,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,0
+11/19/2003,Japan,Cameroon,0,0,Friendly,Ōita,Japan,,FALSE,0
+12/10/2003,Japan,South Korea,0,0,EAFF Championship,Yokohama,Japan,,FALSE,0
+2/18/2004,Belgium,France,0,2,Friendly,Brussels,Belgium,,FALSE,2
+2/18/2004,Croatia,Germany,1,2,Friendly,Split,Croatia,,FALSE,1
+2/18/2004,Mexico,Chile,1,1,Friendly,Carson,United States,,TRUE,0
+2/18/2004,Morocco,Switzerland,2,1,Friendly,Rabat,Morocco,,FALSE,-1
+2/18/2004,Netherlands,United States,1,0,Friendly,Amsterdam,Netherlands,,FALSE,-1
+2/18/2004,Portugal,England,1,1,Friendly,Faro,Portugal,,FALSE,0
+3/10/2004,Mexico,Ecuador,2,1,Friendly,Tuxtla Gutiérrez,Mexico,,FALSE,-1
+3/30/2004,Argentina,Ecuador,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-1
+3/31/2004,Germany,Belgium,3,0,Friendly,Cologne,Germany,,FALSE,-3
+3/31/2004,Greece,Switzerland,1,0,Friendly,Heraklion,Greece,,FALSE,-1
+3/31/2004,Mexico,Costa Rica,2,0,Friendly,Carson,United States,,TRUE,-2
+3/31/2004,Netherlands,France,0,0,Friendly,Rotterdam,Netherlands,,FALSE,0
+3/31/2004,Paraguay,Brazil,0,0,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,0
+3/31/2004,Poland,United States,0,1,Friendly,Płock,Poland,,FALSE,1
+3/31/2004,Portugal,Italy,1,2,Friendly,Braga,Portugal,,FALSE,1
+3/31/2004,Sweden,England,1,0,Friendly,Gothenburg,Sweden,,FALSE,-1
+4/25/2004,Hungary,Japan,3,2,Friendly,Zalaegerszeg,Hungary,,FALSE,-1
+4/28/2004,Hungary,Brazil,1,4,Friendly,Budapest,Hungary,,FALSE,3
+4/28/2004,Italy,Spain,1,1,Friendly,Genoa,Italy,,FALSE,0
+4/28/2004,Morocco,Argentina,0,1,Friendly,Casablanca,Morocco,,FALSE,1
+4/28/2004,Portugal,Sweden,2,2,Friendly,Coimbra,Portugal,,FALSE,0
+4/28/2004,United States,Mexico,1,0,Friendly,Dallas,United States,,FALSE,-1
+5/20/2004,France,Brazil,0,0,Friendly,Saint-Denis,France,,FALSE,0
+5/25/2004,Austria,Russia,0,0,Friendly,Graz,Austria,,FALSE,0
+5/29/2004,Netherlands,Belgium,0,1,Friendly,Eindhoven,Netherlands,,FALSE,1
+6/1/2004,England,Japan,1,1,Friendly,Manchester,England,,FALSE,0
+6/2/2004,Brazil,Argentina,3,1,FIFA World Cup qualification,Belo Horizonte,Brazil,,FALSE,-2
+6/2/2004,Ecuador,Colombia,2,1,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-1
+6/2/2004,Switzerland,Germany,0,2,Friendly,Basel,Switzerland,,FALSE,2
+6/5/2004,Sweden,Poland,3,1,Friendly,Solna,Sweden,,FALSE,-2
+6/6/2004,Chile,Brazil,1,1,FIFA World Cup qualification,Santiago,Chile,,FALSE,0
+6/6/2004,Colombia,Uruguay,5,0,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,-5
+6/6/2004,France,Ukraine,1,0,Friendly,Saint-Denis,France,,FALSE,-1
+6/12/2004,Spain,Russia,1,0,UEFA Euro,Faro,Portugal,,TRUE,-1
+6/13/2004,France,England,2,1,UEFA Euro,Lisbon,Portugal,,TRUE,-1
+6/13/2004,Switzerland,Croatia,0,0,UEFA Euro,Leiria,Portugal,,TRUE,0
+6/15/2004,Germany,Netherlands,1,1,UEFA Euro,Porto,Portugal,,TRUE,0
+6/16/2004,Greece,Spain,1,1,UEFA Euro,Porto,Portugal,,TRUE,0
+6/16/2004,Portugal,Russia,2,0,UEFA Euro,Lisbon,Portugal,,FALSE,-2
+6/17/2004,Croatia,France,2,2,UEFA Euro,Leiria,Portugal,,TRUE,0
+6/17/2004,England,Switzerland,3,0,UEFA Euro,Coimbra,Portugal,,TRUE,-3
+6/18/2004,Italy,Sweden,1,1,UEFA Euro,Porto,Portugal,,TRUE,0
+6/20/2004,Portugal,Spain,1,0,UEFA Euro,Lisbon,Portugal,,FALSE,-1
+6/21/2004,Croatia,England,2,4,UEFA Euro,Lisbon,Portugal,,TRUE,2
+6/21/2004,Switzerland,France,1,3,UEFA Euro,Coimbra,Portugal,,TRUE,2
+6/24/2004,Portugal,England,2,2,UEFA Euro,Lisbon,Portugal,,FALSE,0
+6/26/2004,Sweden,Netherlands,0,0,UEFA Euro,Faro,Portugal,,TRUE,0
+6/27/2004,Argentina,Colombia,0,2,Friendly,Miami,United States,,TRUE,2
+6/30/2004,Portugal,Netherlands,2,1,UEFA Euro,Lisbon,Portugal,,FALSE,-1
+7/7/2004,Argentina,Ecuador,6,1,Copa América,Chiclayo,Peru,,TRUE,-5
+7/7/2004,Mexico,Uruguay,2,2,Copa América,Chiclayo,Peru,,TRUE,0
+7/8/2004,Brazil,Chile,1,0,Copa América,Arequipa,Peru,,TRUE,-1
+7/10/2004,Argentina,Mexico,0,1,Copa América,Chiclayo,Peru,,TRUE,1
+7/10/2004,Uruguay,Ecuador,2,1,Copa América,Chiclayo,Peru,,TRUE,-1
+7/11/2004,Brazil,Costa Rica,4,1,Copa América,Arequipa,Peru,,TRUE,-3
+7/11/2004,Paraguay,Chile,1,1,Copa América,Arequipa,Peru,,TRUE,0
+7/11/2004,United States,Poland,1,1,Friendly,Chicago,United States,,FALSE,0
+7/13/2004,Argentina,Uruguay,4,2,Copa América,Piura,Peru,,TRUE,-2
+7/13/2004,Mexico,Ecuador,2,1,Copa América,Piura,Peru,,TRUE,-1
+7/14/2004,Costa Rica,Chile,2,1,Copa América,Tacna,Peru,,TRUE,-1
+7/17/2004,Colombia,Costa Rica,2,0,Copa América,Trujillo,Peru,,TRUE,-2
+7/18/2004,Mexico,Brazil,0,4,Copa América,Piura,Peru,,TRUE,4
+7/18/2004,Paraguay,Uruguay,1,3,Copa América,Tacna,Peru,,TRUE,2
+7/20/2004,Argentina,Colombia,3,0,Copa América,Lima,Peru,,TRUE,-3
+7/21/2004,Uruguay,Brazil,1,1,Copa América,Lima,Peru,,TRUE,0
+7/24/2004,Colombia,Uruguay,1,2,Copa América,Cusco,Peru,,TRUE,1
+7/25/2004,Argentina,Brazil,2,2,Copa América,Lima,Peru,,TRUE,0
+7/28/2004,Japan,Iran,0,0,AFC Asian Cup,Chongqing,China PR,,TRUE,0
+7/31/2004,South Korea,Iran,3,4,AFC Asian Cup,Jinan,China PR,,TRUE,1
+8/18/2004,Austria,Germany,1,3,Friendly,Vienna,Austria,,FALSE,2
+8/18/2004,England,Ukraine,3,0,Friendly,Newcastle,England,,FALSE,-3
+8/18/2004,Japan,Argentina,1,2,Friendly,Fukuroi,Japan,,FALSE,1
+8/18/2004,Sweden,Netherlands,2,2,Friendly,Solna,Sweden,,FALSE,0
+9/4/2004,Austria,England,2,2,FIFA World Cup qualification,Vienna,Austria,,FALSE,0
+9/5/2004,Chile,Colombia,0,0,FIFA World Cup qualification,Santiago,Chile,,FALSE,0
+9/5/2004,Egypt,Cameroon,3,2,FIFA World Cup qualification,Cairo,Egypt,,FALSE,-1
+9/5/2004,Uruguay,Ecuador,1,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-1
+9/8/2004,Germany,Brazil,1,1,Friendly,Berlin,Germany,,FALSE,0
+9/8/2004,Poland,England,1,2,FIFA World Cup qualification,Chorzów,Poland,,FALSE,1
+9/8/2004,Sweden,Croatia,0,1,FIFA World Cup qualification,Gothenburg,Sweden,,FALSE,1
+10/9/2004,Argentina,Uruguay,4,2,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-2
+10/9/2004,Austria,Poland,1,3,FIFA World Cup qualification,Vienna,Austria,,FALSE,2
+10/9/2004,Iran,Germany,0,2,Friendly,Tehran,Iran,,FALSE,2
+10/9/2004,Spain,Belgium,2,0,FIFA World Cup qualification,Santander,Spain,,FALSE,-2
+10/10/2004,Ecuador,Chile,2,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-2
+10/13/2004,Brazil,Colombia,0,0,FIFA World Cup qualification,Maceió,Brazil,,FALSE,0
+10/13/2004,Chile,Argentina,0,0,FIFA World Cup qualification,Santiago,Chile,,FALSE,0
+10/13/2004,Portugal,Russia,7,1,FIFA World Cup qualification,Lisbon,Portugal,,FALSE,-6
+10/27/2004,Mexico,Ecuador,2,1,Friendly,East Rutherford,United States,,TRUE,-1
+11/17/2004,Ecuador,Brazil,1,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-1
+11/17/2004,France,Poland,0,0,Friendly,Saint-Denis,France,,FALSE,0
+11/17/2004,Germany,Cameroon,3,0,Friendly,Leipzig,Germany,,FALSE,-3
+11/17/2004,Spain,England,1,0,Friendly,Madrid,Spain,,FALSE,-1
+12/16/2004,Japan,Germany,0,3,Friendly,Yokohama,Japan,,FALSE,3
+12/19/2004,South Korea,Germany,3,1,Friendly,Busan,South Korea,,FALSE,-2
+1/15/2005,Colombia,South Korea,2,1,Friendly,Los Angeles,United States,,TRUE,-1
+1/19/2005,Paraguay,South Korea,1,1,Friendly,Los Angeles,United States,,TRUE,0
+1/22/2005,Sweden,South Korea,1,1,Friendly,Carson,United States,,TRUE,0
+1/26/2005,Mexico,Sweden,0,0,Friendly,San Diego,United States,,TRUE,0
+2/9/2005,Cameroon,Senegal,1,0,Friendly,Créteil,France,,TRUE,-1
+2/9/2005,Chile,Ecuador,3,0,Friendly,Viña del Mar,Chile,,FALSE,-3
+2/9/2005,Costa Rica,Mexico,1,2,FIFA World Cup qualification,San José,Costa Rica,,FALSE,1
+2/9/2005,Egypt,Belgium,4,0,Friendly,Cairo,Egypt,,FALSE,-4
+2/9/2005,England,Netherlands,0,0,Friendly,Birmingham,England,,FALSE,0
+2/9/2005,France,Sweden,1,1,Friendly,Saint-Denis,France,,FALSE,0
+2/9/2005,Germany,Argentina,2,2,Friendly,Düsseldorf,Germany,,FALSE,0
+2/9/2005,Italy,Russia,2,0,Friendly,Cagliari,Italy,,FALSE,-2
+2/16/2005,Costa Rica,Ecuador,1,2,Friendly,Heredia,Costa Rica,,FALSE,1
+2/23/2005,Mexico,Colombia,1,1,Friendly,Culiacán,Mexico,,FALSE,0
+3/9/2005,Mexico,Argentina,1,1,Friendly,Los Angeles,United States,,TRUE,0
+3/9/2005,United States,Colombia,3,0,Friendly,Fullerton,United States,,FALSE,-3
+3/25/2005,Iran,Japan,2,1,FIFA World Cup qualification,Tehran,Iran,,FALSE,-1
+3/26/2005,Chile,Uruguay,1,1,FIFA World Cup qualification,Santiago,Chile,,FALSE,0
+3/26/2005,France,Switzerland,0,0,FIFA World Cup qualification,Saint-Denis,France,,FALSE,0
+3/27/2005,Mexico,United States,2,1,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,-1
+3/30/2005,Argentina,Colombia,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-1
+3/30/2005,Paraguay,Chile,2,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-1
+3/30/2005,Uruguay,Brazil,1,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,0
+4/27/2005,Mexico,Poland,1,1,Friendly,Chicago,United States,,TRUE,0
+5/28/2005,United States,England,1,2,Friendly,Chicago,United States,,FALSE,1
+5/31/2005,Colombia,England,2,3,Friendly,East Rutherford,United States,,TRUE,1
+6/4/2005,Ecuador,Argentina,2,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-2
+6/4/2005,United States,Costa Rica,3,0,FIFA World Cup qualification,Salt Lake City,United States,,FALSE,-3
+6/8/2005,Argentina,Brazil,3,1,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-2
+6/8/2005,Colombia,Ecuador,3,0,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,-3
+6/8/2005,Germany,Russia,2,2,Friendly,Mönchengladbach,Germany,,FALSE,0
+6/8/2005,Greece,Ukraine,0,1,FIFA World Cup qualification,Piraeus,Greece,,FALSE,1
+6/11/2005,Ecuador,Italy,1,1,Friendly,East Rutherford,United States,,TRUE,0
+6/15/2005,Germany,Australia,4,3,Confederations Cup,Frankfurt am Main,Germany,,FALSE,-1
+6/16/2005,Japan,Mexico,1,2,Confederations Cup,Hanover,Germany,,TRUE,1
+6/18/2005,Australia,Argentina,2,4,Confederations Cup,Nuremberg,Germany,,TRUE,2
+6/19/2005,Greece,Japan,0,1,Confederations Cup,Frankfurt am Main,Germany,,TRUE,1
+6/19/2005,Mexico,Brazil,1,0,Confederations Cup,Hanover,Germany,,TRUE,-1
+6/21/2005,Germany,Argentina,2,2,Confederations Cup,Nuremberg,Germany,,FALSE,0
+6/22/2005,Greece,Mexico,0,0,Confederations Cup,Frankfurt am Main,Germany,,TRUE,0
+6/22/2005,Japan,Brazil,2,2,Confederations Cup,Cologne,Germany,,TRUE,0
+6/25/2005,Germany,Brazil,2,3,Confederations Cup,Nuremberg,Germany,,FALSE,1
+6/26/2005,Mexico,Argentina,1,1,Confederations Cup,Hanover,Germany,,TRUE,0
+6/29/2005,Brazil,Argentina,4,1,Confederations Cup,Frankfurt am Main,Germany,,TRUE,-3
+6/29/2005,Germany,Mexico,4,3,Confederations Cup,Leipzig,Germany,,FALSE,-1
+7/12/2005,United States,Costa Rica,0,0,Gold Cup,Foxborough,United States,,FALSE,0
+7/17/2005,Mexico,Colombia,1,2,Gold Cup,Houston,United States,,TRUE,1
+8/7/2005,South Korea,Japan,0,1,EAFF Championship,Daegu,South Korea,,FALSE,1
+8/17/2005,Croatia,Brazil,1,1,Friendly,Split,Croatia,,FALSE,0
+8/17/2005,Hungary,Argentina,1,2,Friendly,Budapest,Hungary,,FALSE,1
+8/17/2005,Japan,Iran,2,1,FIFA World Cup qualification,Yokohama,Japan,,FALSE,-1
+8/17/2005,Mexico,Costa Rica,2,0,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,-2
+8/17/2005,Netherlands,Germany,2,2,Friendly,Rotterdam,Netherlands,,FALSE,0
+8/17/2005,Spain,Uruguay,2,0,Friendly,Gijón,Spain,,FALSE,-2
+9/3/2005,Paraguay,Argentina,1,0,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-1
+9/3/2005,Poland,Austria,3,2,FIFA World Cup qualification,Chorzów,Poland,,FALSE,-1
+9/3/2005,United States,Mexico,2,0,FIFA World Cup qualification,Columbus,United States,,FALSE,-2
+9/4/2005,Brazil,Chile,5,0,FIFA World Cup qualification,Brasília,Brazil,,FALSE,-5
+9/4/2005,Uruguay,Colombia,3,2,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-1
+9/7/2005,Hungary,Sweden,0,1,FIFA World Cup qualification,Budapest,Hungary,,FALSE,1
+10/8/2005,Belgium,Spain,0,2,FIFA World Cup qualification,Brussels,Belgium,,FALSE,2
+10/8/2005,Colombia,Chile,1,1,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,0
+10/8/2005,Costa Rica,United States,3,0,FIFA World Cup qualification,San José,Costa Rica,,FALSE,-3
+10/8/2005,Croatia,Sweden,1,0,FIFA World Cup qualification,Zagreb,Croatia,,FALSE,-1
+10/8/2005,Ecuador,Uruguay,0,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,0
+10/8/2005,England,Austria,1,0,FIFA World Cup qualification,Manchester,England,,FALSE,-1
+10/8/2005,Switzerland,France,1,1,FIFA World Cup qualification,Berne,Switzerland,,FALSE,0
+10/12/2005,Chile,Ecuador,0,0,FIFA World Cup qualification,Santiago,Chile,,FALSE,0
+10/12/2005,England,Poland,2,1,FIFA World Cup qualification,Manchester,England,,FALSE,-1
+10/12/2005,Hungary,Croatia,0,0,FIFA World Cup qualification,Budapest,Hungary,,FALSE,0
+10/12/2005,South Korea,Iran,2,0,Friendly,Seoul,South Korea,,FALSE,-2
+10/12/2005,Paraguay,Colombia,0,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,1
+10/12/2005,Uruguay,Argentina,1,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-1
+10/26/2005,Mexico,Uruguay,3,1,Friendly,Guadalajara,Mexico,,FALSE,-2
+11/9/2005,France,Costa Rica,3,2,Friendly,Fort-de-France,Martinique,,TRUE,-1
+11/12/2005,England,Argentina,3,2,Friendly,Geneva,Switzerland,,TRUE,-1
+11/12/2005,France,Germany,0,0,Friendly,Saint-Denis,France,,FALSE,0
+11/12/2005,South Korea,Sweden,2,2,Friendly,Seoul,South Korea,,FALSE,0
+11/12/2005,Netherlands,Italy,1,3,Friendly,Amsterdam,Netherlands,,FALSE,2
+11/12/2005,Portugal,Croatia,2,0,Friendly,Coimbra,Portugal,,FALSE,-2
+11/12/2005,Uruguay,Australia,1,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-1
+11/13/2005,Ecuador,Poland,0,3,Friendly,Barcelona,Spain,,TRUE,3
+11/15/2005,Morocco,Cameroon,0,0,Friendly,Clairfontaine,France,,TRUE,0
+11/16/2005,Australia,Uruguay,1,0,FIFA World Cup qualification,Sydney,Australia,,FALSE,-1
+12/27/2005,Ecuador,Senegal,1,2,Friendly,Cairo,Egypt,,TRUE,1
+12/29/2005,Egypt,Senegal,4,2,Friendly,Cairo,Egypt,,FALSE,-2
+1/21/2006,Greece,South Korea,1,1,Friendly,Riyadh,Saudi Arabia,,TRUE,0
+1/24/2006,Egypt,Morocco,0,0,African Cup of Nations,Cairo,Egypt,,FALSE,0
+1/29/2006,South Korea,Croatia,2,0,Lunar New Year Cup,So Kon Po,Hong Kong,,TRUE,-2
+2/7/2006,Egypt,Senegal,2,1,African Cup of Nations,Cairo,Egypt,,FALSE,-1
+2/10/2006,United States,Japan,3,2,Friendly,San Francisco,United States,,FALSE,-1
+2/11/2006,Costa Rica,South Korea,1,0,Friendly,Oakland,United States,,TRUE,-1
+2/15/2006,Mexico,South Korea,0,1,Friendly,Los Angeles,United States,,TRUE,1
+3/1/2006,Argentina,Croatia,2,3,Friendly,Basel,Switzerland,,TRUE,1
+3/1/2006,Austria,Canada,0,2,Friendly,Vienna,Austria,,FALSE,2
+3/1/2006,England,Uruguay,2,1,Friendly,Liverpool,England,,FALSE,-1
+3/1/2006,Iran,Costa Rica,3,2,Friendly,Tehran,Iran,,FALSE,-1
+3/1/2006,Italy,Germany,4,1,Friendly,Florence,Italy,,FALSE,-3
+3/1/2006,Netherlands,Ecuador,1,0,Friendly,Amsterdam,Netherlands,,FALSE,-1
+3/1/2006,Poland,United States,0,1,Friendly,Kaiserslautern,Germany,,TRUE,1
+3/22/2006,Germany,United States,4,1,Friendly,Dortmund,Germany,,FALSE,-3
+3/30/2006,Japan,Ecuador,1,0,Friendly,Ōita,Japan,,FALSE,-1
+5/23/2006,Austria,Croatia,1,4,Friendly,Vienna,Austria,,FALSE,3
+5/23/2006,South Korea,Senegal,1,1,Friendly,Seoul,South Korea,,FALSE,0
+5/23/2006,United States,Morocco,0,1,Friendly,Nashville,United States,,FALSE,1
+5/24/2006,Colombia,Ecuador,1,1,Friendly,East Rutherford,United States,,TRUE,0
+5/27/2006,France,Mexico,1,0,Friendly,Saint-Denis,France,,FALSE,-1
+5/27/2006,Netherlands,Cameroon,1,0,Friendly,Rotterdam,Netherlands,,FALSE,-1
+5/27/2006,Spain,Russia,0,0,Friendly,Albacete,Spain,,FALSE,0
+5/28/2006,Croatia,Iran,2,2,Friendly,Osijek,Croatia,,FALSE,0
+5/30/2006,Germany,Japan,2,2,Friendly,Leverkusen,Germany,,FALSE,0
+5/30/2006,Poland,Colombia,1,2,Friendly,Chorzów,Poland,,FALSE,1
+5/31/2006,Switzerland,Italy,1,1,Friendly,Geneva,Switzerland,,FALSE,0
+6/1/2006,Netherlands,Mexico,2,1,Friendly,Eindhoven,Netherlands,,FALSE,-1
+6/2/2006,Germany,Colombia,3,0,Friendly,Mönchengladbach,Germany,,FALSE,-3
+6/2/2006,Italy,Ukraine,0,0,Friendly,Lausanne,Switzerland,,TRUE,0
+6/2/2006,Sweden,Chile,1,1,Friendly,Solna,Sweden,,FALSE,0
+6/3/2006,Croatia,Poland,0,1,Friendly,Wolfsburg,Germany,,TRUE,1
+6/4/2006,Colombia,Morocco,2,0,Friendly,Barcelona,Spain,,TRUE,-2
+6/4/2006,Netherlands,Australia,1,1,Friendly,Rotterdam,Netherlands,,FALSE,0
+6/7/2006,Spain,Croatia,2,1,Friendly,Geneva,Switzerland,,TRUE,-1
+6/9/2006,Germany,Costa Rica,4,2,FIFA World Cup,Munich,Germany,Europe,FALSE,-2
+6/9/2006,Poland,Ecuador,0,2,FIFA World Cup,Gelsenkirchen,Germany,Europe,TRUE,2
+6/11/2006,Mexico,Iran,3,1,FIFA World Cup,Nuremberg,Germany,Europe,TRUE,-2
+6/12/2006,Australia,Japan,3,1,FIFA World Cup,Kaiserslautern,Germany,Europe,TRUE,-2
+6/13/2006,Brazil,Croatia,1,0,FIFA World Cup,Berlin,Germany,Europe,TRUE,-1
+6/13/2006,France,Switzerland,0,0,FIFA World Cup,Stuttgart,Germany,Europe,TRUE,0
+6/14/2006,Germany,Poland,1,0,FIFA World Cup,Dortmund,Germany,Europe,FALSE,-1
+6/14/2006,Spain,Ukraine,4,0,FIFA World Cup,Leipzig,Germany,Europe,TRUE,-4
+6/15/2006,Ecuador,Costa Rica,3,0,FIFA World Cup,Hamburg,Germany,Europe,TRUE,-3
+6/17/2006,Italy,United States,1,1,FIFA World Cup,Kaiserslautern,Germany,Europe,TRUE,0
+6/17/2006,Portugal,Iran,2,0,FIFA World Cup,Frankfurt am Main,Germany,Europe,TRUE,-2
+6/18/2006,Brazil,Australia,2,0,FIFA World Cup,Munich,Germany,Europe,TRUE,-2
+6/18/2006,France,South Korea,1,1,FIFA World Cup,Leipzig,Germany,Europe,TRUE,0
+6/18/2006,Japan,Croatia,0,0,FIFA World Cup,Nuremberg,Germany,Europe,TRUE,0
+6/20/2006,Costa Rica,Poland,1,2,FIFA World Cup,Hanover,Germany,Europe,TRUE,1
+6/20/2006,Germany,Ecuador,3,0,FIFA World Cup,Berlin,Germany,Europe,FALSE,-3
+6/20/2006,Sweden,England,2,2,FIFA World Cup,Cologne,Germany,Europe,TRUE,0
+6/21/2006,Netherlands,Argentina,0,0,FIFA World Cup,Frankfurt am Main,Germany,Europe,TRUE,0
+6/21/2006,Portugal,Mexico,2,1,FIFA World Cup,Gelsenkirchen,Germany,Europe,TRUE,-1
+6/22/2006,Croatia,Australia,2,2,FIFA World Cup,Stuttgart,Germany,Europe,TRUE,0
+6/22/2006,Japan,Brazil,1,4,FIFA World Cup,Dortmund,Germany,Europe,TRUE,3
+6/23/2006,Switzerland,South Korea,2,0,FIFA World Cup,Hanover,Germany,Europe,TRUE,-2
+6/24/2006,Argentina,Mexico,2,1,FIFA World Cup,Leipzig,Germany,Europe,TRUE,-1
+6/24/2006,Germany,Sweden,2,0,FIFA World Cup,Munich,Germany,Europe,FALSE,-2
+6/25/2006,England,Ecuador,1,0,FIFA World Cup,Stuttgart,Germany,Europe,TRUE,-1
+6/25/2006,Portugal,Netherlands,1,0,FIFA World Cup,Nuremberg,Germany,Europe,TRUE,-1
+6/26/2006,Italy,Australia,1,0,FIFA World Cup,Kaiserslautern,Germany,Europe,TRUE,-1
+6/26/2006,Switzerland,Ukraine,0,0,FIFA World Cup,Cologne,Germany,Europe,TRUE,0
+6/27/2006,Spain,France,1,3,FIFA World Cup,Hanover,Germany,Europe,TRUE,2
+6/30/2006,Germany,Argentina,1,1,FIFA World Cup,Berlin,Germany,Europe,FALSE,0
+6/30/2006,Italy,Ukraine,3,0,FIFA World Cup,Hamburg,Germany,Europe,TRUE,-3
+7/1/2006,Brazil,France,0,1,FIFA World Cup,Frankfurt am Main,Germany,Europe,TRUE,1
+7/1/2006,England,Portugal,0,0,FIFA World Cup,Gelsenkirchen,Germany,Europe,TRUE,0
+7/4/2006,Germany,Italy,0,2,FIFA World Cup,Dortmund,Germany,Europe,FALSE,2
+7/5/2006,Portugal,France,0,1,FIFA World Cup,Munich,Germany,Europe,TRUE,1
+7/8/2006,Germany,Portugal,3,1,FIFA World Cup,Stuttgart,Germany,Europe,FALSE,-2
+7/9/2006,Italy,France,1,1,FIFA World Cup,Berlin,Germany,Europe,TRUE,0
+8/16/2006,Chile,Colombia,1,2,Friendly,Santiago,Chile,,FALSE,1
+8/16/2006,Egypt,Uruguay,0,2,Friendly,Alexandria,Egypt,,FALSE,2
+8/16/2006,Germany,Sweden,3,0,Friendly,Gelsenkirchen,Germany,,FALSE,-3
+8/16/2006,Italy,Croatia,0,2,Friendly,Livorno,Italy,,FALSE,2
+9/2/2006,Austria,Costa Rica,2,2,Friendly,Geneva,Switzerland,,TRUE,0
+9/2/2006,South Korea,Iran,1,1,AFC Asian Cup qualification,Seoul,South Korea,,FALSE,0
+9/3/2006,Argentina,Brazil,0,3,Friendly,London,England,,TRUE,3
+9/6/2006,France,Italy,3,1,UEFA Euro qualification,Saint-Denis,France,,FALSE,-2
+9/6/2006,Switzerland,Costa Rica,2,0,Friendly,Geneva,Switzerland,,FALSE,-2
+10/7/2006,Italy,Ukraine,2,0,UEFA Euro qualification,Rome,Italy,,FALSE,-2
+10/7/2006,Sweden,Spain,2,0,UEFA Euro qualification,Solna,Sweden,,FALSE,-2
+10/10/2006,Brazil,Ecuador,2,1,Friendly,Solna,Sweden,,TRUE,-1
+10/11/2006,Austria,Switzerland,2,1,Friendly,Innsbruck,Austria,,FALSE,-1
+10/11/2006,Croatia,England,2,0,UEFA Euro qualification,Zagreb,Croatia,,FALSE,-2
+10/11/2006,Poland,Portugal,2,1,UEFA Euro qualification,Chorzów,Poland,,FALSE,-1
+10/11/2006,Spain,Argentina,2,1,Friendly,Murcia,Spain,,FALSE,-1
+11/15/2006,Belgium,Poland,0,1,UEFA Euro qualification,Brussels,Belgium,,FALSE,1
+11/15/2006,Hungary,Canada,1,0,Friendly,Székesfehérvár,Hungary,,FALSE,-1
+11/15/2006,Iran,South Korea,2,0,AFC Asian Cup qualification,Tehran,Iran,,FALSE,-2
+11/15/2006,Netherlands,England,1,1,Friendly,Amsterdam,Netherlands,,FALSE,0
+11/15/2006,Switzerland,Brazil,1,2,Friendly,Basel,Switzerland,,FALSE,1
+1/18/2007,Ecuador,Sweden,2,1,Friendly,Cuenca,Ecuador,,FALSE,-1
+1/21/2007,Ecuador,Sweden,1,1,Friendly,Quito,Ecuador,,FALSE,0
+2/6/2007,Greece,South Korea,0,1,Friendly,London,England,,TRUE,1
+2/6/2007,Portugal,Brazil,2,0,Friendly,London,England,,TRUE,-2
+2/7/2007,Colombia,Uruguay,1,3,Friendly,Cúcuta,Colombia,,FALSE,2
+2/7/2007,Egypt,Sweden,2,0,Friendly,Cairo,Egypt,,FALSE,-2
+2/7/2007,England,Spain,0,1,Friendly,Manchester,England,,FALSE,1
+2/7/2007,France,Argentina,0,1,Friendly,Saint-Denis,France,,FALSE,1
+2/7/2007,Germany,Switzerland,3,1,Friendly,Düsseldorf,Germany,,FALSE,-2
+2/7/2007,Netherlands,Russia,4,1,Friendly,Amsterdam,Netherlands,,FALSE,-3
+2/7/2007,United States,Mexico,2,0,Friendly,Glendale,United States,,FALSE,-2
+3/24/2007,Brazil,Chile,4,0,Friendly,Gothenburg,Sweden,,TRUE,-4
+3/24/2007,South Korea,Uruguay,0,2,Friendly,Seoul,South Korea,,FALSE,2
+3/24/2007,Portugal,Belgium,4,0,UEFA Euro qualification,Lisbon,Portugal,,FALSE,-4
+3/25/2007,Colombia,Switzerland,3,1,Friendly,Miami,United States,,TRUE,-2
+3/25/2007,United States,Ecuador,3,1,Friendly,Tampa,United States,,FALSE,-2
+3/28/2007,Chile,Costa Rica,1,1,Friendly,Talca,Chile,,FALSE,0
+3/28/2007,France,Austria,1,0,Friendly,Saint-Denis,France,,FALSE,-1
+3/28/2007,Mexico,Ecuador,4,2,Friendly,Oakland,United States,,TRUE,-2
+4/18/2007,Argentina,Chile,0,0,Friendly,Mendoza,Argentina,South America,FALSE,0
+6/1/2007,England,Brazil,1,1,Friendly,London,England,,FALSE,0
+6/2/2007,Australia,Uruguay,1,2,Friendly,Sydney,Australia,,FALSE,1
+6/2/2007,Belgium,Portugal,1,2,UEFA Euro qualification,Brussels,Belgium,,FALSE,1
+6/2/2007,Costa Rica,Chile,2,0,Friendly,San José,Costa Rica,,FALSE,-2
+6/2/2007,France,Ukraine,2,0,UEFA Euro qualification,Saint-Denis,France,,FALSE,-2
+6/2/2007,South Korea,Netherlands,0,2,Friendly,Seoul,South Korea,,FALSE,2
+6/2/2007,Mexico,Iran,4,0,Friendly,San Luis Potosí,Mexico,,FALSE,-4
+6/2/2007,Switzerland,Argentina,1,1,Friendly,Basel,Switzerland,,FALSE,0
+6/5/2007,Japan,Colombia,0,0,Kirin Cup,Saitama,Japan,,FALSE,0
+6/6/2007,Croatia,Russia,0,0,UEFA Euro qualification,Zagreb,Croatia,,FALSE,0
+6/17/2007,Mexico,Costa Rica,1,0,Gold Cup,Houston,United States,,TRUE,-1
+6/23/2007,Colombia,Ecuador,3,1,Friendly,Barranquilla,Colombia,,FALSE,-2
+6/24/2007,United States,Mexico,2,1,Gold Cup,Chicago,United States,,FALSE,-1
+6/27/2007,Brazil,Mexico,0,2,Copa América,Puerto Ordaz,Venezuela,,TRUE,2
+6/27/2007,Ecuador,Chile,2,3,Copa América,Puerto Ordaz,Venezuela,,TRUE,1
+6/28/2007,Argentina,United States,4,1,Copa América,Maracaibo,Venezuela,,TRUE,-3
+6/28/2007,Paraguay,Colombia,5,0,Copa América,Barinas,Venezuela,,TRUE,-5
+7/1/2007,Brazil,Chile,3,0,Copa América,Maturín,Venezuela,,TRUE,-3
+7/1/2007,Mexico,Ecuador,2,1,Copa América,Maturín,Venezuela,,TRUE,-1
+7/2/2007,Argentina,Colombia,4,2,Copa América,Maracaibo,Venezuela,,TRUE,-2
+7/4/2007,Brazil,Ecuador,1,0,Copa América,Puerto la Cruz,Venezuela,,TRUE,-1
+7/4/2007,Mexico,Chile,0,0,Copa América,Puerto la Cruz,Venezuela,,TRUE,0
+7/5/2007,Colombia,United States,1,0,Copa América,Barquisimeto,Venezuela,,TRUE,-1
+7/7/2007,Chile,Brazil,1,6,Copa América,Puerto la Cruz,Venezuela,,TRUE,5
+7/10/2007,Uruguay,Brazil,2,2,Copa América,Maracaibo,Venezuela,,TRUE,0
+7/11/2007,Mexico,Argentina,0,3,Copa América,Puerto Ordaz,Venezuela,,TRUE,3
+7/14/2007,Mexico,Uruguay,3,1,Copa América,Caracas,Venezuela,,TRUE,-2
+7/15/2007,Brazil,Argentina,3,0,Copa América,Maracaibo,Venezuela,,TRUE,-3
+7/21/2007,Japan,Australia,1,1,AFC Asian Cup,Hanoi,Vietnam,,TRUE,0
+7/22/2007,Iran,South Korea,0,0,AFC Asian Cup,Kuala Lumpur,Malaysia,,TRUE,0
+7/28/2007,South Korea,Japan,0,0,AFC Asian Cup,Palembang,Indonesia,,TRUE,0
+8/22/2007,England,Germany,1,2,Friendly,London,England,,FALSE,1
+8/22/2007,Greece,Spain,2,3,Friendly,Salonica,Greece,,FALSE,1
+8/22/2007,Hungary,Italy,3,1,Friendly,Budapest,Hungary,,FALSE,-2
+8/22/2007,Japan,Cameroon,2,0,Friendly,Ōita,Japan,,FALSE,-2
+8/22/2007,Mexico,Colombia,0,1,Friendly,Commerce City,United States,,TRUE,1
+8/22/2007,Sweden,United States,1,0,Friendly,Gothenburg,Sweden,,FALSE,-1
+8/22/2007,Switzerland,Netherlands,2,1,Friendly,Geneva,Switzerland,,FALSE,-1
+9/7/2007,Austria,Japan,0,0,Friendly,Klagenfurt,Austria,,FALSE,0
+9/7/2007,Switzerland,Chile,2,1,Friendly,Vienna,Austria,,TRUE,-1
+9/8/2007,Italy,France,0,0,UEFA Euro qualification,Milan,Italy,,FALSE,0
+9/8/2007,Portugal,Poland,2,2,UEFA Euro qualification,Lisbon,Portugal,,FALSE,0
+9/9/2007,United States,Brazil,2,4,Friendly,Chicago,United States,,FALSE,2
+9/11/2007,Australia,Argentina,0,1,Friendly,Melbourne,Australia,,FALSE,1
+9/11/2007,Austria,Chile,0,2,Friendly,Vienna,Austria,,FALSE,2
+9/11/2007,Switzerland,Japan,3,4,Friendly,Klagenfurt,Austria,,TRUE,1
+9/12/2007,England,Russia,3,0,UEFA Euro qualification,London,England,,FALSE,-3
+9/12/2007,Mexico,Brazil,1,3,Friendly,Foxborough,United States,,TRUE,2
+10/13/2007,Argentina,Chile,2,0,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-2
+10/13/2007,Switzerland,Austria,3,1,Friendly,Zürich,Switzerland,,FALSE,-2
+10/14/2007,Colombia,Brazil,0,0,FIFA World Cup qualification,Bogotá,Colombia,,FALSE,0
+10/17/2007,Brazil,Ecuador,5,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,,FALSE,-5
+10/17/2007,Paraguay,Uruguay,1,0,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-1
+10/17/2007,Switzerland,United States,0,1,Friendly,Basel,Switzerland,,FALSE,1
+11/16/2007,Austria,England,0,1,Friendly,Vienna,Austria,,FALSE,1
+11/16/2007,France,Morocco,2,2,Friendly,Saint-Denis,France,,FALSE,0
+11/17/2007,Paraguay,Ecuador,5,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-4
+11/17/2007,Poland,Belgium,2,0,UEFA Euro qualification,Chorzów,Poland,,FALSE,-2
+11/17/2007,Spain,Sweden,3,0,UEFA Euro qualification,Madrid,Spain,,FALSE,-3
+11/18/2007,Uruguay,Chile,2,2,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,0
+11/20/2007,Colombia,Argentina,2,1,FIFA World Cup qualification,Bogotá,Colombia,,FALSE,-1
+11/21/2007,Brazil,Uruguay,2,1,FIFA World Cup qualification,São Paulo,Brazil,,FALSE,-1
+11/21/2007,England,Croatia,2,3,UEFA Euro qualification,London,England,,FALSE,1
+11/21/2007,Morocco,Senegal,3,0,Friendly,Évry/Bondoufle,France,,TRUE,-3
+1/13/2008,Costa Rica,Sweden,0,1,Friendly,San José,Costa Rica,,FALSE,1
+1/19/2008,United States,Sweden,2,0,Friendly,Carson,United States,,FALSE,-2
+1/22/2008,Egypt,Cameroon,4,2,African Cup of Nations,Kumasi,Ghana,,TRUE,-2
+1/26/2008,Japan,Chile,0,0,Friendly,Tokyo,Japan,,FALSE,0
+1/30/2008,Iran,Costa Rica,0,0,Friendly,Tehran,Iran,,FALSE,0
+1/30/2008,South Korea,Chile,0,1,Friendly,Seoul,South Korea,,FALSE,1
+2/6/2008,Austria,Germany,0,3,Friendly,Vienna,Austria,,FALSE,3
+2/6/2008,Croatia,Netherlands,0,3,Friendly,Split,Croatia,,FALSE,3
+2/6/2008,England,Switzerland,2,1,Friendly,London,England,,FALSE,-1
+2/6/2008,Italy,Portugal,3,1,Friendly,Zürich,Switzerland,,TRUE,-2
+2/6/2008,Spain,France,1,0,Friendly,Málaga,Spain,,FALSE,-1
+2/6/2008,Uruguay,Colombia,2,2,Friendly,Montevideo,Uruguay,,FALSE,0
+2/6/2008,United States,Mexico,2,2,Friendly,Houston,United States,,FALSE,0
+2/23/2008,Japan,South Korea,1,1,EAFF Championship,Chongqing,China PR,,TRUE,0
+3/26/2008,Austria,Netherlands,3,4,Friendly,Vienna,Austria,,FALSE,1
+3/26/2008,Belgium,Morocco,1,4,Friendly,Brussels,Belgium,,FALSE,3
+3/26/2008,Brazil,Sweden,1,0,Friendly,London,England,,TRUE,-1
+3/26/2008,Egypt,Argentina,0,2,Friendly,Cairo,Egypt,,FALSE,2
+3/26/2008,France,England,1,0,Friendly,Saint-Denis,France,,FALSE,-1
+3/26/2008,Poland,United States,0,3,Friendly,Kraków,Poland,,FALSE,3
+3/26/2008,Spain,Italy,1,0,Friendly,Elche,Spain,,FALSE,-1
+3/26/2008,Switzerland,Germany,0,4,Friendly,Basel,Switzerland,,FALSE,4
+5/24/2008,Netherlands,Ukraine,3,0,Friendly,Rotterdam,Netherlands,,FALSE,-3
+5/27/2008,France,Ecuador,2,0,Friendly,Grenoble,France,,FALSE,-2
+5/28/2008,England,United States,2,0,Friendly,London,England,,FALSE,-2
+5/30/2008,Italy,Belgium,3,1,Friendly,Florence,Italy,,FALSE,-2
+5/31/2008,Hungary,Croatia,1,1,Friendly,Budapest,Hungary,,FALSE,0
+6/1/2008,Sweden,Ukraine,0,1,Friendly,Solna,Sweden,,FALSE,1
+6/3/2008,France,Colombia,1,0,Friendly,Saint-Denis,France,,FALSE,-1
+6/4/2008,Mexico,Argentina,1,4,Friendly,San Diego,United States,,TRUE,3
+6/4/2008,Spain,United States,1,0,Friendly,Santander,Spain,,FALSE,-1
+6/8/2008,Austria,Croatia,0,1,UEFA Euro,Vienna,Austria,,FALSE,1
+6/8/2008,Germany,Poland,2,0,UEFA Euro,Klagenfurt,Austria,,TRUE,-2
+6/8/2008,United States,Argentina,0,0,Friendly,East Rutherford,United States,,FALSE,0
+6/9/2008,Netherlands,Italy,3,0,UEFA Euro,Berne,Switzerland,,TRUE,-3
+6/10/2008,Greece,Sweden,0,2,UEFA Euro,Salzburg,Austria,,TRUE,2
+6/10/2008,Spain,Russia,4,1,UEFA Euro,Innsbruck,Austria,,TRUE,-3
+6/12/2008,Austria,Poland,1,1,UEFA Euro,Vienna,Austria,,FALSE,0
+6/12/2008,Croatia,Germany,2,1,UEFA Euro,Klagenfurt,Austria,,TRUE,-1
+6/13/2008,Netherlands,France,4,1,UEFA Euro,Berne,Switzerland,,TRUE,-3
+6/14/2008,Greece,Russia,0,1,UEFA Euro,Salzburg,Austria,,TRUE,1
+6/14/2008,Sweden,Spain,1,2,UEFA Euro,Innsbruck,Austria,,TRUE,1
+6/15/2008,Argentina,Ecuador,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,0
+6/15/2008,Paraguay,Brazil,2,0,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-2
+6/15/2008,Switzerland,Portugal,2,0,UEFA Euro,Basel,Switzerland,,FALSE,-2
+6/16/2008,Austria,Germany,0,1,UEFA Euro,Vienna,Austria,,FALSE,1
+6/16/2008,Poland,Croatia,0,1,UEFA Euro,Klagenfurt,Austria,,TRUE,1
+6/17/2008,France,Italy,0,2,UEFA Euro,Zürich,Switzerland,,TRUE,2
+6/18/2008,Ecuador,Colombia,0,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,0
+6/18/2008,Greece,Spain,1,2,UEFA Euro,Salzburg,Austria,,TRUE,1
+6/18/2008,Brazil,Argentina,0,0,FIFA World Cup qualification,Belo Horizonte,Brazil,,FALSE,0
+6/19/2008,Portugal,Germany,2,3,UEFA Euro,Basel,Switzerland,,TRUE,1
+6/21/2008,Netherlands,Russia,1,3,UEFA Euro,Basel,Switzerland,,TRUE,2
+6/22/2008,Spain,Italy,0,0,UEFA Euro,Vienna,Austria,,TRUE,0
+6/29/2008,Germany,Spain,0,1,UEFA Euro,Vienna,Austria,,TRUE,1
+8/20/2008,Colombia,Ecuador,0,1,Friendly,East Rutherford,United States,,TRUE,1
+8/20/2008,Germany,Belgium,2,0,Friendly,Nuremberg,Germany,,FALSE,-2
+8/20/2008,Italy,Austria,2,2,Friendly,Nice,France,,TRUE,0
+8/20/2008,Japan,Uruguay,1,3,Friendly,Sapporo,Japan,,FALSE,2
+8/20/2008,Sweden,France,2,3,Friendly,Gothenburg,Sweden,,FALSE,1
+9/6/2008,Austria,France,3,1,FIFA World Cup qualification,Vienna,Austria,,FALSE,-2
+9/6/2008,Colombia,Uruguay,0,1,FIFA World Cup qualification,Bogotá,Colombia,,FALSE,1
+9/6/2008,Netherlands,Australia,1,2,Friendly,Eindhoven,Netherlands,,FALSE,1
+9/7/2008,Chile,Brazil,0,3,FIFA World Cup qualification,Santiago,Chile,,FALSE,3
+9/10/2008,Chile,Colombia,4,0,FIFA World Cup qualification,Santiago,Chile,,FALSE,-4
+9/10/2008,Croatia,England,1,4,FIFA World Cup qualification,Zagreb,Croatia,,FALSE,3
+9/10/2008,Uruguay,Ecuador,0,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,0
+9/24/2008,Mexico,Chile,0,1,Friendly,Los Angeles,United States,,TRUE,1
+10/11/2008,Argentina,Uruguay,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-1
+10/11/2008,Germany,Russia,2,1,FIFA World Cup qualification,Dortmund,Germany,,FALSE,-1
+10/11/2008,Sweden,Portugal,0,0,FIFA World Cup qualification,Solna,Sweden,,FALSE,0
+10/12/2008,Ecuador,Chile,1,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-1
+10/15/2008,Austria,Serbia,1,3,FIFA World Cup qualification,Vienna,Austria,,FALSE,2
+10/15/2008,Belgium,Spain,1,2,FIFA World Cup qualification,Brussels,Belgium,,FALSE,1
+10/15/2008,Brazil,Colombia,0,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,,FALSE,0
+10/15/2008,Chile,Argentina,1,0,FIFA World Cup qualification,Santiago,Chile,,FALSE,-1
+10/15/2008,Greece,Switzerland,1,2,FIFA World Cup qualification,Athens,Greece,,FALSE,1
+11/12/2008,Mexico,Ecuador,2,1,Friendly,Phoenix,United States,,TRUE,-1
+11/19/2008,Brazil,Portugal,6,2,Friendly,Gama,Brazil,,FALSE,-4
+11/19/2008,France,Uruguay,0,0,Friendly,Saint-Denis,France,,FALSE,0
+11/19/2008,Germany,England,1,2,Friendly,Berlin,Germany,,FALSE,1
+11/19/2008,Greece,Italy,1,1,Friendly,Piraeus,Greece,,FALSE,0
+11/19/2008,Netherlands,Sweden,3,1,Friendly,Amsterdam,Netherlands,,FALSE,-2
+11/19/2008,Spain,Chile,3,0,Friendly,Vila-real,Spain,,FALSE,-3
+12/17/2008,Iran,Ecuador,0,1,Friendly,Muscat,Oman,,TRUE,1
+1/24/2009,United States,Sweden,3,2,Friendly,Carson,United States,,FALSE,-1
+1/28/2009,Mexico,Sweden,0,1,Friendly,Oakland,United States,,TRUE,1
+2/10/2009,Brazil,Italy,2,0,Friendly,London,England,,TRUE,-2
+2/11/2009,Austria,Sweden,0,2,Friendly,Graz,Austria,,FALSE,2
+2/11/2009,France,Argentina,0,2,Friendly,Marseille,France,,FALSE,2
+2/11/2009,Iran,South Korea,1,1,FIFA World Cup qualification,Tehran,Iran,,FALSE,0
+2/11/2009,Japan,Australia,0,0,FIFA World Cup qualification,Yokohama,Japan,,FALSE,0
+2/11/2009,Spain,England,2,0,Friendly,Seville,Spain,,FALSE,-2
+2/11/2009,United States,Mexico,2,0,FIFA World Cup qualification,Columbus,United States,,FALSE,-2
+3/28/2009,Mexico,Costa Rica,2,0,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,-2
+3/28/2009,Portugal,Sweden,0,0,FIFA World Cup qualification,Porto,Portugal,,FALSE,0
+3/29/2009,Ecuador,Brazil,1,1,FIFA World Cup qualification,Quito,Ecuador,,FALSE,0
+4/1/2009,England,Ukraine,2,1,FIFA World Cup qualification,London,England,,FALSE,-1
+4/1/2009,Iran,Senegal,1,1,Friendly,Tehran,Iran,,FALSE,0
+4/1/2009,Chile,Uruguay,0,0,FIFA World Cup qualification,Santiago,Chile,,FALSE,0
+5/27/2009,Japan,Chile,4,0,Kirin Cup,Osaka,Japan,,FALSE,-4
+5/29/2009,Belgium,Chile,1,1,Kirin Cup,Chiba,Japan,,TRUE,0
+5/31/2009,Japan,Belgium,4,0,Kirin Cup,Tokyo,Japan,,FALSE,-4
+6/3/2009,Costa Rica,United States,3,1,FIFA World Cup qualification,San José,Costa Rica,,FALSE,-2
+6/6/2009,Argentina,Colombia,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-1
+6/6/2009,Croatia,Ukraine,2,2,FIFA World Cup qualification,Zagreb,Croatia,,FALSE,0
+6/6/2009,Paraguay,Chile,0,2,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,2
+6/6/2009,Uruguay,Brazil,0,4,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,4
+6/10/2009,Ecuador,Argentina,2,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-2
+6/15/2009,United States,Italy,1,3,Confederations Cup,Pretoria,South Africa,,TRUE,2
+6/17/2009,Australia,Japan,2,1,FIFA World Cup qualification,Melbourne,Australia,,FALSE,-1
+6/17/2009,South Korea,Iran,1,1,FIFA World Cup qualification,Seoul,South Korea,,FALSE,0
+6/18/2009,Egypt,Italy,1,0,Confederations Cup,Johannesburg,South Africa,,TRUE,-1
+6/18/2009,United States,Brazil,0,3,Confederations Cup,Pretoria,South Africa,,TRUE,3
+6/21/2009,Egypt,United States,0,3,Confederations Cup,Rustenburg,South Africa,,TRUE,3
+6/21/2009,Italy,Brazil,0,3,Confederations Cup,Pretoria,South Africa,,TRUE,3
+6/24/2009,Spain,United States,0,2,Confederations Cup,Bloemfontein,South Africa,,TRUE,2
+6/28/2009,United States,Brazil,2,3,Confederations Cup,Johannesburg,South Africa,,TRUE,1
+7/23/2009,Costa Rica,Mexico,1,1,Gold Cup,Chicago,United States,,TRUE,0
+7/26/2009,United States,Mexico,0,5,Gold Cup,East Rutherford,United States,,FALSE,5
+8/12/2009,Austria,Cameroon,0,2,Friendly,Klagenfurt,Austria,,FALSE,2
+8/12/2009,Mexico,United States,2,1,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,-1
+8/12/2009,Netherlands,England,2,2,Friendly,Amsterdam,Netherlands,,FALSE,0
+8/12/2009,Switzerland,Italy,0,0,Friendly,Basel,Switzerland,,FALSE,0
+9/5/2009,Argentina,Brazil,1,3,FIFA World Cup qualification,Rosario,Argentina,South America,FALSE,2
+9/5/2009,Colombia,Ecuador,2,0,FIFA World Cup qualification,Medellín,Colombia,,FALSE,-2
+9/5/2009,Costa Rica,Mexico,0,3,FIFA World Cup qualification,San José,Costa Rica,,FALSE,3
+9/5/2009,Hungary,Sweden,1,2,FIFA World Cup qualification,Budapest,Hungary,,FALSE,1
+9/5/2009,South Korea,Australia,3,1,Friendly,Seoul,South Korea,,FALSE,-2
+9/5/2009,Netherlands,Japan,3,0,Friendly,Enschede,Netherlands,,FALSE,-3
+9/5/2009,Spain,Belgium,5,0,FIFA World Cup qualification,La Coruña,Spain,,FALSE,-5
+9/9/2009,England,Croatia,5,1,FIFA World Cup qualification,London,England,,FALSE,-4
+9/9/2009,Hungary,Portugal,0,1,FIFA World Cup qualification,Budapest,Hungary,,FALSE,1
+9/9/2009,Uruguay,Colombia,3,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-2
+9/9/2009,Paraguay,Argentina,1,0,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-1
+9/9/2009,Brazil,Chile,4,2,FIFA World Cup qualification,Salvador,Brazil,,FALSE,-2
+9/30/2009,Mexico,Colombia,1,2,Friendly,Dallas,United States,,TRUE,1
+10/10/2009,Australia,Netherlands,0,0,Friendly,Sydney,Australia,,FALSE,0
+10/10/2009,Colombia,Chile,2,4,FIFA World Cup qualification,Medellín,Colombia,,FALSE,2
+10/10/2009,Ecuador,Uruguay,1,2,FIFA World Cup qualification,Quito,Ecuador,,FALSE,1
+10/14/2009,Chile,Ecuador,1,0,FIFA World Cup qualification,Santiago,Chile,,FALSE,-1
+10/14/2009,France,Austria,3,1,FIFA World Cup qualification,Saint-Denis,France,,FALSE,-2
+10/14/2009,South Korea,Senegal,2,0,Friendly,Seoul,South Korea,,FALSE,-2
+10/14/2009,Paraguay,Colombia,0,2,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,2
+10/14/2009,Uruguay,Argentina,0,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,1
+10/14/2009,United States,Costa Rica,2,2,FIFA World Cup qualification,Washington,United States,,FALSE,0
+11/14/2009,Brazil,England,1,0,Friendly,Doha,Qatar,,TRUE,-1
+11/14/2009,Costa Rica,Uruguay,0,1,FIFA World Cup qualification,San José,Costa Rica,,FALSE,1
+11/14/2009,Greece,Ukraine,0,0,FIFA World Cup qualification,Athens,Greece,,FALSE,0
+11/14/2009,Italy,Netherlands,0,0,Friendly,Pescara,Italy,,FALSE,0
+11/14/2009,Morocco,Cameroon,0,2,FIFA World Cup qualification,Fès,Morocco,,FALSE,2
+11/14/2009,Spain,Argentina,2,1,Friendly,Madrid,Spain,,FALSE,-1
+11/18/2009,Austria,Spain,1,5,Friendly,Vienna,Austria,,FALSE,4
+11/18/2009,Italy,Sweden,1,0,Friendly,Cesena,Italy,,FALSE,-1
+11/18/2009,Uruguay,Costa Rica,1,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,0
+1/25/2010,Egypt,Cameroon,3,1,African Cup of Nations,Benguela,Angola,Africa,TRUE,-2
+1/26/2010,Argentina,Costa Rica,3,2,Friendly,San Juan,Argentina,South America,FALSE,-1
+2/14/2010,Japan,South Korea,1,3,EAFF Championship,Tokyo,Japan,,FALSE,2
+3/3/2010,Belgium,Croatia,0,1,Friendly,Brussels,Belgium,,FALSE,1
+3/3/2010,France,Spain,0,2,Friendly,Saint-Denis,France,,FALSE,2
+3/3/2010,Germany,Argentina,0,1,Friendly,Munich,Germany,,FALSE,1
+3/3/2010,Greece,Senegal,0,2,Friendly,Vólos,Greece,,FALSE,2
+3/3/2010,Hungary,Russia,1,1,Friendly,Budapest,Hungary,,FALSE,0
+3/3/2010,Italy,Cameroon,0,0,Friendly,Monaco,Monaco,,TRUE,0
+3/3/2010,Netherlands,United States,2,1,Friendly,Amsterdam,Netherlands,,FALSE,-1
+3/3/2010,Switzerland,Uruguay,1,3,Friendly,St. Gallen,Switzerland,,FALSE,2
+5/7/2010,Mexico,Ecuador,0,0,Friendly,East Rutherford,United States,,TRUE,0
+5/10/2010,Mexico,Senegal,1,0,Friendly,Chicago,United States,,TRUE,-1
+5/16/2010,South Korea,Ecuador,2,0,Friendly,Seoul,South Korea,,FALSE,-2
+5/16/2010,Mexico,Chile,1,0,Friendly,Mexico City,Mexico,,FALSE,-1
+5/19/2010,Austria,Croatia,0,1,Friendly,Klagenfurt,Austria,,FALSE,1
+5/24/2010,England,Mexico,3,1,Friendly,London,England,,FALSE,-2
+5/24/2010,Japan,South Korea,0,2,Friendly,Saitama,Japan,,FALSE,2
+5/26/2010,France,Costa Rica,2,1,Friendly,Lens,France,,FALSE,-1
+5/26/2010,Netherlands,Mexico,2,1,Friendly,Freiburg,Germany,,TRUE,-1
+5/29/2010,Hungary,Germany,0,3,Friendly,Budapest,Hungary,,FALSE,3
+5/30/2010,Japan,England,1,2,Friendly,Graz,Austria,,TRUE,1
+6/1/2010,Portugal,Cameroon,3,1,Friendly,Covilhã,Portugal,,FALSE,-2
+6/1/2010,Switzerland,Costa Rica,0,1,Friendly,Sion,Switzerland,,FALSE,1
+6/3/2010,Italy,Mexico,1,2,Friendly,Brussels,Belgium,,TRUE,1
+6/3/2010,Spain,South Korea,1,0,Friendly,Innsbruck,Austria,,TRUE,-1
+6/5/2010,Australia,United States,1,3,Friendly,Roodepoort,South Africa,,TRUE,2
+6/5/2010,Switzerland,Italy,1,1,Friendly,Geneva,Switzerland,,FALSE,0
+6/8/2010,Spain,Poland,6,0,Friendly,Murcia,Spain,,FALSE,-6
+6/11/2010,Uruguay,France,0,0,FIFA World Cup,Cape Town,South Africa,Africa,TRUE,0
+6/12/2010,England,United States,1,1,FIFA World Cup,Rustenburg,South Africa,Africa,TRUE,0
+6/13/2010,Germany,Australia,4,0,FIFA World Cup,Durban,South Africa,Africa,TRUE,-4
+6/14/2010,Japan,Cameroon,1,0,FIFA World Cup,Bloemfontein,South Africa,Africa,TRUE,-1
+6/16/2010,Spain,Switzerland,0,1,FIFA World Cup,Durban,South Africa,Africa,TRUE,1
+6/17/2010,Argentina,South Korea,4,1,FIFA World Cup,Johannesburg,South Africa,Africa,TRUE,-3
+6/17/2010,France,Mexico,0,2,FIFA World Cup,Polokwane,South Africa,Africa,TRUE,2
+6/19/2010,Netherlands,Japan,1,0,FIFA World Cup,Durban,South Africa,Africa,TRUE,-1
+6/21/2010,Chile,Switzerland,1,0,FIFA World Cup,Port Elizabeth,South Africa,Africa,TRUE,-1
+6/22/2010,Greece,Argentina,0,2,FIFA World Cup,Polokwane,South Africa,Africa,TRUE,2
+6/22/2010,Mexico,Uruguay,0,1,FIFA World Cup,Rustenburg,South Africa,Africa,TRUE,1
+6/24/2010,Cameroon,Netherlands,1,2,FIFA World Cup,Cape Town,South Africa,Africa,TRUE,1
+6/25/2010,Chile,Spain,1,2,FIFA World Cup,Pretoria,South Africa,Africa,TRUE,1
+6/25/2010,Portugal,Brazil,0,0,FIFA World Cup,Durban,South Africa,Africa,TRUE,0
+6/26/2010,Uruguay,South Korea,2,1,FIFA World Cup,Port Elizabeth,South Africa,Africa,TRUE,-1
+6/27/2010,Argentina,Mexico,3,1,FIFA World Cup,Johannesburg,South Africa,Africa,TRUE,-2
+6/27/2010,Germany,England,4,1,FIFA World Cup,Bloemfontein,South Africa,Africa,TRUE,-3
+6/28/2010,Brazil,Chile,3,0,FIFA World Cup,Johannesburg,South Africa,Africa,TRUE,-3
+6/29/2010,Paraguay,Japan,0,0,FIFA World Cup,Pretoria,South Africa,Africa,TRUE,0
+6/29/2010,Spain,Portugal,1,0,FIFA World Cup,Cape Town,South Africa,Africa,TRUE,-1
+7/2/2010,Netherlands,Brazil,2,1,FIFA World Cup,Port Elizabeth,South Africa,Africa,TRUE,-1
+7/3/2010,Argentina,Germany,0,4,FIFA World Cup,Cape Town,South Africa,Africa,TRUE,4
+7/3/2010,Paraguay,Spain,0,1,FIFA World Cup,Johannesburg,South Africa,Africa,TRUE,1
+7/6/2010,Uruguay,Netherlands,2,3,FIFA World Cup,Cape Town,South Africa,Africa,TRUE,1
+7/7/2010,Germany,Spain,0,1,FIFA World Cup,Durban,South Africa,Africa,TRUE,1
+7/10/2010,Uruguay,Germany,2,3,FIFA World Cup,Port Elizabeth,South Africa,Africa,TRUE,1
+7/11/2010,Netherlands,Spain,0,1,FIFA World Cup,Johannesburg,South Africa,Africa,TRUE,1
+8/10/2010,United States,Brazil,0,2,Friendly,East Rutherford,United States,,FALSE,2
+8/11/2010,Austria,Switzerland,0,1,Friendly,Klagenfurt,Austria,,FALSE,1
+8/11/2010,Mexico,Spain,1,1,Friendly,Mexico City,Mexico,,FALSE,0
+8/11/2010,Paraguay,Costa Rica,2,0,Friendly,Asunción,Paraguay,,FALSE,-2
+8/11/2010,Poland,Cameroon,0,3,Friendly,Szczecin,Poland,,FALSE,3
+9/3/2010,Belgium,Germany,0,1,UEFA Euro qualification,Brussels,Belgium,,FALSE,1
+9/3/2010,Switzerland,Australia,0,0,Friendly,St. Gallen,Switzerland,,FALSE,0
+9/4/2010,Mexico,Ecuador,1,2,Friendly,Zapopan,Mexico,,FALSE,1
+9/4/2010,Poland,Ukraine,1,1,Friendly,Łódź,Poland,,FALSE,0
+9/7/2010,Argentina,Spain,4,1,Friendly,Buenos Aires,Argentina,South America,FALSE,-3
+9/7/2010,South Korea,Iran,0,1,Friendly,Seoul,South Korea,,FALSE,1
+9/7/2010,Mexico,Colombia,1,0,Friendly,Monterrey,Mexico,,FALSE,-1
+9/7/2010,Poland,Australia,1,2,Friendly,Kraków,Poland,,FALSE,1
+9/7/2010,Switzerland,England,1,3,UEFA Euro qualification,Basel,Switzerland,,FALSE,2
+10/7/2010,Iran,Brazil,0,3,Friendly,Abu Dhabi,United Arab Emirates,,TRUE,3
+10/8/2010,Colombia,Ecuador,1,0,Friendly,Harrison,United States,,TRUE,-1
+10/8/2010,Hungary,San Marino,8,0,UEFA Euro qualification,Budapest,Hungary,,FALSE,-8
+10/8/2010,Japan,Argentina,1,0,Friendly,Saitama,Japan,,FALSE,-1
+10/9/2010,United States,Poland,2,2,Friendly,Chicago,United States,,FALSE,0
+10/11/2010,Brazil,Ukraine,2,0,Friendly,Derby,England,,TRUE,-2
+10/12/2010,Belgium,Austria,4,4,UEFA Euro qualification,Brussels,Belgium,,FALSE,0
+10/12/2010,Ecuador,Poland,2,2,Friendly,Montréal,Canada,,TRUE,0
+10/12/2010,South Korea,Japan,0,0,Friendly,Seoul,South Korea,,FALSE,0
+10/12/2010,Netherlands,Sweden,4,1,UEFA Euro qualification,Amsterdam,Netherlands,,FALSE,-3
+10/12/2010,United States,Colombia,0,0,Friendly,Chester,United States,,FALSE,0
+11/17/2010,Argentina,Brazil,1,0,Friendly,Doha,Qatar,,TRUE,-1
+11/17/2010,Chile,Uruguay,2,0,Friendly,Santiago,Chile,,FALSE,-2
+11/17/2010,Egypt,Australia,3,0,Friendly,Cairo,Egypt,,FALSE,-3
+11/17/2010,England,France,1,2,Friendly,London,England,,FALSE,1
+11/17/2010,Portugal,Spain,4,0,Friendly,Lisbon,Portugal,,FALSE,-4
+11/17/2010,Sweden,Germany,0,0,Friendly,Gothenburg,Sweden,,FALSE,0
+11/17/2010,Switzerland,Ukraine,2,2,Friendly,Geneva,Switzerland,,FALSE,0
+1/14/2011,Australia,South Korea,1,1,AFC Asian Cup,Doha,Qatar,,TRUE,0
+1/22/2011,Iran,South Korea,0,1,AFC Asian Cup,Doha,Qatar,,TRUE,1
+1/22/2011,United States,Chile,1,1,Friendly,Carson,United States,,FALSE,0
+1/25/2011,Japan,South Korea,2,2,AFC Asian Cup,Doha,Qatar,,TRUE,0
+1/29/2011,Australia,Japan,0,1,AFC Asian Cup,Doha,Qatar,,TRUE,1
+2/9/2011,Argentina,Portugal,2,1,Friendly,Geneva,Switzerland,,TRUE,-1
+2/9/2011,France,Brazil,1,0,Friendly,Saint-Denis,France,,FALSE,-1
+2/9/2011,Germany,Italy,1,1,Friendly,Dortmund,Germany,,FALSE,0
+2/9/2011,Greece,Canada,1,0,Friendly,Lárisa,Greece,,FALSE,-1
+2/9/2011,Iran,Russia,1,0,Friendly,Abu Dhabi,United Arab Emirates,,TRUE,-1
+2/9/2011,Netherlands,Austria,3,1,Friendly,Eindhoven,Netherlands,,FALSE,-2
+2/9/2011,Spain,Colombia,1,0,Friendly,Madrid,Spain,,FALSE,-1
+2/9/2011,Sweden,Ukraine,1,1,Cyprus International Tournament,Nicosia,Cyprus,,TRUE,0
+3/25/2011,Austria,Belgium,0,2,UEFA Euro qualification,Vienna,Austria,,FALSE,2
+3/25/2011,Hungary,Netherlands,0,4,UEFA Euro qualification,Budapest,Hungary,,FALSE,4
+3/26/2011,Colombia,Ecuador,2,0,Friendly,Madrid,Spain,,TRUE,-2
+3/26/2011,Portugal,Chile,1,1,Friendly,Leiria,Portugal,,FALSE,0
+3/26/2011,Senegal,Cameroon,1,0,African Cup of Nations qualification,Dakar,Senegal,,FALSE,-1
+3/26/2011,United States,Argentina,1,1,Friendly,East Rutherford,United States,,FALSE,0
+3/29/2011,Colombia,Chile,0,2,Friendly,The Hague,Netherlands,,TRUE,2
+3/29/2011,Costa Rica,Argentina,0,0,Friendly,San José,Costa Rica,,FALSE,0
+3/29/2011,France,Croatia,0,0,Friendly,Saint-Denis,France,,FALSE,0
+3/29/2011,Germany,Australia,1,2,Friendly,Mönchengladbach,Germany,,FALSE,1
+3/29/2011,Greece,Poland,0,0,Friendly,Piraeus,Greece,,FALSE,0
+4/20/2011,Argentina,Ecuador,2,2,Friendly,Mar del Plata,Argentina,South America,FALSE,0
+5/28/2011,Mexico,Ecuador,1,1,Friendly,Seattle,United States,,TRUE,0
+5/29/2011,Germany,Uruguay,2,1,Friendly,Sinsheim,Germany,,FALSE,-1
+6/3/2011,Austria,Germany,1,2,UEFA Euro qualification,Vienna,Austria,,FALSE,1
+6/4/2011,Brazil,Netherlands,0,0,Friendly,Goiânia,Brazil,,FALSE,0
+6/4/2011,Cameroon,Senegal,0,0,African Cup of Nations qualification,Yaoundé,Cameroon,,FALSE,0
+6/4/2011,England,Switzerland,2,2,UEFA Euro qualification,London,England,,FALSE,0
+6/4/2011,United States,Spain,0,4,Friendly,Foxborough,United States,,FALSE,4
+6/5/2011,Poland,Argentina,2,1,Friendly,Warsaw,Poland,,FALSE,-1
+6/8/2011,Uruguay,Netherlands,1,1,Copa Confraternidad,Montevideo,Uruguay,,FALSE,0
+6/9/2011,Poland,France,0,1,Friendly,Warsaw,Poland,,FALSE,1
+6/12/2011,Mexico,Costa Rica,4,1,Gold Cup,Chicago,United States,,TRUE,-3
+6/23/2011,Paraguay,Chile,0,0,Friendly,Asunción,Paraguay,,FALSE,0
+6/25/2011,Colombia,Senegal,2,0,Friendly,Medellín,Colombia,,FALSE,-2
+6/25/2011,United States,Mexico,2,4,Gold Cup,Pasadena,United States,,FALSE,2
+7/2/2011,Colombia,Costa Rica,1,0,Copa América,San Salvador de Jujuy,Argentina,South America,TRUE,-1
+7/3/2011,Paraguay,Ecuador,0,0,Copa América,Santa Fe,Argentina,South America,TRUE,0
+7/4/2011,Chile,Mexico,2,1,Copa América,San Juan,Argentina,South America,TRUE,-1
+7/6/2011,Argentina,Colombia,0,0,Copa América,Santa Fe,Argentina,South America,FALSE,0
+7/8/2011,Uruguay,Chile,1,1,Copa América,Mendoza,Argentina,South America,TRUE,0
+7/11/2011,Argentina,Costa Rica,3,0,Copa América,Córdoba,Argentina,South America,FALSE,-3
+7/12/2011,Uruguay,Mexico,1,0,Copa América,La Plata,Argentina,South America,TRUE,-1
+7/13/2011,Brazil,Ecuador,4,2,Copa América,Córdoba,Argentina,South America,TRUE,-2
+7/16/2011,Argentina,Uruguay,1,1,Copa América,Santa Fe,Argentina,South America,FALSE,0
+8/10/2011,Costa Rica,Ecuador,0,2,Friendly,San José,Costa Rica,,FALSE,2
+8/10/2011,France,Chile,1,1,Friendly,Montpellier,France,,FALSE,0
+8/10/2011,Germany,Brazil,3,2,Friendly,Stuttgart,Germany,,FALSE,-1
+8/10/2011,Italy,Spain,2,1,Friendly,Bari,Italy,,FALSE,-1
+8/10/2011,Japan,South Korea,3,0,Friendly,Sapporo,Japan,,FALSE,-3
+8/10/2011,Senegal,Morocco,0,2,Friendly,Dakar,Senegal,,FALSE,2
+8/10/2011,United States,Mexico,1,1,Friendly,Philadelphia,United States,,FALSE,0
+9/2/2011,Germany,Austria,6,2,UEFA Euro qualification,Gelsenkirchen,Germany,,FALSE,-4
+9/2/2011,Hungary,Sweden,2,1,UEFA Euro qualification,Budapest,Hungary,,FALSE,-1
+9/2/2011,Poland,Mexico,1,1,Friendly,Warsaw,Poland,,FALSE,0
+9/2/2011,Spain,Chile,3,2,Friendly,St. Gallen,Switzerland,,TRUE,-1
+9/2/2011,United States,Costa Rica,0,1,Friendly,Carson,United States,,FALSE,1
+9/4/2011,Mexico,Chile,1,0,Friendly,Barcelona,Spain,,TRUE,-1
+9/6/2011,Belgium,United States,1,0,Friendly,Brussels,Belgium,,FALSE,-1
+9/6/2011,Ecuador,Costa Rica,4,0,Friendly,Quito,Ecuador,,FALSE,-4
+9/6/2011,Poland,Germany,2,2,Friendly,Gdańsk,Poland,,FALSE,0
+9/14/2011,Argentina,Brazil,0,0,Superclásico de las Américas,Córdoba,Argentina,South America,FALSE,0
+9/28/2011,Brazil,Argentina,2,0,Superclásico de las Américas,Belém,Brazil,,FALSE,-2
+10/7/2011,Argentina,Chile,4,1,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-3
+10/7/2011,Costa Rica,Brazil,0,1,Friendly,San José,Costa Rica,,FALSE,1
+10/7/2011,Greece,Croatia,2,0,UEFA Euro qualification,Piraeus,Greece,,FALSE,-2
+10/7/2011,South Korea,Poland,2,2,Friendly,Seoul,South Korea,,FALSE,0
+10/11/2011,Germany,Belgium,3,1,UEFA Euro qualification,Düsseldorf,Germany,,FALSE,-2
+10/11/2011,Mexico,Brazil,1,2,Friendly,Torreón,Mexico,,FALSE,1
+10/11/2011,Paraguay,Uruguay,1,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,0
+10/11/2011,Sweden,Netherlands,3,2,UEFA Euro qualification,Solna,Sweden,,FALSE,-1
+10/11/2011,United States,Ecuador,0,1,Friendly,Harrison,United States,,FALSE,1
+11/11/2011,France,United States,1,0,Friendly,Saint-Denis,France,,FALSE,-1
+11/11/2011,Greece,Russia,1,1,Friendly,Piraeus,Greece,,FALSE,0
+11/11/2011,Hungary,Liechtenstein,5,0,Friendly,Budapest,Hungary,,FALSE,-5
+11/11/2011,Netherlands,Switzerland,0,0,Friendly,Amsterdam,Netherlands,,FALSE,0
+11/11/2011,Paraguay,Ecuador,2,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-1
+11/11/2011,Poland,Italy,0,2,Friendly,Wrocław,Poland,,FALSE,2
+11/11/2011,Uruguay,Chile,4,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-4
+11/12/2011,England,Spain,1,0,Friendly,London,England,,FALSE,-1
+11/13/2011,Morocco,Cameroon,1,1,Friendly,Marrakech,Morocco,,FALSE,0
+11/15/2011,Colombia,Argentina,1,2,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,1
+11/15/2011,Costa Rica,Spain,2,2,Friendly,San José,Costa Rica,,FALSE,0
+11/15/2011,England,Sweden,1,0,Friendly,London,England,,FALSE,-1
+11/15/2011,France,Belgium,0,0,Friendly,Saint-Denis,France,,FALSE,0
+11/15/2011,Germany,Netherlands,3,0,Friendly,Hamburg,Germany,,FALSE,-3
+11/15/2011,Italy,Uruguay,0,1,Friendly,Rome,Italy,,FALSE,1
+2/15/2012,Paraguay,Chile,2,0,Friendly,Luque,Paraguay,,FALSE,-2
+2/29/2012,Croatia,Sweden,1,3,Friendly,Zagreb,Croatia,,FALSE,2
+2/29/2012,England,Netherlands,2,3,Friendly,London,England,,FALSE,1
+2/29/2012,Germany,France,1,2,Friendly,Bremen,Germany,,FALSE,1
+2/29/2012,Greece,Belgium,1,1,Friendly,Heraklion,Greece,,FALSE,0
+2/29/2012,Italy,United States,0,1,Friendly,Genoa,Italy,,FALSE,1
+2/29/2012,Mexico,Colombia,0,2,Friendly,Miami Gardens,United States,,TRUE,2
+2/29/2012,Poland,Portugal,0,0,Friendly,Warsaw,Poland,,FALSE,0
+2/29/2012,Switzerland,Argentina,1,3,Friendly,Berne,Switzerland,,FALSE,2
+5/20/2012,Egypt,Cameroon,2,1,Friendly,Omdurman,Sudan,,TRUE,-1
+5/25/2012,Morocco,Senegal,0,1,Friendly,Marrakech,Morocco,,FALSE,1
+5/26/2012,Switzerland,Germany,5,3,Friendly,Basel,Switzerland,,FALSE,-2
+5/30/2012,Spain,South Korea,4,1,Friendly,Berne,Switzerland,,TRUE,-3
+5/30/2012,United States,Brazil,1,4,Friendly,Washington,United States,,FALSE,3
+6/1/2012,Austria,Ukraine,3,2,Friendly,Innsbruck,Austria,,FALSE,-1
+6/1/2012,Italy,Russia,0,3,Friendly,Zürich,Switzerland,,TRUE,3
+6/2/2012,Argentina,Ecuador,4,0,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-4
+6/2/2012,England,Belgium,1,0,Friendly,London,England,,FALSE,-1
+6/3/2012,Mexico,Brazil,2,0,Friendly,Arlington,United States,,TRUE,-2
+6/9/2012,Brazil,Argentina,3,4,Friendly,East Rutherford,United States,,TRUE,1
+6/9/2012,Germany,Portugal,1,0,UEFA Euro,Lviv,Ukraine,,TRUE,-1
+6/10/2012,Ecuador,Colombia,1,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-1
+6/10/2012,Spain,Italy,1,1,UEFA Euro,Gdańsk,Poland,,TRUE,0
+6/11/2012,France,England,1,1,UEFA Euro,Donets'k,Ukraine,,TRUE,0
+6/12/2012,Australia,Japan,1,1,FIFA World Cup qualification,Brisbane,Australia,,FALSE,0
+6/12/2012,Poland,Russia,1,1,UEFA Euro,Warsaw,Poland,,FALSE,0
+6/13/2012,Netherlands,Germany,1,2,UEFA Euro,Kharkiv,Ukraine,,TRUE,1
+6/14/2012,Italy,Croatia,1,1,UEFA Euro,Poznań,Poland,,TRUE,0
+6/15/2012,Sweden,England,2,3,UEFA Euro,Kyiv,Ukraine,,TRUE,1
+6/16/2012,Greece,Russia,1,0,UEFA Euro,Warsaw,Poland,,TRUE,-1
+6/17/2012,Portugal,Netherlands,2,1,UEFA Euro,Kharkiv,Ukraine,,TRUE,-1
+6/18/2012,Croatia,Spain,0,1,UEFA Euro,Gdańsk,Poland,,TRUE,1
+6/19/2012,Sweden,France,2,0,UEFA Euro,Kyiv,Ukraine,,TRUE,-2
+6/23/2012,Spain,France,2,0,UEFA Euro,Donets'k,Ukraine,,TRUE,-2
+6/24/2012,England,Italy,0,0,UEFA Euro,Kyiv,Ukraine,,TRUE,0
+6/27/2012,Portugal,Spain,0,0,UEFA Euro,Donets'k,Ukraine,,TRUE,0
+6/28/2012,Germany,Italy,1,2,UEFA Euro,Warsaw,Poland,,TRUE,1
+7/1/2012,Spain,Italy,4,0,UEFA Euro,Kyiv,Ukraine,,TRUE,-4
+8/15/2012,Belgium,Netherlands,4,2,Friendly,Brussels,Belgium,,FALSE,-2
+8/15/2012,Croatia,Switzerland,2,4,Friendly,Split,Croatia,,FALSE,2
+8/15/2012,Ecuador,Chile,3,0,Friendly,New York,United States,,TRUE,-3
+8/15/2012,England,Italy,2,1,Friendly,Berne,Switzerland,,TRUE,-1
+8/15/2012,France,Uruguay,0,0,Friendly,Le Havre,France,,FALSE,0
+8/15/2012,Germany,Argentina,1,3,Friendly,Frankfurt am Main,Germany,,FALSE,2
+8/15/2012,Mexico,United States,0,1,Friendly,Mexico City,Mexico,,FALSE,1
+8/15/2012,Sweden,Brazil,0,3,Friendly,Solna,Sweden,,FALSE,3
+9/7/2012,Colombia,Uruguay,4,0,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,-4
+9/7/2012,Costa Rica,Mexico,0,2,FIFA World Cup qualification,San José,Costa Rica,,FALSE,2
+9/11/2012,Austria,Germany,1,2,FIFA World Cup qualification,Vienna,Austria,,FALSE,1
+9/11/2012,Belgium,Croatia,1,1,FIFA World Cup qualification,Brussels,Belgium,,FALSE,0
+9/11/2012,Chile,Colombia,1,3,FIFA World Cup qualification,Santiago,Chile,,FALSE,2
+9/11/2012,England,Ukraine,1,1,FIFA World Cup qualification,London,England,,FALSE,0
+9/11/2012,Hungary,Netherlands,1,4,FIFA World Cup qualification,Budapest,Hungary,,FALSE,3
+9/11/2012,Mexico,Costa Rica,1,0,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,-1
+9/11/2012,Uruguay,Ecuador,1,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,0
+9/19/2012,Brazil,Argentina,2,1,Superclásico de las Américas,Goiânia,Brazil,,FALSE,-1
+10/12/2012,Argentina,Uruguay,3,0,FIFA World Cup qualification,Mendoza,Argentina,South America,FALSE,-3
+10/12/2012,Ecuador,Chile,3,1,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-2
+10/12/2012,France,Japan,0,1,Friendly,Saint-Denis,France,,FALSE,1
+10/16/2012,Chile,Argentina,1,2,FIFA World Cup qualification,Santiago,Chile,,FALSE,1
+10/16/2012,Colombia,Cameroon,3,0,Friendly,Barranquilla,Colombia,,FALSE,-3
+10/16/2012,Germany,Sweden,4,4,FIFA World Cup qualification,Berlin,Germany,,FALSE,0
+10/16/2012,Iran,South Korea,1,0,FIFA World Cup qualification,Tehran,Iran,,FALSE,-1
+10/16/2012,Japan,Brazil,0,4,Friendly,Wrocław,Poland,,TRUE,4
+10/16/2012,Spain,France,1,1,FIFA World Cup qualification,Madrid,Spain,,FALSE,0
+10/17/2012,Poland,England,1,1,FIFA World Cup qualification,Warsaw,Poland,,FALSE,0
+11/14/2012,Brazil,Colombia,1,1,Friendly,East Rutherford,United States,,TRUE,0
+11/14/2012,Italy,France,1,2,Friendly,Parma,Italy,,FALSE,1
+11/14/2012,South Korea,Australia,1,2,Friendly,Hwaseong,South Korea,,FALSE,1
+11/14/2012,Netherlands,Germany,0,0,Friendly,Amsterdam,Netherlands,,FALSE,0
+11/14/2012,Poland,Uruguay,1,3,Friendly,Gdańsk,Poland,,FALSE,2
+11/14/2012,Sweden,England,4,2,Friendly,Solna,Sweden,,FALSE,-2
+11/21/2012,Argentina,Brazil,2,1,Superclásico de las Américas,Buenos Aires,Argentina,South America,FALSE,-1
+2/6/2013,Croatia,South Korea,4,0,Friendly,London,England,,TRUE,-4
+2/6/2013,England,Brazil,2,1,Friendly,London,England,,FALSE,-1
+2/6/2013,France,Germany,1,2,Friendly,Saint-Denis,France,,FALSE,1
+2/6/2013,Greece,Switzerland,0,0,Friendly,Piraeus,Greece,,FALSE,0
+2/6/2013,Netherlands,Italy,1,1,Friendly,Amsterdam,Netherlands,,FALSE,0
+2/6/2013,Portugal,Ecuador,2,3,Friendly,Guimarães,Portugal,,FALSE,1
+2/6/2013,Spain,Uruguay,3,1,Friendly,Doha,Qatar,,TRUE,-2
+2/6/2013,Sweden,Argentina,2,3,Friendly,Solna,Sweden,,FALSE,1
+3/21/2013,Italy,Brazil,2,2,Friendly,Geneva,Switzerland,,TRUE,0
+3/22/2013,Poland,Ukraine,1,3,FIFA World Cup qualification,Warsaw,Poland,,FALSE,2
+3/22/2013,United States,Costa Rica,1,0,FIFA World Cup qualification,Commerce City,United States,,FALSE,-1
+3/26/2013,Chile,Uruguay,2,0,FIFA World Cup qualification,Santiago,Chile,,FALSE,-2
+3/26/2013,France,Spain,0,1,FIFA World Cup qualification,Saint-Denis,France,,FALSE,1
+3/26/2013,Mexico,United States,0,0,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,0
+4/24/2013,Brazil,Chile,2,2,Friendly,Belo Horizonte,Brazil,,FALSE,0
+5/29/2013,Ecuador,Germany,2,4,Friendly,Boca Raton,United States,,TRUE,2
+5/29/2013,United States,Belgium,2,4,Friendly,Cleveland,United States,,FALSE,2
+6/2/2013,Brazil,England,2,2,Friendly,Rio de Janeiro,Brazil,,FALSE,0
+6/2/2013,United States,Germany,4,3,Friendly,Washington,United States,,FALSE,-1
+6/4/2013,Japan,Australia,1,1,FIFA World Cup qualification,Saitama,Japan,,FALSE,0
+6/5/2013,Uruguay,France,1,0,Friendly,Montevideo,Uruguay,,FALSE,-1
+6/7/2013,Argentina,Colombia,0,0,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,0
+6/7/2013,Austria,Sweden,2,1,FIFA World Cup qualification,Vienna,Austria,,FALSE,-1
+6/7/2013,Paraguay,Chile,1,2,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,1
+6/7/2013,Portugal,Russia,1,0,FIFA World Cup qualification,Lisbon,Portugal,,FALSE,-1
+6/9/2013,Brazil,France,3,0,Friendly,Porto Alegre,Brazil,,FALSE,-3
+6/10/2013,Croatia,Portugal,0,1,Friendly,Geneva,Switzerland,,TRUE,1
+6/11/2013,Ecuador,Argentina,1,1,FIFA World Cup qualification,Quito,Ecuador,,FALSE,0
+6/11/2013,Mexico,Costa Rica,0,0,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,0
+6/15/2013,Brazil,Japan,3,0,Confederations Cup,Brasília,Brazil,,FALSE,-3
+6/16/2013,Mexico,Italy,1,2,Confederations Cup,Rio de Janeiro,Brazil,,TRUE,1
+6/16/2013,Spain,Uruguay,2,1,Confederations Cup,Recife,Brazil,,TRUE,-1
+6/18/2013,South Korea,Iran,0,1,FIFA World Cup qualification,Ulsan,South Korea,,FALSE,1
+6/19/2013,Brazil,Mexico,2,0,Confederations Cup,Fortaleza,Brazil,,FALSE,-2
+6/19/2013,Italy,Japan,4,3,Confederations Cup,Recife,Brazil,,TRUE,-1
+6/22/2013,Brazil,Italy,4,2,Confederations Cup,Salvador,Brazil,,FALSE,-2
+6/22/2013,Japan,Mexico,1,2,Confederations Cup,Belo Horizonte,Brazil,,TRUE,1
+6/26/2013,Brazil,Uruguay,2,1,Confederations Cup,Belo Horizonte,Brazil,,FALSE,-1
+6/27/2013,Spain,Italy,0,0,Confederations Cup,Fortaleza,Brazil,,TRUE,0
+6/30/2013,Brazil,Spain,3,0,Confederations Cup,Rio de Janeiro,Brazil,,FALSE,-3
+6/30/2013,Uruguay,Italy,2,2,Confederations Cup,Salvador,Brazil,,TRUE,0
+7/16/2013,United States,Costa Rica,1,0,Gold Cup,East Hartford,United States,,FALSE,-1
+7/20/2013,South Korea,Australia,0,0,EAFF Championship,Seoul,South Korea,,FALSE,0
+7/25/2013,Japan,Australia,3,2,EAFF Championship,Hwaseong,South Korea,,TRUE,-1
+7/28/2013,South Korea,Japan,1,2,EAFF Championship,Seoul,South Korea,,FALSE,1
+8/14/2013,Belgium,France,0,0,Friendly,Brussels,Belgium,,FALSE,0
+8/14/2013,Ecuador,Spain,0,2,Friendly,Guayaquil,Ecuador,,FALSE,2
+8/14/2013,Italy,Argentina,1,2,Friendly,Rome,Italy,,FALSE,1
+8/14/2013,Japan,Uruguay,2,4,Friendly,Rifu,Japan,,FALSE,2
+8/14/2013,Portugal,Netherlands,1,1,Friendly,Faro,Portugal,,FALSE,0
+8/14/2013,Switzerland,Brazil,1,0,Friendly,Basel,Switzerland,,FALSE,-1
+9/6/2013,Colombia,Ecuador,1,0,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,-1
+9/6/2013,Costa Rica,United States,3,1,FIFA World Cup qualification,San José,Costa Rica,,FALSE,-2
+9/6/2013,Germany,Austria,3,0,FIFA World Cup qualification,Munich,Germany,,FALSE,-3
+9/7/2013,Brazil,Australia,6,0,Friendly,Brasília,Brazil,,FALSE,-6
+9/10/2013,Brazil,Portugal,3,1,Friendly,Foxborough,United States,,TRUE,-2
+9/10/2013,South Korea,Croatia,1,2,Friendly,Jeonju,South Korea,,FALSE,1
+9/10/2013,Paraguay,Argentina,2,5,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,3
+9/10/2013,Spain,Chile,2,2,Friendly,Geneva,Switzerland,,TRUE,0
+9/10/2013,Uruguay,Colombia,2,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-2
+9/10/2013,United States,Mexico,2,0,FIFA World Cup qualification,Columbus,United States,,FALSE,-2
+10/11/2013,Colombia,Chile,3,3,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,0
+10/11/2013,Croatia,Belgium,1,2,FIFA World Cup qualification,Zagreb,Croatia,,FALSE,1
+10/11/2013,Ecuador,Uruguay,1,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-1
+10/11/2013,France,Australia,6,0,Friendly,Saint-Denis,France,,FALSE,-6
+10/11/2013,Sweden,Austria,2,1,FIFA World Cup qualification,Solna,Sweden,,FALSE,-1
+10/12/2013,South Korea,Brazil,0,2,Friendly,Seoul,South Korea,,FALSE,2
+10/15/2013,Chile,Ecuador,2,1,FIFA World Cup qualification,Santiago,Chile,,FALSE,-1
+10/15/2013,Costa Rica,Mexico,2,1,FIFA World Cup qualification,San José,Costa Rica,,FALSE,-1
+10/15/2013,England,Poland,2,0,FIFA World Cup qualification,London,England,,FALSE,-2
+10/15/2013,Greece,Liechtenstein,2,0,FIFA World Cup qualification,Piraeus,Greece,,FALSE,-2
+10/15/2013,Paraguay,Colombia,1,2,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,1
+10/15/2013,Sweden,Germany,3,5,FIFA World Cup qualification,Solna,Sweden,,FALSE,2
+10/15/2013,Uruguay,Argentina,3,2,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-1
+11/14/2013,Belgium,Colombia,0,2,Friendly,Brussels,Belgium,,FALSE,2
+11/15/2013,Argentina,Ecuador,0,0,Friendly,East Rutherford,United States,,TRUE,0
+11/15/2013,England,Chile,0,2,Friendly,London,England,,FALSE,2
+11/15/2013,Italy,Germany,1,1,Friendly,Milan,Italy,,FALSE,0
+11/15/2013,South Korea,Switzerland,2,1,Friendly,Seoul,South Korea,,FALSE,-1
+11/15/2013,Portugal,Sweden,1,0,FIFA World Cup qualification,Lisbon,Portugal,,FALSE,-1
+11/16/2013,Netherlands,Japan,2,2,Friendly,Genk,Belgium,,TRUE,0
+11/19/2013,Australia,Costa Rica,1,0,Friendly,Sydney,Australia,,FALSE,-1
+11/19/2013,Austria,United States,1,0,Friendly,Vienna,Austria,,FALSE,-1
+11/19/2013,Belgium,Japan,2,3,Friendly,Brussels,Belgium,,FALSE,1
+11/19/2013,Brazil,Chile,2,1,Friendly,Toronto,Canada,,TRUE,-1
+11/19/2013,England,Germany,0,1,Friendly,London,England,,FALSE,1
+11/19/2013,France,Ukraine,3,0,FIFA World Cup qualification,Saint-Denis,France,,FALSE,-3
+11/19/2013,Netherlands,Colombia,0,0,Friendly,Amsterdam,Netherlands,,FALSE,0
+11/19/2013,Sweden,Portugal,2,3,FIFA World Cup qualification,Solna,Sweden,,FALSE,1
+1/22/2014,Chile,Costa Rica,4,0,Friendly,Coquimbo,Chile,,FALSE,-4
+1/25/2014,Costa Rica,South Korea,0,1,Friendly,Los Angeles,United States,,TRUE,1
+1/29/2014,Mexico,South Korea,4,0,Friendly,San Antonio,United States,,TRUE,-4
+2/1/2014,United States,South Korea,2,0,Friendly,Carson,United States,,FALSE,-2
+3/5/2014,Australia,Ecuador,3,4,Friendly,London,England,,TRUE,1
+3/5/2014,Austria,Uruguay,1,1,Friendly,Klagenfurt,Austria,,FALSE,0
+3/5/2014,France,Netherlands,2,0,Friendly,Saint-Denis,France,,FALSE,-2
+3/5/2014,Germany,Chile,1,0,Friendly,Stuttgart,Germany,,FALSE,-1
+3/5/2014,Greece,South Korea,0,2,Friendly,Piraeus,Greece,,FALSE,2
+3/5/2014,Portugal,Cameroon,5,1,Friendly,Leiria,Portugal,,FALSE,-4
+3/5/2014,Spain,Italy,1,0,Friendly,Madrid,Spain,,FALSE,-1
+3/5/2014,Switzerland,Croatia,2,2,Friendly,St. Gallen,Switzerland,,FALSE,0
+5/13/2014,Germany,Poland,0,0,Friendly,Hamburg,Germany,,FALSE,0
+5/17/2014,Netherlands,Ecuador,1,1,Friendly,Amsterdam,Netherlands,,FALSE,0
+5/31/2014,Colombia,Senegal,2,2,Friendly,Buenos Aires,Argentina,South America,TRUE,0
+5/31/2014,Mexico,Ecuador,3,1,Friendly,Arlington,United States,,TRUE,-2
+6/1/2014,Germany,Cameroon,2,2,Friendly,Mönchengladbach,Germany,,FALSE,0
+6/1/2014,Sweden,Belgium,0,2,Friendly,Solna,Sweden,,FALSE,2
+6/2/2014,Costa Rica,Japan,1,3,Friendly,Tampa,United States,,TRUE,2
+6/4/2014,Ecuador,England,2,2,Friendly,Miami Gardens,United States,,TRUE,0
+6/6/2014,Croatia,Australia,1,0,Friendly,Salvador,Brazil,,TRUE,-1
+6/6/2014,Mexico,Portugal,0,1,Friendly,Foxborough,United States,,TRUE,1
+6/12/2014,Brazil,Croatia,3,1,FIFA World Cup,São Paulo,Brazil,South America,FALSE,-2
+6/13/2014,Chile,Australia,3,1,FIFA World Cup,Cuiabá,Brazil,South America,TRUE,-2
+6/13/2014,Mexico,Cameroon,1,0,FIFA World Cup,Natal,Brazil,South America,TRUE,-1
+6/13/2014,Spain,Netherlands,1,5,FIFA World Cup,Salvador,Brazil,South America,TRUE,4
+6/14/2014,England,Italy,1,2,FIFA World Cup,Manaus,Brazil,South America,TRUE,1
+6/14/2014,Uruguay,Costa Rica,1,3,FIFA World Cup,Fortaleza,Brazil,South America,TRUE,2
+6/15/2014,Switzerland,Ecuador,2,1,FIFA World Cup,Brasília,Brazil,South America,TRUE,-1
+6/16/2014,Germany,Portugal,4,0,FIFA World Cup,Salvador,Brazil,South America,TRUE,-4
+6/17/2014,Brazil,Mexico,0,0,FIFA World Cup,Fortaleza,Brazil,South America,FALSE,0
+6/18/2014,Australia,Netherlands,2,3,FIFA World Cup,Curitiba,Brazil,South America,TRUE,1
+6/18/2014,Cameroon,Croatia,0,4,FIFA World Cup,Manaus,Brazil,South America,TRUE,4
+6/18/2014,Spain,Chile,0,2,FIFA World Cup,Rio de Janeiro,Brazil,South America,TRUE,2
+6/19/2014,Uruguay,England,2,1,FIFA World Cup,São Paulo,Brazil,South America,TRUE,-1
+6/20/2014,Italy,Costa Rica,0,1,FIFA World Cup,Recife,Brazil,South America,TRUE,1
+6/20/2014,Switzerland,France,2,5,FIFA World Cup,Salvador,Brazil,South America,TRUE,3
+6/21/2014,Argentina,Iran,1,0,FIFA World Cup,Belo Horizonte,Brazil,South America,TRUE,-1
+6/22/2014,Belgium,Russia,1,0,FIFA World Cup,Rio de Janeiro,Brazil,South America,TRUE,-1
+6/22/2014,United States,Portugal,2,2,FIFA World Cup,Manaus,Brazil,South America,TRUE,0
+6/23/2014,Australia,Spain,0,3,FIFA World Cup,Curitiba,Brazil,South America,TRUE,3
+6/23/2014,Brazil,Cameroon,4,1,FIFA World Cup,Brasília,Brazil,South America,FALSE,-3
+6/23/2014,Croatia,Mexico,1,3,FIFA World Cup,Recife,Brazil,South America,TRUE,2
+6/23/2014,Netherlands,Chile,2,0,FIFA World Cup,São Paulo,Brazil,South America,TRUE,-2
+6/24/2014,Costa Rica,England,0,0,FIFA World Cup,Belo Horizonte,Brazil,South America,TRUE,0
+6/24/2014,Italy,Uruguay,0,1,FIFA World Cup,Natal,Brazil,South America,TRUE,1
+6/24/2014,Japan,Colombia,1,4,FIFA World Cup,Cuiabá,Brazil,South America,TRUE,3
+6/25/2014,Ecuador,France,0,0,FIFA World Cup,Rio de Janeiro,Brazil,South America,TRUE,0
+6/26/2014,South Korea,Belgium,0,1,FIFA World Cup,São Paulo,Brazil,South America,TRUE,1
+6/26/2014,United States,Germany,0,1,FIFA World Cup,Recife,Brazil,South America,TRUE,1
+6/28/2014,Brazil,Chile,1,1,FIFA World Cup,Belo Horizonte,Brazil,South America,FALSE,0
+6/28/2014,Colombia,Uruguay,2,0,FIFA World Cup,Rio de Janeiro,Brazil,South America,TRUE,-2
+6/29/2014,Netherlands,Mexico,2,1,FIFA World Cup,Fortaleza,Brazil,South America,TRUE,-1
+7/1/2014,Argentina,Switzerland,1,0,FIFA World Cup,São Paulo,Brazil,South America,TRUE,-1
+7/1/2014,Belgium,United States,2,1,FIFA World Cup,Salvador,Brazil,South America,TRUE,-1
+7/4/2014,Brazil,Colombia,2,1,FIFA World Cup,Fortaleza,Brazil,South America,FALSE,-1
+7/4/2014,France,Germany,0,1,FIFA World Cup,Rio de Janeiro,Brazil,South America,TRUE,1
+7/5/2014,Argentina,Belgium,1,0,FIFA World Cup,Brasília,Brazil,South America,TRUE,-1
+7/5/2014,Netherlands,Costa Rica,0,0,FIFA World Cup,Salvador,Brazil,South America,TRUE,0
+7/8/2014,Brazil,Germany,1,7,FIFA World Cup,Belo Horizonte,Brazil,South America,FALSE,6
+7/9/2014,Netherlands,Argentina,0,0,FIFA World Cup,São Paulo,Brazil,South America,TRUE,0
+7/12/2014,Brazil,Netherlands,0,3,FIFA World Cup,Brasília,Brazil,South America,FALSE,3
+7/13/2014,Germany,Argentina,1,0,FIFA World Cup,Rio de Janeiro,Brazil,South America,TRUE,-1
+9/3/2014,Germany,Argentina,2,4,Friendly,Düsseldorf,Germany,,FALSE,2
+9/4/2014,Belgium,Australia,2,0,Friendly,Liège,Belgium,,FALSE,-2
+9/4/2014,France,Spain,1,0,Friendly,Saint-Denis,France,,FALSE,-1
+9/4/2014,Italy,Netherlands,2,0,Friendly,Bari,Italy,,FALSE,-2
+9/5/2014,Japan,Uruguay,0,2,Kirin Challenge Cup,Sapporo,Japan,,FALSE,2
+9/6/2014,Mexico,Chile,0,0,Friendly,Santa Clara,United States,,TRUE,0
+9/8/2014,Austria,Sweden,1,1,UEFA Euro qualification,Vienna,Austria,,FALSE,0
+9/8/2014,South Korea,Uruguay,0,1,Friendly,Goyang,South Korea,,FALSE,1
+9/8/2014,Switzerland,England,0,2,UEFA Euro qualification,Basel,Switzerland,,FALSE,2
+10/9/2014,Sweden,Russia,1,1,UEFA Euro qualification,Solna,Sweden,,FALSE,0
+10/11/2014,Argentina,Brazil,0,2,Superclásico de las Américas,Beijing,China PR,,TRUE,2
+10/11/2014,France,Portugal,2,1,Friendly,Saint-Denis,France,,FALSE,-1
+10/11/2014,Poland,Germany,2,0,UEFA Euro qualification,Warsaw,Poland,,FALSE,-2
+10/14/2014,Japan,Brazil,0,4,Friendly,Kallang,Singapore,,TRUE,4
+10/14/2014,South Korea,Costa Rica,1,3,Friendly,Seoul,South Korea,,FALSE,2
+11/12/2014,Argentina,Croatia,2,1,Friendly,London,England,,TRUE,-1
+11/12/2014,Netherlands,Mexico,2,3,Friendly,Amsterdam,Netherlands,,FALSE,1
+11/13/2014,Uruguay,Costa Rica,3,3,Friendly,Montevideo,Uruguay,,FALSE,0
+11/14/2014,United States,Colombia,1,2,Friendly,London,England,,TRUE,1
+11/15/2014,Austria,Russia,1,0,UEFA Euro qualification,Vienna,Austria,,FALSE,-1
+11/15/2014,Egypt,Senegal,0,1,African Cup of Nations qualification,Cairo,Egypt,,FALSE,1
+11/16/2014,Italy,Croatia,1,1,UEFA Euro qualification,Milan,Italy,,FALSE,0
+11/18/2014,Austria,Brazil,1,2,Friendly,Vienna,Austria,,FALSE,1
+11/18/2014,Chile,Uruguay,1,2,Friendly,Santiago,Chile,,FALSE,1
+11/18/2014,France,Sweden,1,0,Friendly,Marseille,France,,FALSE,-1
+11/18/2014,Greece,Serbia,0,2,Friendly,Perivólia,Greece,,FALSE,2
+11/18/2014,Hungary,Russia,1,2,Friendly,Budapest,Hungary,,FALSE,1
+11/18/2014,Iran,South Korea,1,0,Friendly,Tehran,Iran,,FALSE,-1
+11/18/2014,Japan,Australia,2,1,Friendly,Osaka,Japan,,FALSE,-1
+11/18/2014,Portugal,Argentina,1,0,Friendly,Manchester,England,,TRUE,-1
+11/18/2014,Spain,Germany,0,1,Friendly,Vigo,Spain,,FALSE,1
+1/17/2015,Australia,South Korea,0,1,AFC Asian Cup,Brisbane,Australia,,FALSE,1
+1/28/2015,Chile,United States,3,2,Friendly,Rancagua,Chile,,FALSE,-1
+1/31/2015,Australia,South Korea,2,1,AFC Asian Cup,Sydney,Australia,,FALSE,-1
+3/25/2015,Germany,Australia,2,2,Friendly,Kaiserslautern,Germany,,FALSE,0
+3/26/2015,Chile,Iran,0,2,Friendly,Sankt Pölten,Austria,,TRUE,2
+3/26/2015,France,Brazil,1,3,Friendly,Saint-Denis,France,,FALSE,2
+3/27/2015,Spain,Ukraine,1,0,UEFA Euro qualification,Seville,Spain,,FALSE,-1
+3/28/2015,Morocco,Uruguay,0,1,Friendly,Agadir,Morocco,,FALSE,1
+3/29/2015,Brazil,Chile,1,0,Friendly,London,England,,TRUE,-1
+3/31/2015,Italy,England,1,1,Friendly,Turin,Italy,,FALSE,0
+3/31/2015,Netherlands,Spain,2,0,Friendly,Amsterdam,Netherlands,,FALSE,-2
+3/31/2015,Sweden,Iran,3,1,Friendly,Solna,Sweden,,FALSE,-2
+3/31/2015,Switzerland,United States,1,1,Friendly,Zürich,Switzerland,,FALSE,0
+4/15/2015,United States,Mexico,2,0,Friendly,San Antonio,United States,,FALSE,-2
+6/5/2015,Netherlands,United States,3,4,Friendly,Amsterdam,Netherlands,,FALSE,1
+6/6/2015,Colombia,Costa Rica,1,0,Friendly,Buenos Aires,Argentina,South America,TRUE,-1
+6/7/2015,Brazil,Mexico,2,0,Friendly,São Paulo,Brazil,,FALSE,-2
+6/7/2015,France,Belgium,3,4,Friendly,Saint-Denis,France,,FALSE,1
+6/10/2015,Germany,United States,1,2,Friendly,Cologne,Germany,,FALSE,1
+6/11/2015,Chile,Ecuador,2,0,Copa América,Santiago,Chile,,FALSE,-2
+6/11/2015,Spain,Costa Rica,2,1,Friendly,León,Spain,,FALSE,-1
+6/12/2015,Croatia,Italy,1,1,UEFA Euro qualification,Split,Croatia,,FALSE,0
+6/15/2015,Chile,Mexico,3,3,Copa América,Santiago,Chile,,FALSE,0
+6/16/2015,Argentina,Uruguay,1,0,Copa América,La Serena,Chile,,TRUE,-1
+6/16/2015,Italy,Portugal,0,1,Friendly,Geneva,Switzerland,,TRUE,1
+6/17/2015,Brazil,Colombia,0,1,Copa América,Santiago,Chile,,TRUE,1
+6/19/2015,Mexico,Ecuador,1,2,Copa América,Rancagua,Chile,,TRUE,1
+6/24/2015,Chile,Uruguay,1,0,Copa América,Santiago,Chile,,FALSE,-1
+6/26/2015,Argentina,Colombia,0,0,Copa América,Viña del Mar,Chile,,TRUE,0
+6/27/2015,Mexico,Costa Rica,2,2,Friendly,Orlando,United States,,TRUE,0
+7/4/2015,Chile,Argentina,0,0,Copa América,Santiago,Chile,,FALSE,0
+7/19/2015,Mexico,Costa Rica,1,0,Gold Cup,East Rutherford,United States,,TRUE,-1
+8/5/2015,Japan,South Korea,1,1,EAFF Championship,Wuhan,China PR,,TRUE,0
+9/4/2015,Germany,Poland,3,1,UEFA Euro qualification,Frankfurt am Main,Germany,,FALSE,-2
+9/4/2015,Portugal,France,0,1,Friendly,Lisbon,Portugal,,FALSE,1
+9/5/2015,Costa Rica,Brazil,0,1,Friendly,Harrison,United States,,TRUE,1
+9/8/2015,England,Switzerland,2,0,UEFA Euro qualification,London,England,,FALSE,-2
+9/8/2015,Mexico,Argentina,2,2,Friendly,Arlington,United States,,TRUE,0
+9/8/2015,Sweden,Austria,1,4,UEFA Euro qualification,Solna,Sweden,,FALSE,3
+10/8/2015,Argentina,Ecuador,0,2,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,2
+10/8/2015,Chile,Brazil,2,0,FIFA World Cup qualification,Santiago,Chile,,FALSE,-2
+10/10/2015,United States,Mexico,2,3,Friendly,Pasadena,United States,,FALSE,1
+10/12/2015,Austria,Liechtenstein,3,0,UEFA Euro qualification,Vienna,Austria,,FALSE,-3
+10/13/2015,Iran,Japan,1,1,Friendly,Tehran,Iran,,FALSE,0
+10/13/2015,Paraguay,Argentina,0,0,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,0
+10/13/2015,Uruguay,Colombia,3,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-3
+11/12/2015,Chile,Colombia,1,1,FIFA World Cup qualification,Santiago,Chile,,FALSE,0
+11/12/2015,Ecuador,Uruguay,2,1,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-1
+11/13/2015,Argentina,Brazil,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,0
+11/13/2015,Belgium,Italy,3,1,Friendly,Brussels,Belgium,,FALSE,-2
+11/13/2015,France,Germany,2,0,Friendly,Saint-Denis,France,,FALSE,-2
+11/13/2015,Spain,England,2,0,Friendly,Alicante,Spain,,FALSE,-2
+11/17/2015,Austria,Switzerland,1,2,Friendly,Vienna,Austria,,FALSE,1
+11/17/2015,Colombia,Argentina,0,1,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,1
+11/17/2015,England,France,2,0,Friendly,London,England,,FALSE,-2
+11/17/2015,Uruguay,Chile,3,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-3
+3/24/2016,Chile,Argentina,1,2,FIFA World Cup qualification,Santiago,Chile,,FALSE,1
+3/24/2016,Italy,Spain,1,1,Friendly,Udine,Italy,,FALSE,0
+3/25/2016,Brazil,Uruguay,2,2,FIFA World Cup qualification,Recife,Brazil,,FALSE,0
+3/25/2016,Netherlands,France,2,3,Friendly,Amsterdam,Netherlands,,FALSE,1
+3/26/2016,Germany,England,2,3,Friendly,Berlin,Germany,,FALSE,1
+3/26/2016,Hungary,Croatia,1,1,Friendly,Budapest,Hungary,,FALSE,0
+3/29/2016,Colombia,Ecuador,3,0,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,-3
+3/29/2016,England,Netherlands,1,2,Friendly,London,England,,FALSE,1
+3/29/2016,France,Russia,4,2,Friendly,Saint-Denis,France,,FALSE,-2
+3/29/2016,Germany,Italy,4,1,Friendly,Munich,Germany,,FALSE,-3
+3/29/2016,Paraguay,Brazil,2,2,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,0
+3/29/2016,Portugal,Belgium,2,1,Friendly,Leiria,Portugal,,FALSE,-1
+5/27/2016,England,Australia,2,1,Friendly,Sunderland,England,,FALSE,-1
+5/28/2016,Switzerland,Belgium,1,2,Friendly,Geneva,Switzerland,,FALSE,1
+5/30/2016,France,Cameroon,3,2,Friendly,Nantes,France,,FALSE,-1
+6/1/2016,Poland,Netherlands,1,2,Friendly,Gdańsk,Poland,,FALSE,1
+6/1/2016,Spain,South Korea,6,1,Friendly,Salzburg,Austria,,TRUE,-5
+6/2/2016,England,Portugal,1,0,Friendly,London,England,,FALSE,-1
+6/3/2016,United States,Colombia,0,2,Copa América,Santa Clara,United States,,FALSE,2
+6/4/2016,Austria,Netherlands,0,2,Friendly,Vienna,Austria,,FALSE,2
+6/4/2016,Brazil,Ecuador,0,0,Copa América,Pasadena,United States,,TRUE,0
+6/5/2016,Mexico,Uruguay,3,1,Copa América,Glendale,United States,,TRUE,-2
+6/6/2016,Argentina,Chile,2,1,Copa América,Santa Clara,United States,,TRUE,-1
+6/7/2016,United States,Costa Rica,4,0,Copa América,Chicago,United States,,FALSE,-4
+6/11/2016,Colombia,Costa Rica,2,3,Copa América,Houston,United States,,TRUE,1
+6/11/2016,England,Russia,1,1,UEFA Euro,Marseille,France,,TRUE,0
+6/12/2016,Germany,Ukraine,2,0,UEFA Euro,Villeneuve-d'Ascq,France,,TRUE,-2
+6/13/2016,Belgium,Italy,0,2,UEFA Euro,Lyon,France,,TRUE,2
+6/16/2016,Germany,Poland,0,0,UEFA Euro,Saint-Denis,France,,TRUE,0
+6/16/2016,United States,Ecuador,2,1,Copa América,Seattle,United States,,FALSE,-1
+6/17/2016,Italy,Sweden,1,0,UEFA Euro,Toulouse,France,,TRUE,-1
+6/18/2016,Mexico,Chile,0,7,Copa América,Santa Clara,United States,,TRUE,7
+6/18/2016,Portugal,Austria,0,0,UEFA Euro,Lyon,France,,TRUE,0
+6/19/2016,France,Switzerland,0,0,UEFA Euro,Villeneuve-d'Ascq,France,,FALSE,0
+6/21/2016,Croatia,Spain,2,1,UEFA Euro,Bordeaux,France,,TRUE,-1
+6/21/2016,United States,Argentina,0,4,Copa América,Houston,United States,,FALSE,4
+6/22/2016,Colombia,Chile,0,2,Copa América,Chicago,United States,,TRUE,2
+6/22/2016,Hungary,Portugal,3,3,UEFA Euro,Lyon,France,,TRUE,0
+6/22/2016,Sweden,Belgium,0,1,UEFA Euro,Nice,France,,TRUE,1
+6/25/2016,Croatia,Portugal,0,1,UEFA Euro,Lens,France,,TRUE,1
+6/25/2016,Switzerland,Poland,1,1,UEFA Euro,Saint-Étienne,France,,TRUE,0
+6/25/2016,United States,Colombia,0,1,Copa América,Glendale,United States,,FALSE,1
+6/26/2016,Argentina,Chile,0,0,Copa América,East Rutherford,United States,,TRUE,0
+6/26/2016,Hungary,Belgium,0,4,UEFA Euro,Toulouse,France,,TRUE,4
+6/27/2016,Italy,Spain,2,0,UEFA Euro,Saint-Denis,France,,TRUE,-2
+6/30/2016,Poland,Portugal,1,1,UEFA Euro,Marseille,France,,TRUE,0
+7/2/2016,Germany,Italy,1,1,UEFA Euro,Bordeaux,France,,TRUE,0
+7/7/2016,France,Germany,2,0,UEFA Euro,Marseille,France,,FALSE,-2
+7/10/2016,France,Portugal,0,1,UEFA Euro,Saint-Denis,France,,FALSE,1
+9/1/2016,Argentina,Uruguay,1,0,FIFA World Cup qualification,Mendoza,Argentina,South America,FALSE,-1
+9/1/2016,Belgium,Spain,0,2,Friendly,Brussels,Belgium,,FALSE,2
+9/1/2016,Ecuador,Brazil,0,3,FIFA World Cup qualification,Quito,Ecuador,,FALSE,3
+9/1/2016,Italy,France,1,3,Friendly,Bari,Italy,,FALSE,2
+9/1/2016,Paraguay,Chile,2,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-1
+9/6/2016,Brazil,Colombia,2,1,FIFA World Cup qualification,Manaus,Brazil,,FALSE,-1
+9/6/2016,Sweden,Netherlands,1,1,FIFA World Cup qualification,Solna,Sweden,,FALSE,0
+9/6/2016,Switzerland,Portugal,2,0,FIFA World Cup qualification,Basel,Switzerland,,FALSE,-2
+10/6/2016,Ecuador,Chile,3,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-3
+10/6/2016,Italy,Spain,1,1,FIFA World Cup qualification,Turin,Italy,,FALSE,0
+10/6/2016,Paraguay,Colombia,0,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,1
+10/7/2016,Hungary,Switzerland,2,3,FIFA World Cup qualification,Budapest,Hungary,,FALSE,1
+10/10/2016,Netherlands,France,0,1,FIFA World Cup qualification,Amsterdam,Netherlands,,FALSE,1
+10/11/2016,Australia,Japan,1,1,FIFA World Cup qualification,Melbourne,Australia,,FALSE,0
+10/11/2016,Colombia,Uruguay,2,2,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,0
+10/11/2016,Iran,South Korea,1,0,FIFA World Cup qualification,Tehran,Iran,,FALSE,-1
+11/9/2016,Netherlands,Belgium,1,1,Friendly,Amsterdam,Netherlands,,FALSE,0
+11/10/2016,Brazil,Argentina,3,0,FIFA World Cup qualification,Belo Horizonte,Brazil,,FALSE,-3
+11/10/2016,Colombia,Chile,0,0,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,0
+11/10/2016,Uruguay,Ecuador,2,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-1
+11/11/2016,France,Sweden,2,1,FIFA World Cup qualification,Saint-Denis,France,,FALSE,-1
+11/11/2016,United States,Mexico,1,2,FIFA World Cup qualification,Columbus,United States,,FALSE,1
+11/15/2016,Argentina,Colombia,3,0,FIFA World Cup qualification,San Juan,Argentina,South America,FALSE,-3
+11/15/2016,Chile,Uruguay,3,1,FIFA World Cup qualification,Santiago,Chile,,FALSE,-2
+11/15/2016,Costa Rica,United States,4,0,FIFA World Cup qualification,San José,Costa Rica,,FALSE,-4
+11/15/2016,England,Spain,2,2,Friendly,London,England,,FALSE,0
+11/15/2016,Italy,Germany,0,0,Friendly,Milan,Italy,,FALSE,0
+1/11/2017,Chile,Croatia,1,1,Friendly,Nanning,China PR,,TRUE,0
+1/26/2017,Brazil,Colombia,1,0,Friendly,Rio de Janeiro,Brazil,,FALSE,-1
+1/28/2017,Senegal,Cameroon,0,0,African Cup of Nations,Franceville,Gabon,,TRUE,0
+1/29/2017,Egypt,Morocco,1,0,African Cup of Nations,Port-Gentil,Gabon,,TRUE,-1
+2/5/2017,Egypt,Cameroon,1,2,African Cup of Nations,Libreville,Gabon,,TRUE,1
+3/22/2017,Germany,England,1,0,Friendly,Dortmund,Germany,,FALSE,-1
+3/23/2017,Argentina,Chile,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-1
+3/23/2017,Paraguay,Ecuador,2,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,-1
+3/23/2017,Uruguay,Brazil,1,4,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,3
+3/24/2017,Croatia,Ukraine,1,0,FIFA World Cup qualification,Zagreb,Croatia,,FALSE,-1
+3/24/2017,Mexico,Costa Rica,2,0,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,-2
+3/28/2017,Ecuador,Colombia,0,2,FIFA World Cup qualification,Quito,Ecuador,,FALSE,2
+3/28/2017,France,Spain,0,2,Friendly,Saint-Denis,France,,FALSE,2
+3/28/2017,Netherlands,Italy,1,2,Friendly,Amsterdam,Netherlands,,FALSE,1
+3/28/2017,Portugal,Sweden,2,3,Friendly,Funchal,Portugal,,FALSE,1
+5/28/2017,Mexico,Croatia,1,2,Friendly,Los Angeles,United States,,TRUE,1
+5/31/2017,Morocco,Netherlands,1,2,Friendly,Agadir,Morocco,,FALSE,1
+6/5/2017,Hungary,Russia,0,3,Friendly,Budapest,Hungary,,FALSE,3
+6/7/2017,Italy,Uruguay,3,0,Friendly,Nice,France,,TRUE,-3
+6/7/2017,Spain,Colombia,2,2,Friendly,Murcia,Spain,,FALSE,0
+6/9/2017,Argentina,Brazil,1,0,Superclásico de las Américas,Melbourne,Australia,,TRUE,-1
+6/9/2017,Sweden,France,2,1,FIFA World Cup qualification,Solna,Sweden,,FALSE,-1
+6/10/2017,Cameroon,Morocco,1,0,African Cup of Nations qualification,Yaoundé,Cameroon,,FALSE,-1
+6/11/2017,Mexico,United States,1,1,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,0
+6/13/2017,Australia,Brazil,0,4,Friendly,Melbourne,Australia,,FALSE,4
+6/13/2017,Cameroon,Colombia,0,4,Friendly,Getafe,Spain,,TRUE,4
+6/13/2017,France,England,3,2,Friendly,Saint-Denis,France,,FALSE,-1
+6/18/2017,Cameroon,Chile,0,2,Confederations Cup,Moscow,Russia,,TRUE,2
+6/18/2017,Portugal,Mexico,2,2,Confederations Cup,Kazan,Russia,,TRUE,0
+6/19/2017,Australia,Germany,2,3,Confederations Cup,Sochi,Russia,,TRUE,1
+6/22/2017,Cameroon,Australia,1,1,Confederations Cup,Saint Petersburg,Russia,,TRUE,0
+6/22/2017,Germany,Chile,1,1,Confederations Cup,Kazan,Russia,,TRUE,0
+6/25/2017,Chile,Australia,1,1,Confederations Cup,Moscow,Russia,,TRUE,0
+6/25/2017,Germany,Cameroon,3,1,Confederations Cup,Sochi,Russia,,TRUE,-2
+6/28/2017,Portugal,Chile,0,0,Confederations Cup,Kazan,Russia,,TRUE,0
+6/29/2017,Germany,Mexico,4,1,Confederations Cup,Sochi,Russia,,TRUE,-3
+7/2/2017,Chile,Germany,0,1,Confederations Cup,Saint Petersburg,Russia,,TRUE,1
+7/2/2017,Portugal,Mexico,2,1,Confederations Cup,Moscow,Russia,,TRUE,-1
+7/22/2017,United States,Costa Rica,2,0,Gold Cup,Arlington,United States,,FALSE,-2
+8/13/2017,Egypt,Morocco,1,1,African Nations Championship,Alexandria,Egypt,,FALSE,0
+8/31/2017,Brazil,Ecuador,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,,FALSE,-2
+8/31/2017,France,Netherlands,4,0,FIFA World Cup qualification,Saint-Denis,France,,FALSE,-4
+8/31/2017,Japan,Australia,2,0,FIFA World Cup qualification,Saitama,Japan,,FALSE,-2
+8/31/2017,South Korea,Iran,0,0,FIFA World Cup qualification,Seoul,South Korea,,FALSE,0
+8/31/2017,Uruguay,Argentina,0,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,0
+9/1/2017,United States,Costa Rica,0,2,FIFA World Cup qualification,Harrison,United States,,FALSE,2
+9/2/2017,Spain,Italy,3,0,FIFA World Cup qualification,Madrid,Spain,,FALSE,-3
+9/3/2017,Greece,Belgium,1,2,FIFA World Cup qualification,Piraeus,Greece,,FALSE,1
+9/3/2017,Hungary,Portugal,0,1,FIFA World Cup qualification,Budapest,Hungary,,FALSE,1
+9/5/2017,Colombia,Brazil,1,1,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,0
+9/5/2017,Costa Rica,Mexico,1,1,FIFA World Cup qualification,San José,Costa Rica,,FALSE,0
+9/5/2017,Paraguay,Uruguay,1,2,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,1
+10/5/2017,Chile,Ecuador,2,1,FIFA World Cup qualification,Santiago,Chile,,FALSE,-1
+10/6/2017,Austria,Serbia,3,2,FIFA World Cup qualification,Vienna,Austria,,FALSE,-1
+10/10/2017,Brazil,Chile,3,0,FIFA World Cup qualification,São Paulo,Brazil,,FALSE,-3
+10/10/2017,Ecuador,Argentina,1,3,FIFA World Cup qualification,Quito,Ecuador,,FALSE,2
+10/10/2017,South Korea,Morocco,1,3,Friendly,Biel,Switzerland,,TRUE,2
+10/10/2017,Netherlands,Sweden,2,0,FIFA World Cup qualification,Amsterdam,Netherlands,,FALSE,-2
+10/10/2017,Portugal,Switzerland,2,0,FIFA World Cup qualification,Lisbon,Portugal,,FALSE,-2
+11/10/2017,Belgium,Mexico,3,3,Friendly,Brussels,Belgium,,FALSE,0
+11/10/2017,England,Germany,0,0,Friendly,London,England,,FALSE,0
+11/10/2017,Japan,Brazil,1,3,Friendly,Villeneuve-d'Ascq,France,,TRUE,2
+11/10/2017,South Korea,Colombia,2,1,Friendly,Suwon,South Korea,,FALSE,-1
+11/10/2017,Poland,Uruguay,0,0,Friendly,Warsaw,Poland,,FALSE,0
+11/10/2017,Sweden,Italy,1,0,FIFA World Cup qualification,Solna,Sweden,,FALSE,-1
+11/11/2017,Spain,Costa Rica,5,0,Friendly,Málaga,Spain,,FALSE,-5
+11/12/2017,Greece,Croatia,0,0,FIFA World Cup qualification,Piraeus,Greece,,FALSE,0
+11/13/2017,Italy,Sweden,0,0,FIFA World Cup qualification,Milan,Italy,,FALSE,0
+11/13/2017,Poland,Mexico,0,1,Friendly,Gdańsk,Poland,,FALSE,1
+11/14/2017,Austria,Uruguay,2,1,Friendly,Vienna,Austria,,FALSE,-1
+11/14/2017,Belgium,Japan,1,0,Friendly,Bruges,Belgium,,FALSE,-1
+11/14/2017,England,Brazil,0,0,Friendly,London,England,,FALSE,0
+11/14/2017,Germany,France,2,2,Friendly,Cologne,Germany,,FALSE,0
+11/14/2017,Hungary,Costa Rica,1,0,Friendly,Budapest,Hungary,,FALSE,-1
+11/14/2017,Portugal,United States,1,1,Friendly,Leiria,Portugal,,FALSE,0
+12/16/2017,Japan,South Korea,1,4,EAFF Championship,Chōfu,Japan,,FALSE,3
+3/23/2018,France,Colombia,2,3,Friendly,Saint-Denis,France,,FALSE,1
+3/23/2018,Germany,Spain,1,1,Friendly,Düsseldorf,Germany,,FALSE,0
+3/23/2018,Greece,Switzerland,0,1,Friendly,Athens,Greece,,FALSE,1
+3/23/2018,Italy,Argentina,0,2,Friendly,Manchester,England,,TRUE,2
+3/23/2018,Netherlands,England,0,1,Friendly,Amsterdam,Netherlands,,FALSE,1
+3/24/2018,Sweden,Chile,1,2,Friendly,Solna,Sweden,,FALSE,1
+3/26/2018,Portugal,Netherlands,0,3,Friendly,Geneva,Switzerland,,TRUE,3
+3/27/2018,Australia,Colombia,0,0,Friendly,London,England,,TRUE,0
+3/27/2018,England,Italy,1,1,Friendly,London,England,,FALSE,0
+3/27/2018,Germany,Brazil,0,1,Friendly,Berlin,Germany,,FALSE,1
+3/27/2018,Mexico,Croatia,0,1,Friendly,Arlington,United States,,TRUE,1
+3/27/2018,Poland,South Korea,3,2,Friendly,Chorzów,Poland,,FALSE,-1
+3/27/2018,Spain,Argentina,6,1,Friendly,Madrid,Spain,,FALSE,-5
+5/30/2018,Austria,Russia,1,0,Friendly,Innsbruck,Austria,,FALSE,-1
+6/1/2018,France,Italy,3,1,Friendly,Nice,France,,FALSE,-2
+6/2/2018,Belgium,Portugal,0,0,Friendly,Brussels,Belgium,,FALSE,0
+6/2/2018,Austria,Germany,2,1,Friendly,Klagenfurt,Austria,,FALSE,-1
+6/3/2018,Spain,Switzerland,1,1,Friendly,Vila-real,Spain,,FALSE,0
+6/3/2018,Croatia,Brazil,0,2,Friendly,Liverpool,England,,TRUE,2
+6/4/2018,Italy,Netherlands,1,1,Friendly,Turin,Italy,,FALSE,0
+6/7/2018,England,Costa Rica,2,0,Friendly,Leeds,England,,FALSE,-2
+6/8/2018,Croatia,Senegal,2,1,Friendly,Osijek,Croatia,,FALSE,-1
+6/8/2018,Switzerland,Japan,2,0,Friendly,Lugano,Switzerland,,FALSE,-2
+6/8/2018,Poland,Chile,2,2,Friendly,Poznań,Poland,,FALSE,0
+6/9/2018,Hungary,Australia,1,2,Friendly,Budapest,Hungary,,FALSE,1
+6/9/2018,France,United States,1,1,Friendly,Lyon,France,,FALSE,0
+6/10/2018,Austria,Brazil,0,3,Friendly,Vienna,Austria,,FALSE,3
+6/11/2018,South Korea,Senegal,0,2,Friendly,Grödig,Austria,,TRUE,2
+6/11/2018,Belgium,Costa Rica,4,1,Friendly,Brussels,Belgium,,FALSE,-3
+6/15/2018,Egypt,Uruguay,0,1,FIFA World Cup,Ekaterinburg,Russia,Europe,TRUE,1
+6/15/2018,Morocco,Iran,0,1,FIFA World Cup,Saint Petersburg,Russia,Europe,TRUE,1
+6/15/2018,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,Europe,TRUE,0
+6/16/2018,France,Australia,2,1,FIFA World Cup,Kazan,Russia,Europe,TRUE,-1
+6/17/2018,Germany,Mexico,0,1,FIFA World Cup,Moscow,Russia,Europe,TRUE,1
+6/17/2018,Brazil,Switzerland,1,1,FIFA World Cup,Rostov-on-Don,Russia,Europe,TRUE,0
+6/18/2018,Sweden,South Korea,1,0,FIFA World Cup,Nizhny Novgorod,Russia,Europe,TRUE,-1
+6/19/2018,Colombia,Japan,1,2,FIFA World Cup,Saransk,Russia,Europe,TRUE,1
+6/19/2018,Poland,Senegal,1,2,FIFA World Cup,Moscow,Russia,Europe,TRUE,1
+6/20/2018,Portugal,Morocco,1,0,FIFA World Cup,Moscow,Russia,Europe,TRUE,-1
+6/20/2018,Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,Europe,TRUE,1
+6/21/2018,Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,Europe,TRUE,3
+6/22/2018,Brazil,Costa Rica,2,0,FIFA World Cup,Saint Petersburg,Russia,Europe,TRUE,-2
+6/23/2018,South Korea,Mexico,1,2,FIFA World Cup,Rostov-on-Don,Russia,Europe,TRUE,1
+6/23/2018,Germany,Sweden,2,1,FIFA World Cup,Sochi,Russia,Europe,TRUE,-1
+6/24/2018,Japan,Senegal,2,2,FIFA World Cup,Ekaterinburg,Russia,Europe,TRUE,0
+6/24/2018,Poland,Colombia,0,3,FIFA World Cup,Kazan,Russia,Europe,TRUE,3
+6/25/2018,Spain,Morocco,2,2,FIFA World Cup,Kaliningrad,Russia,Europe,TRUE,0
+6/25/2018,Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,Europe,TRUE,0
+6/27/2018,South Korea,Germany,2,0,FIFA World Cup,Kazan,Russia,Europe,TRUE,-2
+6/27/2018,Mexico,Sweden,0,3,FIFA World Cup,Ekaterinburg,Russia,Europe,TRUE,3
+6/27/2018,Switzerland,Costa Rica,2,2,FIFA World Cup,Nizhny Novgorod,Russia,Europe,TRUE,0
+6/28/2018,Japan,Poland,0,1,FIFA World Cup,Volgograd,Russia,Europe,TRUE,1
+6/28/2018,Senegal,Colombia,0,1,FIFA World Cup,Samara,Russia,Europe,TRUE,1
+6/28/2018,England,Belgium,0,1,FIFA World Cup,Kaliningrad,Russia,Europe,TRUE,1
+6/30/2018,France,Argentina,4,3,FIFA World Cup,Kazan,Russia,Europe,TRUE,-1
+6/30/2018,Uruguay,Portugal,2,1,FIFA World Cup,Sochi,Russia,Europe,TRUE,-1
+7/2/2018,Brazil,Mexico,2,0,FIFA World Cup,Samara,Russia,Europe,TRUE,-2
+7/2/2018,Belgium,Japan,3,2,FIFA World Cup,Rostov-on-Don,Russia,Europe,TRUE,-1
+7/3/2018,Sweden,Switzerland,1,0,FIFA World Cup,Saint Petersburg,Russia,Europe,TRUE,-1
+7/3/2018,Colombia,England,1,1,FIFA World Cup,Moscow,Russia,Europe,TRUE,0
+7/6/2018,Uruguay,France,0,2,FIFA World Cup,Nizhny Novgorod,Russia,Europe,TRUE,2
+7/6/2018,Brazil,Belgium,1,2,FIFA World Cup,Kazan,Russia,Europe,TRUE,1
+7/7/2018,Sweden,England,0,2,FIFA World Cup,Samara,Russia,Europe,TRUE,2
+7/10/2018,France,Belgium,1,0,FIFA World Cup,Saint Petersburg,Russia,Europe,TRUE,-1
+7/11/2018,Croatia,England,2,1,FIFA World Cup,Moscow,Russia,Europe,TRUE,-1
+7/14/2018,Belgium,England,2,0,FIFA World Cup,Saint Petersburg,Russia,Europe,TRUE,-2
+7/15/2018,France,Croatia,4,2,FIFA World Cup,Moscow,Russia,Europe,TRUE,-2
+9/6/2018,Germany,France,0,0,UEFA Nations League,Munich,Germany,,FALSE,0
+9/6/2018,Austria,Sweden,2,0,Friendly,Vienna,Austria,,FALSE,-2
+9/6/2018,Portugal,Croatia,1,1,Friendly,Faro-Loulé,Portugal,,FALSE,0
+9/7/2018,Italy,Poland,1,1,UEFA Nations League,Bologna,Italy,,FALSE,0
+9/7/2018,South Korea,Costa Rica,2,0,Friendly,Goyang,South Korea,,FALSE,-2
+9/7/2018,Mexico,Uruguay,1,4,Friendly,Houston,United States,,TRUE,3
+9/7/2018,United States,Brazil,0,2,Friendly,East Rutherford,United States,,FALSE,2
+9/8/2018,England,Spain,1,2,UEFA Nations League,London,England,,FALSE,1
+9/9/2018,France,Netherlands,2,1,UEFA Nations League,Paris,France,,FALSE,-1
+9/10/2018,Portugal,Italy,1,0,UEFA Nations League,Lisbon,Portugal,,FALSE,-1
+9/11/2018,Spain,Croatia,6,0,UEFA Nations League,Elche,Spain,,FALSE,-6
+9/11/2018,Colombia,Argentina,0,0,Friendly,East Rutherford,United States,,TRUE,0
+9/11/2018,England,Switzerland,1,0,Friendly,London,England,,FALSE,-1
+9/11/2018,Japan,Costa Rica,3,0,Kirin Challenge Cup,Suita,Japan,,FALSE,-3
+9/11/2018,South Korea,Chile,0,0,Friendly,Suwon,South Korea,,FALSE,0
+9/11/2018,United States,Mexico,1,0,Friendly,Nashville,United States,,FALSE,-1
+10/10/2018,Italy,Ukraine,1,1,Friendly,Genoa,Italy,,FALSE,0
+10/11/2018,Poland,Portugal,2,3,UEFA Nations League,Chorzów,Poland,,FALSE,1
+10/11/2018,Mexico,Costa Rica,3,2,Friendly,San Nicolás de los Garza,Mexico,,FALSE,-1
+10/11/2018,United States,Colombia,2,4,Friendly,Tampa,United States,,FALSE,2
+10/12/2018,Belgium,Switzerland,2,1,UEFA Nations League,Brussels,Belgium,,FALSE,-1
+10/12/2018,Croatia,England,0,0,UEFA Nations League,Rijeka,Croatia,,FALSE,0
+10/12/2018,South Korea,Uruguay,2,1,Friendly,Seoul,South Korea,,FALSE,-1
+10/13/2018,Netherlands,Germany,3,0,UEFA Nations League,Amsterdam,Netherlands,,FALSE,-3
+10/14/2018,Poland,Italy,0,1,UEFA Nations League,Chorzów,Poland,,FALSE,1
+10/15/2018,Spain,England,2,3,UEFA Nations League,Seville,Spain,,FALSE,1
+10/16/2018,France,Germany,2,1,UEFA Nations League,Paris,France,,FALSE,-1
+10/16/2018,Belgium,Netherlands,1,1,Friendly,Brussels,Belgium,,FALSE,0
+10/16/2018,Colombia,Costa Rica,3,1,Friendly,Harrison,United States,,TRUE,-2
+10/16/2018,Japan,Uruguay,4,3,Kirin Challenge Cup,Saitama,Japan,,FALSE,-1
+10/16/2018,Mexico,Chile,0,1,Friendly,Querétaro,Mexico,,FALSE,1
+10/16/2018,Argentina,Brazil,0,1,Superclásico de las Américas,Jeddah,Saudi Arabia,,TRUE,1
+11/15/2018,Croatia,Spain,3,2,UEFA Nations League,Zagreb,Croatia,,FALSE,-1
+11/15/2018,England,United States,3,0,Friendly,London,England,,FALSE,-3
+11/15/2018,Germany,Russia,3,0,Friendly,Leipzig,Germany,,FALSE,-3
+11/16/2018,Netherlands,France,2,0,UEFA Nations League,Rotterdam,Netherlands,,FALSE,-2
+11/16/2018,Argentina,Mexico,2,0,Friendly,Córdoba,Argentina,South America,FALSE,-2
+11/16/2018,Brazil,Uruguay,1,0,Friendly,London,England,,TRUE,-1
+11/16/2018,Chile,Costa Rica,2,3,Friendly,Rancagua,Chile,,FALSE,1
+11/16/2018,Morocco,Cameroon,2,0,African Cup of Nations qualification,Casablanca,Morocco,,FALSE,-2
+11/17/2018,Italy,Portugal,0,0,UEFA Nations League,Milan,Italy,,FALSE,0
+11/17/2018,Australia,South Korea,1,1,Friendly,Brisbane,Australia,,FALSE,0
+11/18/2018,Switzerland,Belgium,5,2,UEFA Nations League,Lucerne,Switzerland,,FALSE,-3
+11/18/2018,England,Croatia,2,1,UEFA Nations League,London,England,,FALSE,-1
+11/19/2018,Germany,Netherlands,2,2,UEFA Nations League,Gelsenkirchen,Germany,,FALSE,0
+11/20/2018,Portugal,Poland,1,1,UEFA Nations League,Guimarães,Portugal,,FALSE,0
+11/20/2018,Sweden,Russia,2,0,UEFA Nations League,Stockholm,Sweden,,FALSE,-2
+11/20/2018,Argentina,Mexico,2,0,Friendly,Mendoza,Argentina,South America,FALSE,-2
+11/20/2018,Brazil,Cameroon,1,0,Friendly,London,England,,TRUE,-1
+11/20/2018,France,Uruguay,1,0,Friendly,Paris,France,,FALSE,-1
+11/20/2018,Italy,United States,1,0,Friendly,Genk,Belgium,,TRUE,-1
+1/28/2019,Iran,Japan,0,3,AFC Asian Cup,Al Ain,United Arab Emirates,,TRUE,3
+2/2/2019,United States,Costa Rica,2,0,Friendly,San Jose,United States,,FALSE,-2
+3/21/2019,United States,Ecuador,1,0,Friendly,Orlando,United States,,FALSE,-1
+3/21/2019,Austria,Poland,0,1,UEFA Euro qualification,Vienna,Austria,,FALSE,1
+3/21/2019,Belgium,Russia,3,1,UEFA Euro qualification,Brussels,Belgium,,FALSE,-2
+3/22/2019,Japan,Colombia,0,1,Kirin Challenge Cup,Yokohama,Japan,,FALSE,1
+3/22/2019,Mexico,Chile,3,1,Friendly,San Diego,United States,,TRUE,-2
+3/22/2019,Portugal,Ukraine,0,0,UEFA Euro qualification,Lisbon,Portugal,,FALSE,0
+3/24/2019,Netherlands,Germany,2,3,UEFA Euro qualification,Amsterdam,Netherlands,,FALSE,1
+3/24/2019,Hungary,Croatia,2,1,UEFA Euro qualification,Budapest,Hungary,,FALSE,-1
+3/26/2019,South Korea,Colombia,2,1,Friendly,Seoul,South Korea,,FALSE,-1
+3/26/2019,Morocco,Argentina,0,1,Friendly,Tangier,Morocco,,FALSE,1
+3/26/2019,Paraguay,Mexico,2,4,Friendly,Santa Clara,United States,,TRUE,2
+3/26/2019,United States,Chile,1,1,Friendly,Houston,United States,,FALSE,0
+6/5/2019,Portugal,Switzerland,3,1,UEFA Nations League,Porto,Portugal,,FALSE,-2
+6/6/2019,England,Netherlands,1,3,UEFA Nations League,Guimarães,Portugal,,TRUE,2
+6/7/2019,South Korea,Australia,1,0,Friendly,Busan,South Korea,,FALSE,-1
+6/8/2019,Greece,Italy,0,3,UEFA Euro qualification,Athens,Greece,,FALSE,3
+6/9/2019,Mexico,Ecuador,3,2,Friendly,Arlington,United States,,TRUE,-1
+6/9/2019,Switzerland,England,0,0,UEFA Nations League,Guimarães,Portugal,,TRUE,0
+6/9/2019,Portugal,Netherlands,1,0,UEFA Nations League,Porto,Portugal,,FALSE,-1
+6/10/2019,Spain,Sweden,3,0,UEFA Euro qualification,Madrid,Spain,,FALSE,-3
+6/11/2019,South Korea,Iran,1,1,Friendly,Seoul,South Korea,,FALSE,0
+6/15/2019,Argentina,Colombia,0,2,Copa América,Salvador,Brazil,,TRUE,2
+6/16/2019,Uruguay,Ecuador,4,0,Copa América,Belo Horizonte,Brazil,,TRUE,-4
+6/17/2019,Japan,Chile,0,4,Copa América,São Paulo,Brazil,,TRUE,4
+6/20/2019,Uruguay,Japan,2,2,Copa América,Porto Alegre,Brazil,,TRUE,0
+6/21/2019,Ecuador,Chile,1,2,Copa América,Salvador,Brazil,,TRUE,1
+6/24/2019,Chile,Uruguay,0,1,Copa América,Rio de Janeiro,Brazil,,TRUE,1
+6/24/2019,Ecuador,Japan,1,1,Copa América,Belo Horizonte,Brazil,,TRUE,0
+6/28/2019,Colombia,Chile,0,0,Copa América,São Paulo,Brazil,,TRUE,0
+6/29/2019,Mexico,Costa Rica,1,1,Gold Cup,Houston,United States,,TRUE,0
+7/2/2019,Brazil,Argentina,2,0,Copa América,Belo Horizonte,Brazil,,FALSE,-2
+7/6/2019,Argentina,Chile,2,1,Copa América,São Paulo,Brazil,,TRUE,-1
+7/7/2019,United States,Mexico,0,1,Gold Cup,Chicago,United States,,FALSE,1
+9/5/2019,Argentina,Chile,0,0,Friendly,Los Angeles,United States,,TRUE,0
+9/6/2019,Brazil,Colombia,2,2,Friendly,Miami Gardens,United States,,TRUE,0
+9/6/2019,Costa Rica,Uruguay,1,2,Friendly,San José,Costa Rica,,FALSE,1
+9/6/2019,United States,Mexico,0,3,Friendly,East Rutherford,United States,,FALSE,3
+9/6/2019,Germany,Netherlands,2,4,UEFA Euro qualification,Hamburg,Germany,,FALSE,2
+9/8/2019,Greece,Liechtenstein,1,1,UEFA Euro qualification,Athens,Greece,,FALSE,0
+9/9/2019,Poland,Austria,0,0,UEFA Euro qualification,Warsaw,Poland,,FALSE,0
+9/10/2019,Argentina,Mexico,4,0,Friendly,San Antonio,United States,,TRUE,-4
+9/10/2019,United States,Uruguay,1,1,Friendly,St. Louis,United States,,FALSE,0
+10/9/2019,Germany,Argentina,2,2,Friendly,Dortmund,Germany,,FALSE,0
+10/10/2019,Brazil,Senegal,1,1,Friendly,Kallang,Singapore,,TRUE,0
+10/12/2019,Colombia,Chile,0,0,Friendly,Alicante,Spain,,TRUE,0
+10/13/2019,Ecuador,Argentina,1,6,Friendly,Elche,Spain,,TRUE,5
+10/15/2019,Sweden,Spain,1,1,UEFA Euro qualification,Stockholm,Sweden,,FALSE,0
+11/15/2019,Brazil,Argentina,0,1,Superclásico de las Américas,Riyadh,Saudi Arabia,,TRUE,1
+11/15/2019,Hungary,Uruguay,1,2,Friendly,Budapest,Hungary,,FALSE,1
+11/18/2019,Argentina,Uruguay,2,2,Friendly,Tel Aviv,Israel,,TRUE,0
+11/19/2019,Brazil,South Korea,3,0,Friendly,Abu Dhabi,United Arab Emirates,,TRUE,-3
+11/19/2019,Ecuador,Colombia,0,1,Friendly,Harrison,United States,,TRUE,1
+12/18/2019,South Korea,Japan,1,0,EAFF Championship,Busan,South Korea,,FALSE,-1
+2/1/2020,United States,Costa Rica,1,0,Friendly,Carson,United States,,FALSE,-1
+9/3/2020,Germany,Spain,1,1,UEFA Nations League,Stuttgart,Germany,,FALSE,0
+9/4/2020,Netherlands,Poland,1,0,UEFA Nations League,Amsterdam,Netherlands,,FALSE,-1
+9/5/2020,Portugal,Croatia,4,1,UEFA Nations League,Porto,Portugal,,FALSE,-3
+9/5/2020,Sweden,France,0,1,UEFA Nations League,Stockholm,Sweden,,FALSE,1
+9/6/2020,Spain,Ukraine,4,0,UEFA Nations League,Madrid,Spain,,FALSE,-4
+9/6/2020,Switzerland,Germany,1,1,UEFA Nations League,Basel,Switzerland,,FALSE,0
+9/6/2020,Hungary,Russia,2,3,UEFA Nations League,Budapest,Hungary,,FALSE,1
+9/7/2020,Netherlands,Italy,0,1,UEFA Nations League,Amsterdam,Netherlands,,FALSE,1
+9/8/2020,France,Croatia,4,2,UEFA Nations League,Paris,France,,FALSE,-2
+9/8/2020,Sweden,Portugal,0,2,UEFA Nations League,Stockholm,Sweden,,FALSE,2
+10/7/2020,France,Ukraine,7,1,Friendly,Paris,France,,FALSE,-6
+10/7/2020,Netherlands,Mexico,0,1,Friendly,Amsterdam,Netherlands,,FALSE,1
+10/7/2020,Portugal,Spain,0,0,Friendly,Lisbon,Portugal,,FALSE,0
+10/7/2020,Switzerland,Croatia,1,2,Friendly,St. Gallen,Switzerland,,FALSE,1
+10/8/2020,Uruguay,Chile,2,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-1
+10/8/2020,Argentina,Ecuador,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-1
+10/9/2020,Japan,Cameroon,0,0,Friendly,Utrecht,Netherlands,,TRUE,0
+10/9/2020,Morocco,Senegal,3,1,Friendly,Rabat,Morocco,,FALSE,-2
+10/10/2020,Spain,Switzerland,1,0,UEFA Nations League,Madrid,Spain,,FALSE,-1
+10/11/2020,Poland,Italy,0,0,UEFA Nations League,Gdańsk,Poland,,FALSE,0
+10/11/2020,England,Belgium,2,1,UEFA Nations League,London,England,,FALSE,-1
+10/11/2020,Croatia,Sweden,2,1,UEFA Nations League,Zagreb,Croatia,,FALSE,-1
+10/11/2020,France,Portugal,0,0,UEFA Nations League,Paris,France,,FALSE,0
+10/13/2020,Germany,Switzerland,3,3,UEFA Nations League,Cologne,Germany,,FALSE,0
+10/13/2020,Ecuador,Uruguay,4,2,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-2
+10/13/2020,Chile,Colombia,2,2,FIFA World Cup qualification,Santiago,Chile,,FALSE,0
+10/14/2020,Italy,Netherlands,1,1,UEFA Nations League,Bergamo,Italy,,FALSE,0
+10/14/2020,Portugal,Sweden,3,0,UEFA Nations League,Lisbon,Portugal,,FALSE,-3
+10/14/2020,Croatia,France,1,2,UEFA Nations League,Zagreb,Croatia,,FALSE,1
+11/11/2020,Belgium,Switzerland,2,1,Friendly,Leuven,Belgium,,FALSE,-1
+11/11/2020,Netherlands,Spain,1,1,Friendly,Amsterdam,Netherlands,,FALSE,0
+11/11/2020,Poland,Ukraine,2,0,Friendly,Chorzów,Poland,,FALSE,-2
+11/13/2020,Colombia,Uruguay,0,3,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,3
+11/14/2020,Portugal,France,0,1,UEFA Nations League,Lisbon,Portugal,,FALSE,1
+11/14/2020,Sweden,Croatia,2,1,UEFA Nations League,Stockholm,Sweden,,FALSE,-1
+11/14/2020,Germany,Ukraine,3,1,UEFA Nations League,Leipzig,Germany,,FALSE,-2
+11/14/2020,Switzerland,Spain,1,1,UEFA Nations League,Basel,Switzerland,,FALSE,0
+11/14/2020,Mexico,South Korea,3,2,Friendly,Wiener Neustadt,Austria,,TRUE,-1
+11/15/2020,Italy,Poland,2,0,UEFA Nations League,Reggio Emilia,Italy,,FALSE,-2
+11/15/2020,Belgium,England,2,0,UEFA Nations League,Leuven,Belgium,,FALSE,-2
+11/15/2020,Hungary,Serbia,1,1,UEFA Nations League,Budapest,Hungary,,FALSE,0
+11/17/2020,Croatia,Portugal,2,3,UEFA Nations League,Split,Croatia,,FALSE,1
+11/17/2020,France,Sweden,4,2,UEFA Nations League,Paris,France,,FALSE,-2
+11/17/2020,Spain,Germany,6,0,UEFA Nations League,Seville,Spain,,FALSE,-6
+11/17/2020,Switzerland,Ukraine,3,0,UEFA Nations League,Lucerne,Switzerland,,FALSE,-3
+11/17/2020,Japan,Mexico,0,2,Friendly,Graz,Austria,,TRUE,2
+11/17/2020,Ecuador,Colombia,6,1,FIFA World Cup qualification,Quito,Ecuador,,FALSE,-5
+11/17/2020,Uruguay,Brazil,0,2,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,2
+11/18/2020,Poland,Netherlands,1,2,UEFA Nations League,Chorzów,Poland,,FALSE,1
+3/24/2021,France,Ukraine,1,1,FIFA World Cup qualification,Paris,France,,FALSE,0
+3/25/2021,Japan,South Korea,3,0,Friendly,Yokohama,Japan,,FALSE,-3
+3/25/2021,Hungary,Poland,3,3,FIFA World Cup qualification,Budapest,Hungary,,FALSE,0
+3/30/2021,Costa Rica,Mexico,0,1,Friendly,Wiener Neustadt,Austria,,TRUE,1
+3/31/2021,England,Poland,2,1,FIFA World Cup qualification,London,England,,FALSE,-1
+5/30/2021,Switzerland,United States,2,1,Friendly,St. Gallen,Switzerland,,FALSE,-1
+6/1/2021,Poland,Russia,1,1,Friendly,Wrocław,Poland,,FALSE,0
+6/2/2021,England,Austria,1,0,Friendly,London,England,,FALSE,-1
+6/3/2021,Mexico,Costa Rica,0,0,CONCACAF Nations League,Denver,United States,,TRUE,0
+6/3/2021,Argentina,Chile,1,1,FIFA World Cup qualification,Santiago del Estero,Argentina,South America,FALSE,0
+6/4/2021,Spain,Portugal,0,0,Friendly,Madrid,Spain,,FALSE,0
+6/4/2021,Brazil,Ecuador,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,,FALSE,-2
+6/6/2021,Belgium,Croatia,1,0,Friendly,Brussels,Belgium,,FALSE,-1
+6/6/2021,United States,Mexico,3,2,CONCACAF Nations League,Denver,United States,,FALSE,-1
+6/8/2021,Colombia,Argentina,2,2,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,0
+6/8/2021,Paraguay,Brazil,0,2,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,2
+6/9/2021,United States,Costa Rica,4,0,Friendly,Sandy,United States,,FALSE,-4
+6/13/2021,Netherlands,Ukraine,3,2,UEFA Euro,Amsterdam,Netherlands,,FALSE,-1
+6/13/2021,England,Croatia,1,0,UEFA Euro,London,England,,FALSE,-1
+6/13/2021,Colombia,Ecuador,1,0,Copa América,Cuiabá,Brazil,,TRUE,-1
+6/14/2021,Spain,Sweden,0,0,UEFA Euro,Seville,Spain,,FALSE,0
+6/14/2021,Argentina,Chile,1,1,Copa América,Rio de Janeiro,Brazil,,TRUE,0
+6/15/2021,Hungary,Portugal,0,3,UEFA Euro,Budapest,Hungary,,FALSE,3
+6/15/2021,Germany,France,0,1,UEFA Euro,Munich,Germany,,FALSE,1
+6/16/2021,Italy,Switzerland,3,0,UEFA Euro,Rome,Italy,,FALSE,-3
+6/17/2021,Netherlands,Austria,2,0,UEFA Euro,Amsterdam,Netherlands,,FALSE,-2
+6/18/2021,Argentina,Uruguay,1,0,Copa América,Brasília,Brazil,,TRUE,-1
+6/19/2021,Spain,Poland,1,1,UEFA Euro,Seville,Spain,,FALSE,0
+6/19/2021,Hungary,France,1,1,UEFA Euro,Budapest,Hungary,,FALSE,0
+6/19/2021,Germany,Portugal,4,2,UEFA Euro,Munich,Germany,,FALSE,-2
+6/21/2021,Uruguay,Chile,1,1,Copa América,Cuiabá,Brazil,,TRUE,0
+6/23/2021,Sweden,Poland,3,2,UEFA Euro,Saint Petersburg,Russia,,TRUE,-1
+6/23/2021,Portugal,France,2,2,UEFA Euro,Budapest,Hungary,,TRUE,0
+6/23/2021,Brazil,Colombia,2,1,Copa América,Rio de Janeiro,Brazil,,FALSE,-1
+6/26/2021,Italy,Austria,2,1,UEFA Euro,London,England,,TRUE,-1
+6/27/2021,Belgium,Portugal,1,0,UEFA Euro,Seville,Spain,,TRUE,-1
+6/27/2021,Brazil,Ecuador,1,1,Copa América,Goiânia,Brazil,,FALSE,0
+6/28/2021,Croatia,Spain,3,5,UEFA Euro,Copenhagen,Denmark,,TRUE,2
+6/28/2021,France,Switzerland,3,3,UEFA Euro,Bucharest,Romania,,TRUE,0
+6/29/2021,England,Germany,2,0,UEFA Euro,London,England,,FALSE,-2
+6/29/2021,Sweden,Ukraine,1,2,UEFA Euro,Glasgow,Scotland,,TRUE,1
+7/2/2021,Switzerland,Spain,1,1,UEFA Euro,Saint Petersburg,Russia,,TRUE,0
+7/2/2021,Belgium,Italy,1,2,UEFA Euro,Munich,Germany,,TRUE,1
+7/2/2021,Brazil,Chile,1,0,Copa América,Rio de Janeiro,Brazil,,FALSE,-1
+7/3/2021,Uruguay,Colombia,0,0,Copa América,Brasília,Brazil,,TRUE,0
+7/3/2021,Argentina,Ecuador,3,0,Copa América,Goiânia,Brazil,,TRUE,-3
+7/6/2021,Argentina,Colombia,1,1,Copa América,Brasília,Brazil,,TRUE,0
+7/6/2021,Italy,Spain,1,1,UEFA Euro,London,England,,TRUE,0
+7/10/2021,Brazil,Argentina,0,1,Copa América,Rio de Janeiro,Brazil,,FALSE,1
+7/11/2021,England,Italy,1,1,UEFA Euro,London,England,,FALSE,0
+8/1/2021,United States,Mexico,1,0,Gold Cup,Las Vegas,United States,,FALSE,-1
+9/2/2021,Sweden,Spain,2,1,FIFA World Cup qualification,Stockholm,Sweden,,FALSE,-1
+9/2/2021,Hungary,England,0,4,FIFA World Cup qualification,Budapest,Hungary,,FALSE,4
+9/2/2021,Chile,Brazil,0,1,FIFA World Cup qualification,Santiago,Chile,,FALSE,1
+9/5/2021,Switzerland,Italy,0,0,FIFA World Cup qualification,Basel,Switzerland,,FALSE,0
+9/5/2021,Ecuador,Chile,0,0,FIFA World Cup qualification,Quito,Ecuador,,FALSE,0
+9/5/2021,Paraguay,Colombia,1,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,0
+9/5/2021,Costa Rica,Mexico,0,1,FIFA World Cup qualification,San José,Costa Rica,,FALSE,1
+9/8/2021,Greece,Sweden,2,1,FIFA World Cup qualification,Athens,Greece,,FALSE,-1
+9/8/2021,Poland,England,1,1,FIFA World Cup qualification,Warsaw,Poland,,FALSE,0
+9/9/2021,Colombia,Chile,3,1,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,-2
+9/9/2021,Uruguay,Ecuador,1,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,-1
+10/6/2021,Italy,Spain,1,2,UEFA Nations League,Milan,Italy,,FALSE,1
+10/7/2021,Paraguay,Argentina,0,0,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,0
+10/7/2021,Uruguay,Colombia,0,0,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,0
+10/7/2021,Belgium,France,2,3,UEFA Nations League,Turin,Italy,,TRUE,1
+10/10/2021,Colombia,Brazil,0,0,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,0
+10/10/2021,Argentina,Uruguay,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,South America,FALSE,-3
+10/10/2021,Italy,Belgium,2,1,UEFA Nations League,Turin,Italy,,FALSE,-1
+10/10/2021,Spain,France,1,2,UEFA Nations League,Milan,Italy,,TRUE,1
+10/12/2021,Iran,South Korea,1,1,FIFA World Cup qualification,Tehran,Iran,,FALSE,0
+10/12/2021,Japan,Australia,2,1,FIFA World Cup qualification,Saitama,Japan,,FALSE,-1
+10/13/2021,United States,Costa Rica,2,1,FIFA World Cup qualification,Columbus,United States,,FALSE,-1
+10/14/2021,Colombia,Ecuador,0,0,FIFA World Cup qualification,Barranquilla,Colombia,,FALSE,0
+10/14/2021,Brazil,Uruguay,4,1,FIFA World Cup qualification,Manaus,Brazil,,FALSE,-3
+10/27/2021,Mexico,Ecuador,2,3,Friendly,Charlotte,United States,,TRUE,1
+11/11/2021,Greece,Spain,0,1,FIFA World Cup qualification,Athens,Greece,,FALSE,1
+11/11/2021,Paraguay,Chile,0,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,1
+11/11/2021,Brazil,Colombia,1,0,FIFA World Cup qualification,São Paulo,Brazil,,FALSE,-1
+11/12/2021,United States,Mexico,2,0,FIFA World Cup qualification,Cincinnati,United States,,FALSE,-2
+11/12/2021,Italy,Switzerland,1,1,FIFA World Cup qualification,Rome,Italy,,FALSE,0
+11/12/2021,Hungary,San Marino,4,0,FIFA World Cup qualification,Budapest,Hungary,,FALSE,-4
+11/12/2021,Uruguay,Argentina,0,1,FIFA World Cup qualification,Montevideo,Uruguay,,FALSE,1
+11/14/2021,Spain,Sweden,1,0,FIFA World Cup qualification,Seville,Spain,,FALSE,-1
+11/14/2021,Croatia,Russia,1,0,FIFA World Cup qualification,Split,Croatia,,FALSE,-1
+11/16/2021,Argentina,Brazil,0,0,FIFA World Cup qualification,San Juan,Argentina,South America,FALSE,0
+11/16/2021,Chile,Ecuador,0,2,FIFA World Cup qualification,Santiago,Chile,,FALSE,2
+12/8/2021,Mexico,Chile,2,2,Friendly,Austin,United States,,TRUE,0
+1/27/2022,Ecuador,Brazil,1,1,FIFA World Cup qualification,Quito,Ecuador,,FALSE,0
+1/27/2022,Paraguay,Uruguay,0,1,FIFA World Cup qualification,Asunción,Paraguay,,FALSE,1
+1/27/2022,Chile,Argentina,1,2,FIFA World Cup qualification,Calama,Chile,,FALSE,1
+1/30/2022,Egypt,Morocco,2,1,African Cup of Nations,Yaoundé,Cameroon,,TRUE,-1
+1/30/2022,Mexico,Costa Rica,0,0,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,0
+2/1/2022,Argentina,Colombia,1,0,FIFA World Cup qualification,Córdoba,Argentina,South America,FALSE,-1
+3/24/2022,Mexico,United States,0,0,FIFA World Cup qualification,Mexico City,Mexico,,FALSE,0
+3/24/2022,South Korea,Iran,2,0,FIFA World Cup qualification,Seoul,South Korea,,FALSE,-2
+3/24/2022,Australia,Japan,0,2,FIFA World Cup qualification,Sydney,Australia,,FALSE,2
+3/24/2022,Brazil,Chile,4,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,,FALSE,-4
+3/24/2022,Paraguay,Ecuador,3,1,FIFA World Cup qualification,Ciudad del Este,Paraguay,,FALSE,-2
+3/24/2022,Hungary,Serbia,0,1,Friendly,Budapest,Hungary,,FALSE,1
+3/25/2022,Egypt,Senegal,1,0,FIFA World Cup qualification,Cairo,Egypt,,FALSE,-1
+3/26/2022,England,Switzerland,2,1,Friendly,London,England,,FALSE,-1
+3/29/2022,Ecuador,Argentina,1,1,FIFA World Cup qualification,Guayaquil,Ecuador,,FALSE,0
+3/29/2022,Chile,Uruguay,0,2,FIFA World Cup qualification,Santiago,Chile,,FALSE,2
+3/29/2022,Poland,Sweden,2,0,FIFA World Cup qualification,Chorzów,Poland,,FALSE,-2
+3/29/2022,Netherlands,Germany,1,1,Friendly,Amsterdam,Netherlands,,FALSE,0
+3/30/2022,Costa Rica,United States,2,0,FIFA World Cup qualification,San José,Costa Rica,,FALSE,-2
+6/1/2022,Italy,Argentina,0,3,CONMEBOL–UEFA Cup of Champions,Paris,France,,TRUE,3
+6/1/2022,United States,Morocco,3,0,Friendly,Cincinnati,United States,,FALSE,-3
+6/2/2022,Spain,Portugal,1,1,UEFA Nations League,Sevilla,Spain,,FALSE,0
+6/2/2022,South Korea,Brazil,1,5,Friendly,Seoul,South Korea,,FALSE,4
+6/2/2022,Mexico,Uruguay,0,3,Friendly,Glendale,United States,,TRUE,3
+6/3/2022,Croatia,Austria,0,3,UEFA Nations League,Osijek,Croatia,,FALSE,3
+6/3/2022,Belgium,Netherlands,1,4,UEFA Nations League,Brussels,Belgium,,FALSE,3
+6/4/2022,Hungary,England,1,0,UEFA Nations League,Budapest,Hungary,,FALSE,-1
+6/4/2022,Italy,Germany,1,1,UEFA Nations League,Bologna,Italy,,FALSE,0
+6/5/2022,Portugal,Switzerland,4,0,UEFA Nations League,Lisbon,Portugal,,FALSE,-4
+6/5/2022,Mexico,Ecuador,0,0,Friendly,Chicago,United States,,TRUE,0
+6/5/2022,United States,Uruguay,0,0,Friendly,Kansas City,United States,,FALSE,0
+6/6/2022,Croatia,France,1,1,UEFA Nations League,Split,Croatia,,FALSE,0
+6/6/2022,South Korea,Chile,2,0,Friendly,Daejeon,South Korea,,FALSE,-2
+6/6/2022,Japan,Brazil,0,1,Friendly,Tokyo,Japan,,FALSE,1
+6/7/2022,Germany,England,1,1,UEFA Nations League,Munich,Germany,,FALSE,0
+6/8/2022,Belgium,Poland,6,1,UEFA Nations League,Brussels,Belgium,,FALSE,-5
+6/9/2022,Switzerland,Spain,0,1,UEFA Nations League,Geneva,Switzerland,,FALSE,1
+6/10/2022,Austria,France,1,1,UEFA Nations League,Vienna,Austria,,FALSE,0
+6/11/2022,England,Italy,0,0,UEFA Nations League,Wolverhampton,England,,FALSE,0
+6/11/2022,Hungary,Germany,1,1,UEFA Nations League,Budapest,Hungary,,FALSE,0
+6/11/2022,Netherlands,Poland,2,2,UEFA Nations League,Rotterdam,Netherlands,,FALSE,0
+6/12/2022,Switzerland,Portugal,1,0,UEFA Nations League,Geneva,Switzerland,,FALSE,-1
+6/13/2022,France,Croatia,0,1,UEFA Nations League,Paris,France,,FALSE,1
+6/14/2022,Germany,Italy,5,2,UEFA Nations League,Mönchengladbach,Germany,,FALSE,-3
+6/14/2022,Poland,Belgium,0,1,UEFA Nations League,Warsaw,Poland,,FALSE,1
+9/22/2022,France,Austria,2,0,UEFA Nations League,Paris,France,,FALSE,-2
+9/22/2022,Poland,Netherlands,0,2,UEFA Nations League,Warsaw,Poland,,FALSE,2
+9/23/2022,Japan,United States,2,0,Kirin Challenge Cup,Düsseldorf,Germany,,TRUE,-2
+9/23/2022,Iran,Uruguay,1,0,Friendly,Sankt Pölten,Austria,,TRUE,-1
+9/23/2022,South Korea,Costa Rica,2,2,Friendly,Goyang,South Korea,,FALSE,0
+9/23/2022,Morocco,Chile,2,0,Friendly,Barcelona,Spain,,TRUE,-2
+9/23/2022,Italy,England,1,0,UEFA Nations League,Milan,Italy,,FALSE,-1
+9/24/2022,Spain,Switzerland,1,2,UEFA Nations League,Zaragoza,Spain,,FALSE,1
+9/25/2022,Austria,Croatia,1,3,UEFA Nations League,Vienna,Austria,,FALSE,2
+9/25/2022,Netherlands,Belgium,1,0,UEFA Nations League,Amsterdam,Netherlands,,FALSE,-1
+9/26/2022,England,Germany,3,3,UEFA Nations League,London,England,,FALSE,0
+9/26/2022,Hungary,Italy,0,2,UEFA Nations League,Budapest,Hungary,,FALSE,2
+9/27/2022,Ecuador,Japan,0,0,Kirin Challenge Cup,Düsseldorf,Germany,,TRUE,0
+9/27/2022,Iran,Senegal,1,1,Friendly,Maria Enzersdorf,Austria,,TRUE,0
+9/27/2022,South Korea,Cameroon,1,0,Friendly,Seoul,South Korea,,FALSE,-1
+9/27/2022,Mexico,Colombia,2,3,Friendly,Santa Clara,United States,,TRUE,1
+9/27/2022,Paraguay,Morocco,0,0,Friendly,Sevilla,Spain,,TRUE,0
+9/27/2022,Portugal,Spain,0,1,UEFA Nations League,Braga,Portugal,,FALSE,1
+11/16/2022,Mexico,Sweden,1,2,Friendly,Girona,Spain,,TRUE,1
+11/16/2022,Poland,Chile,1,0,Friendly,Warsaw,Poland,,FALSE,-1
+11/18/2022,Egypt,Belgium,2,1,Friendly,Kuwait City,Kuwait,,TRUE,-1
+11/20/2022,Austria,Italy,2,0,Friendly,Vienna,Austria,,FALSE,-2
+11/21/2022,Senegal,Netherlands,0,2,FIFA World Cup,Doha,Qatar,Asia,TRUE,2
+11/21/2022,England,Iran,6,2,FIFA World Cup,Al Rayyan,Qatar,Asia,TRUE,-4
+11/22/2022,Mexico,Poland,0,0,FIFA World Cup,Doha,Qatar,Asia,TRUE,0
+11/22/2022,France,Australia,4,1,FIFA World Cup,Al Wakrah,Qatar,Asia,TRUE,-3
+11/23/2022,Germany,Japan,1,2,FIFA World Cup,Al Rayyan,Qatar,Asia,TRUE,1
+11/23/2022,Spain,Costa Rica,7,0,FIFA World Cup,Doha,Qatar,Asia,TRUE,-7
+11/23/2022,Morocco,Croatia,0,0,FIFA World Cup,Al Khor,Qatar,Asia,TRUE,0
+11/24/2022,Switzerland,Cameroon,1,0,FIFA World Cup,Al Wakrah,Qatar,Asia,TRUE,-1
+11/24/2022,Uruguay,South Korea,0,0,FIFA World Cup,Al Rayyan,Qatar,Asia,TRUE,0
+11/25/2022,Netherlands,Ecuador,1,1,FIFA World Cup,Al Rayyan,Qatar,Asia,TRUE,0
+11/25/2022,England,United States,0,0,FIFA World Cup,Al Khor,Qatar,Asia,TRUE,0
+11/26/2022,Argentina,Mexico,2,0,FIFA World Cup,Lusail,Qatar,Asia,TRUE,-2
+11/27/2022,Japan,Costa Rica,0,1,FIFA World Cup,Al Rayyan,Qatar,Asia,TRUE,1
+11/27/2022,Spain,Germany,1,1,FIFA World Cup,Al Khor,Qatar,Asia,TRUE,0
+11/27/2022,Belgium,Morocco,0,2,FIFA World Cup,Doha,Qatar,Asia,TRUE,2
+11/28/2022,Brazil,Switzerland,1,0,FIFA World Cup,Doha,Qatar,Asia,TRUE,-1
+11/28/2022,Portugal,Uruguay,2,0,FIFA World Cup,Lusail,Qatar,Asia,TRUE,-2
+11/29/2022,Ecuador,Senegal,1,2,FIFA World Cup,Al Rayyan,Qatar,Asia,TRUE,1
+11/29/2022,Iran,United States,0,1,FIFA World Cup,Doha,Qatar,Asia,TRUE,1
+11/30/2022,Poland,Argentina,0,2,FIFA World Cup,Doha,Qatar,Asia,TRUE,2
+12/1/2022,Japan,Spain,2,1,FIFA World Cup,Al Rayyan,Qatar,Asia,TRUE,-1
+12/1/2022,Costa Rica,Germany,2,4,FIFA World Cup,Al Khor,Qatar,Asia,TRUE,2
+12/1/2022,Croatia,Belgium,0,0,FIFA World Cup,Al Rayyan,Qatar,Asia,TRUE,0
