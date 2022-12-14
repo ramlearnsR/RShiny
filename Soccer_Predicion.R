@@ -1,6 +1,3 @@
-
-
-
 # Import libraries
 library(tidyverse)
 library(shiny)
@@ -11,30 +8,15 @@ library(randomForest)
 
 
 # Read data
-soccer <- read.csv(file = "C:/Users/srira/OneDrive/Documents/R/work_dir/results_1.csv") 
+soccer <- read.csv(file = "C:/Users/narays64/OneDrive - Pfizer/Desktop/R mini/Shiny/work_dir/soccer_up.csv") 
 soccer_1 <- soccer %>%
-  filter (tournament == 'FIFA World Cup' &(home_team %in% c("Brazil", "Portugal", "Argentina", "Morocco", "France", "Netherlands", "England", "Croatia") & away_team %in% c("Brazil", "Portugal", "Argentina", "Morocco", "France", "Netherlands", "England", "Croatia") )) %>%
   mutate (WinTeam= case_when(Winner > 0 ~ 'Away',
                              Winner < 0 ~ 'Home',
                              Winner == '0' ~ 'Draw')) %>%
   select('home_team', 'away_team',  'neutral', 'WinTeam') 
 
-
-
-soccer_1$WinTeam <- factor(soccer_1$WinTeam, levels = c("Away", "Draw", "Home"))
-soccer_1$home_team <- factor(soccer_1$home_team, levels = c( "Argentina","Brazil",  "Croatia", "England","France", "Morocco", "Netherlands", "Portugal"))
-soccer_1$away_team <- factor(soccer_1$away_team, levels = c( "Argentina","Brazil", "Croatia",  "England","France", "Morocco", "Netherlands", "Portugal"))
-#soccer_1$country <- factor(soccer_1$country, levels = c(unique(soccer_1$country)))
-#soccer_1$Continent <- factor(soccer_1$Continent, levels = c(unique(soccer_1$Continent)))
-soccer_1$neutral <- factor(soccer_1$neutral, levels = c( "TRUE", "FALSE"))
-# Build model
-model <- randomForest (WinTeam ~ ., data = soccer_1, ntree = 500, mtry = 3, importance = TRUE)
-
-# Save model to RDS file
-#saveRDS(model, "model.rds")
-
 # Read in the RF model
-#model <- readRDS("model.rds")
+model <- readRDS("soccer.rds")
 
 ####################################
 # User interface                   #
@@ -50,11 +32,11 @@ ui <- fluidPage(theme = shinytheme("united"),
                   HTML("<h3>Input parameters</h3>"),
                   
                   selectInput("home_team", label = "Home_team:", 
-                              choices = list("Argentina"="Argentina","Brazil"="Brazil", "Croatia"="Croatia", "England"="England","France"="France", "Morocco"="Morocco", "Netherlands"="Netherlands", "Portugal"="Portugal"), 
-                              selected = "Argentina"),
+                              choices = c("All", as.character(unique(soccer_1$home_team)) 
+                                                  )),
                   selectInput("away_team", label = "Away_team:", 
-                              choices = list("Argentina"="Argentina","Brazil"="Brazil", "Croatia"="Croatia", "England"="England","France"="France", "Morocco"="Morocco", "Netherlands"="Netherlands", "Portugal"="Portugal"), 
-                              selected = "Brazil"),
+                              choices = c("All", as.character(unique(soccer_1$away_team))
+                              )),
                   #selectInput("country", label = "Host_country:", 
                   #           choices = c("All", unique(soccer_1$country) 
                   #          )),
@@ -106,13 +88,10 @@ server <- function(input, output, session) {
     
     test <- read.csv(paste("input_1", ".csv", sep=""), header = TRUE)
     
-    test$home_team <- factor(test$home_team, levels = c( "Argentina","Brazil", "Croatia", "England","France", "Morocco", "Netherlands", "Portugal"))
-    test$away_team <- factor(test$away_team, levels = c( "Argentina","Brazil", "Croatia", "England","France", "Morocco", "Netherlands", "Portugal"))
-    #test$country <- factor(test$country, levels = c(unique(soccer_1$country)))
-    #test$Continent <- factor(test$Continent, levels = c(unique(soccer_1$Continent)))
+    test$home_team <- factor(test$home_team, levels=( c(as.character(unique(soccer_1$home_team)) )))
+    test$away_team <- factor(test$away_team, levels=( c(as.character(unique(soccer_1$away_team)) )))
     test$neutral <- factor(test$neutral, levels = c("TRUE", "FALSE"))
-    #test$WinTeam <- factor(test$WinTeam, levels = c("Away", "Draw", "Home"))
-    
+
     Output <- data.frame(Prediction=predict(model,test), round(predict(model,test,type="prob"), 3))
     print(Output)
     
